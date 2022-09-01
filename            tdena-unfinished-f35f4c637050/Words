@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Words
+{
+   public static void main(String[] args)
+   {
+      Scanner in = new Scanner(System.in);
+      System.out.println("Enter a string on each line. Enter \"end\" to terminate input.");
+      
+      String out = "";
+      while(true)
+      {
+         String word = in.nextLine();
+         
+         if(word.equals("end"))
+         {
+            break;
+         }
+         
+         out = out + word;
+      }
+      
+      System.out.println(out);
+   }
+}
