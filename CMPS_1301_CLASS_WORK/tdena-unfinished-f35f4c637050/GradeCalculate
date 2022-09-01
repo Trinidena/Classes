@@ -1,0 +1,26 @@
+import java.util.Scanner;
+public class AverageGrade
+{
+   public static void main(String[] args)
+   {
+      Scanner in = new Scanner(System.in);
+      
+      int total = 0;
+      int count = 0;
+      
+      while(true)
+      {
+         System.out.println("Enter a grade. Enter -1 to quit.");
+         int grade = in.nextInt();
+         if(grade == -1)
+         {
+            break;
+         }
+         total = total + grade;
+         count++;
+      
+      }
+      
+      System.out.println(total/(count + 0.0));
+   }
+}
