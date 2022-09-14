@@ -1,0 +1,20 @@
+public abstract class Vehicle
+{
+   protected String manufacturer;
+   protected String model;
+   protected int year;
+   
+   public Vehicle(String manufacturer , String model , int year)
+   {
+      this.manufacturer = manufacturer;
+      this.model = model;
+      this.year = year;
+   }
+   
+   @Override
+   public String toString()
+   {
+      return String.format("Manufacturer: %s , Model: %s m Year: %d" , manufacturer , model , year);
+   }
+   
+   public abstract int numberWheels();
