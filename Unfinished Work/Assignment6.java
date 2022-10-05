@@ -18,32 +18,25 @@ public class Assignment6
       String out = ""; //
       int count = 0;
       
-      while(true)
-      {
-         String word = in.nextLine();
+      String word = in.nextLine();
          
-         if(word.equals("end"))
-         {
-            break;
-         }
-         out = out + word;
-         count++;
-      }
-      
+      out = out + word;
+            
       System.out.println(out);
             
-      try (FileWriter output = new FileWriter(fileName); //
+      try (//FileWriter output = new FileWriter(fileName); //
            FileWriter answer = new FileWriter("answer.txt");
-           FileReader input = new FileReader(fileName))
+           FileReader input = new FileReader(fileName);
+           BufferedReader br = new BufferedReader(input))
       { 
-         output.write(out); //
+         //output.write(out); //
             
-         int nextCharacter = input.read(); ////
+         String nextCharacter = br.readLine(); ////
                   
-         while(nextCharacter != -1) ////
+         while(nextCharacter != null) ////
          {
-            System.out.print((char)nextCharacter);
-            nextCharacter = input.read();
+            System.out.print(nextCharacter);
+            nextCharacter = br.readLine();
             count = count++;
          }
          answer.write(String.valueOf(count));
