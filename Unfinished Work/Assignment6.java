@@ -22,13 +22,13 @@ public class Assignment6
       { 
          String line = br.readLine();
          int count = 0;
-         while(line != null)
+         while(line != null) 
          {
             System.out.print(line);
-            for(int i = 0; i < line.length() - value.length(); i++)
+            for(int i = 0; i < line.length() + 1 - value.length(); i++)
             {
                {
-                  if(line.substring(i , i + value.length()).contains(value))
+                  if(line.substring(i , i + value.length()).equals(value))
                   {
                      count++;
                   }
