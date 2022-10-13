@@ -1,6 +1,6 @@
 public class MyList<T>
 {
-   public T[] data;
+   private T[] data;
    
    @SuppressWarnings("unchecked")
    public MyList()
@@ -10,8 +10,10 @@ public class MyList<T>
    
    public void add(T data , int position)
    {
-      if(position < 0 || position > 50)
+      if(position < 0 || position > 49)
       {
+         System.out.println("Index out of bounds.");
+         
          throw new IndexOutOfBoundsException();
       }      
       this.data[position] = data;
