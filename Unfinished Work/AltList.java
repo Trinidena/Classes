@@ -36,7 +36,9 @@ public class AltList<E>
    {
       if(head == null)
       {
-         head = new Node(element);
+         //tail = new Node(element);
+         head = new Node(element , tail);
+         //tail = new Node(element , head.next);// delete
       }
       else
       {
@@ -46,7 +48,8 @@ public class AltList<E>
             node = node.next;
          }
          node.next = new Node(element);
-         tail = node.next;
+         //tail.next = new Node(element);
+         //tail = head.next;
         
       }
       size++;
