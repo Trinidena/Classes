@@ -1,4 +1,4 @@
-public class AltList2<E>
+public class AltList<E>
 {
    private class Node
    {
