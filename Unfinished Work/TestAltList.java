@@ -4,7 +4,7 @@ public class TestAltList
 {
    public static void main(String[] args)
    {
-      AltList<String> words = new AltList<>();
+      AltList2<String> words = new AltList2<>();
       for(int i = 0; i < 4; i++)
       {
          words.addBeginning(Character.toString((char)(i + 94)));

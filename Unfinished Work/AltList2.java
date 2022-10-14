@@ -1,4 +1,4 @@
-public class AltList<E>
+public class AltList2<E>
 {
    private class Node
    {
@@ -25,8 +25,16 @@ public class AltList<E>
    /* TODO: This method should add the element to the beginning of 
             of the list and increase the size of the list by one. */
    public void addBeginning(E element)
-   {
-      head = new Node(element , head);    
+   {  
+      Node newNode = new Node(element , head);
+      if(head == null)
+      {
+         head = tail = newNode;
+      }
+      else
+      {
+         head = newNode;
+      }
       size++;
    }
 
@@ -34,23 +42,15 @@ public class AltList<E>
             of the list and increase the size of the list by one. */   
    public void addEnd(E element)
    {
+      Node newNode = new Node(element);
       if(head == null)
       {
-         //tail = new Node(element);
-         head = new Node(element , tail);
-         //tail = new Node(element , head.next);// delete
+         head = tail = newNode;   
       }
       else
       {
-         Node tail = head;
-         while(tail.next != null)
-         {
-            tail = tail.next;
-         }
-         tail.next = new Node(element);
-         //tail.next = new Node(element);
-         //tail = head.next;
-        
+         tail.next = newNode;
+         tail = newNode;
       }
       size++;
    }
