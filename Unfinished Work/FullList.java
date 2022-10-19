@@ -10,18 +10,6 @@ public class FullList<E>
       {
          this.element = element;
       }
-      
-      public Node(E element , Node next)
-      {
-         this.element = element;
-         this.next = next; 
-      }
-      
-      public Node(E element , Node next , Node prev)
-      {
-         this(element , next);
-         this.prev = prev; 
-      }
    }
    
    private Node head;
@@ -39,31 +27,39 @@ public class FullList<E>
             head and tail variables should be set correctly. */
    public void addBeginning(E element)
    {  
-      Node newNode = new Node(element , head);
+      Node newNode = new Node(element);
       if(head == null)
       {
          head = tail = newNode;
       }
       else
       {
-         head = newNode;
+         head.next = head;
+         head = newNode;  
       }
       size++;
    }
    /* TODO: This method should insert the element at the given index.
             The size of the should increase by one.  The head and tail
             variables should be set correctly. */
-   public void addMiddle(int index , E element)
+   public void addMiddle(int index, E element)
    {
-      Node newNode = new Node(element , head);
       if(index == 0)
       {
-         head = tail = newNode;
+         head.next = head;
+         head.prev = null;
+         head = new Node(element);
+      }
+      if(index == size)
+      {
+         tail.prev = tail;
+         tail.next = new Node(element);
+         tail = tail.next;
       }
       else
-      {  
-         Node nodeBefore = getNode(index - 1);
-         nodeBefore.next = new Node(element, nodeBefore.next);
+      {
+         Node node = getNode(index - 1);
+         node.next = new Node(element);
       }
       size++;
    }
@@ -81,6 +77,7 @@ public class FullList<E>
       }
       else
       {
+         tail.prev = tail;
          tail.next = newNode;
          tail = newNode;
       }
