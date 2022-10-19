@@ -34,8 +34,9 @@ public class FullList<E>
       }
       else
       {
-         head.next = head;
-         head = newNode;  
+         head.prev = newNode;
+         newNode.next = head;  
+         head = newNode;
       }
       size++;
    }
@@ -77,8 +78,8 @@ public class FullList<E>
       }
       else
       {
-         tail.prev = tail;
          tail.next = newNode;
+         newNode.prev = tail;
          tail = newNode;
       }
       size++;
