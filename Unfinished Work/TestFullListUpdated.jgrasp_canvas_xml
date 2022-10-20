@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="1">
+    <Name>addBeginning</Name>
+    <Signature>(Ljava/lang/Object;)V</Signature>
+    <DeclaringType>FullList</DeclaringType>
+    <Depth>1</Depth>
+  </Scope>
+  <Scope id="2">
+    <Name>addMiddle</Name>
+    <Signature>(ILjava/lang/Object;)V</Signature>
+    <DeclaringType>FullList</DeclaringType>
+    <Depth>1</Depth>
+  </Scope>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>TestFullListUpdated</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>20</X>
+      <Y>410</Y>
+      <W>698</W>
+      <H>278</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers.java__lang__Object_LinkedView0</Key>
+      <Order>4</Order>
+      <W>704</W>
+      <H>308</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local FullList` numbers</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Round>false</Round>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>20</X>
+      <Y>680</Y>
+      <W>632</W>
+      <H>146</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>1</ScopeID>
+      <Expression>`local FullList$Node` newNode</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+                                                        
+        
+        
+        
+        
+        
+        <ViewData>
+                                                                      
+          
+          
+          
+          
+          
+          <Round>false</Round>
+                                                                    
+        
+        
+        
+        
+        
+        </ViewData>
+                                                      
+      
+      
+      
+      
+      
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>20</X>
+      <Y>28</Y>
+      <W>698</W>
+      <H>360</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers.java__lang__Object_LinkedView0</Key>
+      <Order>4</Order>
+      <W>704</W>
+      <H>390</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local FullList` words</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Round>false</Round>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>20</X>
+      <Y>820</Y>
+      <W>638</W>
+      <H>246</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers.java__lang__Object_LinkedView0</Key>
+      <Order>4</Order>
+      <W>644</W>
+      <H>276</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>2</ScopeID>
+      <Expression>`local FullList$Node` node</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Round>false</Round>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>744</W>
+    <H>900</H>
+  </Size>
+  <ESize>
+    <W>744</W>
+    <H>900</H>
+  </ESize>
+</Canvas>

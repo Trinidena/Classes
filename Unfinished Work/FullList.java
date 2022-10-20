@@ -45,13 +45,14 @@ public class FullList<E>
             variables should be set correctly. */
    public void addMiddle(int index, E element)
    {
+      Node newNode = new Node(element);
       if(index == 0)
       {
-         head.next = head;
-         head.prev = null;
-         head = new Node(element);
+         head.prev = newNode;
+         newNode.next = head;
+         head = newNode;
       }
-      if(index == size)
+      else if(index == size)
       {
          tail.prev = tail;
          tail.next = new Node(element);
@@ -60,7 +61,11 @@ public class FullList<E>
       else
       {
          Node node = getNode(index - 1);
-         node.next = new Node(element);
+         newNode.next = node.next;
+         newNode.prev = node;
+         node.next = newNode;
+         node = node.next.next;
+         node.prev = newNode;
       }
       size++;
    }
