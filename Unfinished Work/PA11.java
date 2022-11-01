@@ -36,7 +36,7 @@ public class PA11 extends Application
       Scene scene = new Scene(root , 650 , 400); 
       
       stage.setScene(scene);
-      stage.setTitle("Programming Assignment 11");
+      //stage.setTitle("Programming Assignment 11");
       stage.show();
       
    }
