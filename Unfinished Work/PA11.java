@@ -22,10 +22,10 @@ public class PA11 extends Application
       TextField t1 = new TextField("TextField 1");
       TextField t2 = new TextField("TextField 2");
       
-      title.setAlignment(Pos.CENTER);
       vbox.getChildren().addAll(b0 , b1 , b2);
       hbox.getChildren().addAll(t1 , t2);
       title.getChildren().addAll(label);
+      title.setAlignment(Pos.CENTER);
       
       root.setTop(title);
       root.setCenter(hbox);
