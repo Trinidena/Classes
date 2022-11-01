@@ -12,22 +12,23 @@ public class PA11 extends Application
       BorderPane root = new BorderPane();
       VBox vbox = new VBox();
       HBox hbox = new HBox();
-      HBox title = new HBox();
+      //HBox title = new HBox();
        
       Label label = new Label("JavaFX Layouts");
       Button b0 = new Button("Button 0");
       Button b1 = new Button("Button 1");
-      b1.setMinWidth(64); // Without this the button is uneven
+      b1.setMinWidth(64); // Without this the button is uneven 
       Button b2 = new Button("Button 2");
       TextField t1 = new TextField("TextField 1");
       TextField t2 = new TextField("TextField 2");
       
       vbox.getChildren().addAll(b0 , b1 , b2);
       hbox.getChildren().addAll(t1 , t2);
-      title.getChildren().addAll(label);
-      title.setAlignment(Pos.CENTER);
+      //title.getChildren().addAll(label);
+      //title.setAlignment(Pos.CENTER);
       
-      root.setTop(title);
+      root.setTop(label);
+      root.setAlignment(label , Pos.CENTER);
       root.setCenter(hbox);
       root.setLeft(vbox);
       root.setMargin(hbox, new Insets(0, 0, 0, 50));
