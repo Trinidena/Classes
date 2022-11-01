@@ -17,7 +17,7 @@ public class PA11 extends Application
       Label label = new Label("JavaFX Layouts");
       Button b0 = new Button("Button 0");
       Button b1 = new Button("Button 1");
-      b1.setMinWidth(64); // Commenting out will make this button uneven for some reason.
+      b1.setMinWidth(64); // Without this the button is uneven
       Button b2 = new Button("Button 2");
       TextField t1 = new TextField("TextField 1");
       TextField t2 = new TextField("TextField 2");
