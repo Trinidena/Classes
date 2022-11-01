@@ -3,25 +3,37 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
-import javafx.geometry.Pos;
+import javafx.geometry.*;
 
 public class PA11 extends Application
 {
    public void start(Stage stage)
    {
       BorderPane root = new BorderPane();
-      HBox hBox = new HBox();
-      
-      
-      
+      VBox vbox = new VBox();
+      HBox hbox = new HBox();
+      HBox title = new HBox();
+       
       Label label = new Label("JavaFX Layouts");
       Button b0 = new Button("Button 0");
       Button b1 = new Button("Button 1");
+      b1.setMinWidth(64); // Commenting out will make this button uneven for some reason.
       Button b2 = new Button("Button 2");
       TextField t1 = new TextField("TextField 1");
       TextField t2 = new TextField("TextField 2");
       
-      Scene scene = new Scene(root , 600 , 400);
+      title.setAlignment(Pos.CENTER);
+      vbox.getChildren().addAll(b0 , b1 , b2);
+      hbox.getChildren().addAll(t1 , t2);
+      title.getChildren().addAll(label);
+      
+      root.setTop(title);
+      root.setCenter(hbox);
+      root.setLeft(vbox);
+      root.setMargin(hbox, new Insets(0, 0, 0, 50));
+      
+      
+      Scene scene = new Scene(root , 650 , 400); 
       
       stage.setScene(scene);
       stage.setTitle("Programming Assignment 11");
