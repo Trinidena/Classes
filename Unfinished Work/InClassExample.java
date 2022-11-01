@@ -1,8 +1,9 @@
 import javafx.application.Application;
-import javafx.scene.*;
 import javafx.scene.Scene;
+import javafx.scene.control.*;
+import javafx.scene.layout.*;
 import javafx.stage.Stage;
-import javafx.scene.layout.Pane;
+import javafx.geometry.Pos;
 
 public class InClassExample extends Application
 {
