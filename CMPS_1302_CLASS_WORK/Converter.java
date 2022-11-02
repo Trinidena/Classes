@@ -20,6 +20,7 @@ public class Converter extends Application
       milesField.relocate(200 , 100);
       kmField.relocate(200 , 200);
       milesField.setOnAction(e -> kmField.setText(convertMilesToKm(milesField.getText())));
+      kmField.setOnAction(e -> milesField.setText(convertKmToMiles(kmField.getText())));
       Scene scene = new Scene(root , 400 , 300);
       stage.setScene(scene);
       stage.setTitle("Converter");
@@ -31,5 +32,11 @@ public class Converter extends Application
       double miles = Double.parseDouble(milesString);
       double km = 1.6 * miles;
       return "" + km;
+   }
+   public String convertKmToMiles(String kmString)
+   {
+      double km = Double.parseDouble(kmString);
+      double miles = 0.6 * km;
+      return "" + miles;
    }
 }
