@@ -19,14 +19,14 @@ public class PA12 extends Application
       TextField acronymField = new TextField();
       
       root.getChildren().addAll(text , acronym , textField , acronymField);
-      text.relocate(100 , 100);
-      acronym.relocate(75 , 200);
+      text.relocate(90 , 100);
+      acronym.relocate(65 , 200);
       textField.relocate(125 , 100);
       acronymField.relocate(125 , 200);
       
       textField.setOnAction(e -> acronymField.setText(makeAcronym(textField.getText())));
       
-      Scene scene = new Scene(root , 600 , 400);
+      Scene scene = new Scene(root , 400 , 400);
       
       stage.setScene(scene);
       stage.show();  
@@ -34,12 +34,15 @@ public class PA12 extends Application
    
    public String makeAcronym(String str)
    {
-      String[] words = textField.getText().split(" ");
-      Map<Integer , String> map = new HashMap<>();
       String out = "";
-      
-      //for
-      return str;
+      String[] words = str.split(" ");
+            
+      for(String word : words)
+      {
+         out = out + word.substring(0 , 1);
+      }
+
+      return out;
    }
 }
 
