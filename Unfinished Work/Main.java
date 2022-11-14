@@ -8,13 +8,13 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
+import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
 
-public class Main extends Application
-{
-   public void start(Stage stage)
-   {
+public class Main extends Application {
+   public void start(Stage stage) {
       FXMLLoader loader = new FXMLLoader.load(getClass().getResource("PA13FXML.fxml"));
-      
+
       Scene scene = new Scene(root);
       stage.setScene(scene);
       stage.show();

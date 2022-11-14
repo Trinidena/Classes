@@ -6,10 +6,8 @@ import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 import javafx.scene.control.Alert.AlertType;
 
-public class Converter extends Application
-{
-   public void start(Stage stage)
-   {
+public class Converter extends Application {
+   public void start(Stage stage) {
       Pane root = new Pane();
       Label milesLabel = new Label("Miles: ");
       milesLabel.relocate(100, 100);
@@ -19,7 +17,7 @@ public class Converter extends Application
       milesField.relocate(200, 100);
       TextField kmField = new TextField();
       kmField.relocate(200, 200);
-      milesField.setOnAction(e -> kmField.setText(convertMilesToKm(milesField.getText() , e , milesField)));
+      milesField.setOnAction(e -> kmField.setText(convertMilesToKm(milesField.getText(), e, milesField)));
       kmField.setOnAction(e -> milesField.setText(convertKmToMiles(kmField.getText())));
       root.getChildren().addAll(milesLabel, kmLabel, milesField, kmField);
       Scene scene = new Scene(root, 400, 300);
@@ -27,20 +25,16 @@ public class Converter extends Application
       stage.setTitle("Converter");
       stage.show();
    }
-   
-   public String convertMilesToKm(String milesString , ActionEvent event, TextField textfield)
-   {
+
+   public String convertMilesToKm(String milesString, ActionEvent event, TextField textfield) {
       Object source = event.getSource();
-      System.out.println(textField);
+      System.out.println(textfield);
       System.out.println(source);
-      System.out.println(source.equals(textField));
+      System.out.println(source.equals(textfield));
       double miles = 0;
-      try
-      {
+      try {
          miles = Double.parseDouble(milesString);
-      }
-      catch(NumberFormatException e)
-      {
+      } catch (NumberFormatException e) {
          Alert alert = new Alert(AlertType.WARNING);
          alert.setTitle("Invalid Input");
          alert.setHeaderText("Invalid Input: " + milesString);
@@ -51,15 +45,12 @@ public class Converter extends Application
       double km = 1.6 * miles;
       return "" + km;
    }
-   public String convertKmToMiles(String kmString)
-   {
+
+   public String convertKmToMiles(String kmString) {
       double kms = 0;
-      try
-      {
+      try {
          kms = Double.parseDouble(kmString);
-      }
-      catch(NumberFormatException e)
-      {
+      } catch (NumberFormatException e) {
          Alert alert = new Alert(AlertType.WARNING);
          alert.setTitle("Invalid Input");
          alert.setHeaderText("Invalid Input: " + kmString);
@@ -70,4 +61,4 @@ public class Converter extends Application
       double miles = 0.6 * kms;
       return "" + miles;
    }
-} 
+}
