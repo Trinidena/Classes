@@ -42,14 +42,14 @@ public class OrderedList<E extends Comparable> extends ArrayList<E>
             {
                mid++;
             }
-            add(mid , element);
+            add(mid, element);
          }
       }
    }
    
    public int sequentialSearch(E element)
    {
-      for(int i = 0; i < size(); i++)
+      for(int i = 0; i < size(); i ++)
       {
          if(get(i).equals(element))
          {
@@ -58,7 +58,7 @@ public class OrderedList<E extends Comparable> extends ArrayList<E>
       }
       return -1;
    }
-   
+
    public int binarySearch(E element)
    {
       int first = 0;

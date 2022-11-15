@@ -13,6 +13,6 @@ public class TestOrderedList
       list.insert("n");
       list.insert("z");
       
-      System.out.println(list);
+      System.out.println(list);                   
    }
 }
