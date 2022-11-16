@@ -4,7 +4,7 @@ public class Rectangle
    private double y;
    private String color;
    
-   public Rectangle(double x , double y , String color)
+   public Rectangle(double x, double y, String color)
    {
       this.x = x;
       this.y = y;

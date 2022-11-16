@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
 <?import javafx.scene.control.ColorPicker?>
 <?import javafx.scene.control.SplitPane?>
 <?import javafx.scene.layout.AnchorPane?>
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PaintController">
    <children>
-      <SplitPane dividerPositions="0.25" layoutX="200.0" layoutY="120.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <SplitPane dividerPositions="0.29797979797979796" layoutX="100.0" layoutY="61.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
         <items>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                <children>
-                  <ColorPicker fx:id="colorPicker" layoutY="1.0" onAction="#handleColorPicker" prefHeight="26.0" prefWidth="125.0" />
+                  <ColorPicker fx:id="colorPicker" layoutX="14.0" layoutY="22.0" onAction="#handleColorPicker" />
+                  <Button fx:id="load" layoutX="62.0" layoutY="168.0" mnemonicParsing="false" onAction="#handleLoad" text="Load" />
+                  <Button fx:id="save" layoutX="62.0" layoutY="231.0" mnemonicParsing="false" onAction="#handleSave" text="Save" />
+                  <Button fx:id="clear" layoutX="62.0" layoutY="293.0" mnemonicParsing="false" onAction="#handleClear" text="Clear" />
                </children>
             </AnchorPane>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                <children>
-                  <Canvas fx:id="canvas" height="400.0" onMouseDragged="#handleMouseDragged" width="445.0" />
+                  <Canvas fx:id="canvas" height="398.0" onMouseDragged="#handleMouseDragged" width="418.0" />
                </children>
             </AnchorPane>
         </items>
