@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseMoved="#handleMouseMoved" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PongController">
+   <children>
+      <Circle fx:id="circle" fill="DODGERBLUE" layoutX="25.0" layoutY="25.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" />
+      <Rectangle fx:id="rectangle" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="22.0" layoutX="14.0" layoutY="214.0" stroke="BLACK" strokeType="INSIDE" width="200.0" />
+   </children>
+</Pane>
