@@ -65,6 +65,7 @@ public class BinaryTree<E>
    {
       MyStack<TNode<E>> stack = new MyStack<>();
       stack.push(root);
+      
       while(!stack.isEmpty())
       {
          TNode<E> node = stack.peek();
