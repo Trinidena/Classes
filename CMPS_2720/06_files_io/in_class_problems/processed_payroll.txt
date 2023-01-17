@@ -1,0 +1,1000 @@
+ID: 13-5726163  Name: Overington, Gill           Hours Worked:  22  Hourly Pay Rate:  15.83  Gross Pay:$  348.26  Net Pay: $327.36
+ID: 17-8199755  Name: Tschierse, Simonette       Hours Worked:  21  Hourly Pay Rate:  14.07  Gross Pay:$  295.47  Net Pay: $277.74
+ID: 41-3379927  Name: MacGovern, Royal           Hours Worked:  21  Hourly Pay Rate:  58.14  Gross Pay:$1,220.94  Net Pay: $1,147.68
+ID: 69-9839672  Name: Tippings, Gunther          Hours Worked:  33  Hourly Pay Rate:  44.94  Gross Pay:$1,483.02  Net Pay: $1,394.04
+ID: 55-5415020  Name: Kurten, Marris             Hours Worked:  34  Hourly Pay Rate:  58.71  Gross Pay:$1,996.14  Net Pay: $1,876.37
+ID: 21-0714750  Name: Castaneda, Fee             Hours Worked:  22  Hourly Pay Rate:  27.41  Gross Pay:$  603.02  Net Pay: $566.84
+ID: 63-2882707  Name: Dolling, Vasili            Hours Worked:  25  Hourly Pay Rate:  18.79  Gross Pay:$  469.75  Net Pay: $441.57
+ID: 54-6240208  Name: Sparkwell, Keary           Hours Worked:  21  Hourly Pay Rate:  58.62  Gross Pay:$1,231.02  Net Pay: $1,157.16
+ID: 15-7529028  Name: Dingsdale, Katleen         Hours Worked:  19  Hourly Pay Rate:  44.51  Gross Pay:$  845.69  Net Pay: $794.95
+ID: 47-3779943  Name: Pitkethly, Brittne         Hours Worked:  24  Hourly Pay Rate:  42.25  Gross Pay:$1,014.00  Net Pay: $953.16
+ID: 70-0909305  Name: Travis, Kalina             Hours Worked:  35  Hourly Pay Rate:  44.24  Gross Pay:$1,548.40  Net Pay: $1,455.50
+ID: 50-6674885  Name: Greenhouse, Dwayne         Hours Worked:  24  Hourly Pay Rate:  34.32  Gross Pay:$  823.68  Net Pay: $774.26
+ID: 31-8343103  Name: Winsper, Rick              Hours Worked:  18  Hourly Pay Rate:  16.47  Gross Pay:$  296.46  Net Pay: $278.67
+ID: 18-8528265  Name: Btham, Valerie             Hours Worked:  39  Hourly Pay Rate:  44.69  Gross Pay:$1,742.91  Net Pay: $1,638.34
+ID: 49-4248167  Name: MacGiany, Gerrie           Hours Worked:  28  Hourly Pay Rate:  32.58  Gross Pay:$  912.24  Net Pay: $857.51
+ID: 89-8775898  Name: Simco, Alia                Hours Worked:  39  Hourly Pay Rate:  26.97  Gross Pay:$1,051.83  Net Pay: $988.72
+ID: 87-8121204  Name: Runnacles, Nadia           Hours Worked:  18  Hourly Pay Rate:  43.88  Gross Pay:$  789.84  Net Pay: $742.45
+ID: 44-1529953  Name: Griss, Culver              Hours Worked:  30  Hourly Pay Rate:  55.16  Gross Pay:$1,654.80  Net Pay: $1,555.51
+ID: 94-4061248  Name: Hamper, Sharia             Hours Worked:  15  Hourly Pay Rate:  40.36  Gross Pay:$  605.40  Net Pay: $569.08
+ID: 71-8419046  Name: de Vaen, Cinda             Hours Worked:  27  Hourly Pay Rate:  53.23  Gross Pay:$1,437.21  Net Pay: $1,350.98
+ID: 22-0428214  Name: Acum, Hilton               Hours Worked:  23  Hourly Pay Rate:  51.11  Gross Pay:$1,175.53  Net Pay: $1,105.00
+ID: 46-1249246  Name: Blaza, Farleigh            Hours Worked:  29  Hourly Pay Rate:  45.10  Gross Pay:$1,307.90  Net Pay: $1,229.43
+ID: 27-4771743  Name: Huebner, Adrian            Hours Worked:  16  Hourly Pay Rate:  51.07  Gross Pay:$  817.12  Net Pay: $768.09
+ID: 23-5616121  Name: Ramiro, Idelle             Hours Worked:  15  Hourly Pay Rate:  56.23  Gross Pay:$  843.45  Net Pay: $792.84
+ID: 17-7338470  Name: Ferri, Bria                Hours Worked:  40  Hourly Pay Rate:  19.29  Gross Pay:$  771.60  Net Pay: $725.30
+ID: 40-9231976  Name: Cattlow, Bari              Hours Worked:  21  Hourly Pay Rate:  19.36  Gross Pay:$  406.56  Net Pay: $382.17
+ID: 87-5332576  Name: Fereday, Eryn              Hours Worked:  28  Hourly Pay Rate:  32.83  Gross Pay:$  919.24  Net Pay: $864.09
+ID: 15-3090301  Name: Purrington, Nathanial      Hours Worked:  34  Hourly Pay Rate:  16.18  Gross Pay:$  550.12  Net Pay: $517.11
+ID: 35-0181086  Name: Kynd, Dierdre              Hours Worked:  28  Hourly Pay Rate:  50.48  Gross Pay:$1,413.44  Net Pay: $1,328.63
+ID: 52-9341334  Name: Galiero, Devlin            Hours Worked:  17  Hourly Pay Rate:  51.14  Gross Pay:$  869.38  Net Pay: $817.22
+ID: 48-9872350  Name: Peerman, Waylon            Hours Worked:  20  Hourly Pay Rate:  14.79  Gross Pay:$  295.80  Net Pay: $278.05
+ID: 63-4744021  Name: Lawless, Manny             Hours Worked:  33  Hourly Pay Rate:  45.12  Gross Pay:$1,488.96  Net Pay: $1,399.62
+ID: 01-7993098  Name: Brise, Kristal             Hours Worked:  35  Hourly Pay Rate:  31.27  Gross Pay:$1,094.45  Net Pay: $1,028.78
+ID: 37-9615047  Name: Clawley, Chloette          Hours Worked:  25  Hourly Pay Rate:  48.65  Gross Pay:$1,216.25  Net Pay: $1,143.27
+ID: 08-2542878  Name: Sabben, Mariska            Hours Worked:  28  Hourly Pay Rate:  48.69  Gross Pay:$1,363.32  Net Pay: $1,281.52
+ID: 99-0742605  Name: Wildgoose, Francisca       Hours Worked:  36  Hourly Pay Rate:  36.51  Gross Pay:$1,314.36  Net Pay: $1,235.50
+ID: 08-8458979  Name: Jaquin, Mamie              Hours Worked:  16  Hourly Pay Rate:  10.93  Gross Pay:$  174.88  Net Pay: $164.39
+ID: 26-0238202  Name: Tolwood, Hillie            Hours Worked:  19  Hourly Pay Rate:  35.45  Gross Pay:$  673.55  Net Pay: $633.14
+ID: 85-2589050  Name: Southan, Avril             Hours Worked:  33  Hourly Pay Rate:  51.96  Gross Pay:$1,714.68  Net Pay: $1,611.80
+ID: 00-3378317  Name: Mitchel, Reinwald          Hours Worked:  27  Hourly Pay Rate:  49.39  Gross Pay:$1,333.53  Net Pay: $1,253.52
+ID: 36-3344934  Name: Billsberry, Gay            Hours Worked:  34  Hourly Pay Rate:  50.91  Gross Pay:$1,730.94  Net Pay: $1,627.08
+ID: 41-6680696  Name: Hardistry, Duff            Hours Worked:  29  Hourly Pay Rate:  32.40  Gross Pay:$  939.60  Net Pay: $883.22
+ID: 67-1053075  Name: Avraham, Moyna             Hours Worked:  37  Hourly Pay Rate:  33.42  Gross Pay:$1,236.54  Net Pay: $1,162.35
+ID: 11-1940536  Name: Ivanichev, Allegra         Hours Worked:  29  Hourly Pay Rate:  56.78  Gross Pay:$1,646.62  Net Pay: $1,547.82
+ID: 69-5840841  Name: Proschke, Aurie            Hours Worked:  17  Hourly Pay Rate:  17.30  Gross Pay:$  294.10  Net Pay: $276.45
+ID: 89-1070215  Name: Hargrove, John             Hours Worked:  33  Hourly Pay Rate:  18.27  Gross Pay:$  602.91  Net Pay: $566.74
+ID: 07-9475240  Name: Favell, Pascale            Hours Worked:  18  Hourly Pay Rate:  16.27  Gross Pay:$  292.86  Net Pay: $275.29
+ID: 38-4304490  Name: Carvil, Kathleen           Hours Worked:  26  Hourly Pay Rate:  59.64  Gross Pay:$1,550.64  Net Pay: $1,457.60
+ID: 78-5929168  Name: Halden, Rudd               Hours Worked:  19  Hourly Pay Rate:  32.00  Gross Pay:$  608.00  Net Pay: $571.52
+ID: 90-8293438  Name: Kornalik, Gunilla          Hours Worked:  40  Hourly Pay Rate:  19.76  Gross Pay:$  790.40  Net Pay: $742.98
+ID: 32-7213777  Name: Willbourne, Ollie          Hours Worked:  23  Hourly Pay Rate:  13.38  Gross Pay:$  307.74  Net Pay: $289.28
+ID: 98-2314146  Name: Kivell, Manolo             Hours Worked:  26  Hourly Pay Rate:  40.47  Gross Pay:$1,052.22  Net Pay: $989.09
+ID: 30-3965800  Name: Sermin, Emmery             Hours Worked:  20  Hourly Pay Rate:  42.72  Gross Pay:$  854.40  Net Pay: $803.14
+ID: 22-1241085  Name: Mattia, Chelsy             Hours Worked:  23  Hourly Pay Rate:  52.02  Gross Pay:$1,196.46  Net Pay: $1,124.67
+ID: 85-4059084  Name: Edkins, Henrieta           Hours Worked:  36  Hourly Pay Rate:  10.63  Gross Pay:$  382.68  Net Pay: $359.72
+ID: 18-0960084  Name: Truesdale, Cleve           Hours Worked:  37  Hourly Pay Rate:  54.71  Gross Pay:$2,024.27  Net Pay: $1,902.81
+ID: 45-0487814  Name: Phizacklea, Zebulon        Hours Worked:  29  Hourly Pay Rate:  51.15  Gross Pay:$1,483.35  Net Pay: $1,394.35
+ID: 41-4430328  Name: Vassie, Willis             Hours Worked:  31  Hourly Pay Rate:  19.93  Gross Pay:$  617.83  Net Pay: $580.76
+ID: 58-1787322  Name: Jozwicki, Jillayne         Hours Worked:  27  Hourly Pay Rate:  57.34  Gross Pay:$1,548.18  Net Pay: $1,455.29
+ID: 95-5556772  Name: Brydie, Giulia             Hours Worked:  36  Hourly Pay Rate:  39.02  Gross Pay:$1,404.72  Net Pay: $1,320.44
+ID: 24-9276370  Name: McCart, Orel               Hours Worked:  40  Hourly Pay Rate:  48.53  Gross Pay:$1,941.20  Net Pay: $1,824.73
+ID: 15-9464625  Name: Plampeyn, Ken              Hours Worked:  37  Hourly Pay Rate:  11.77  Gross Pay:$  435.49  Net Pay: $409.36
+ID: 11-0987272  Name: Lott, Ilyssa               Hours Worked:  22  Hourly Pay Rate:  21.18  Gross Pay:$  465.96  Net Pay: $438.00
+ID: 94-3890216  Name: Mawhinney, Velvet          Hours Worked:  37  Hourly Pay Rate:  28.96  Gross Pay:$1,071.52  Net Pay: $1,007.23
+ID: 75-4030532  Name: Putton, Aundrea            Hours Worked:  34  Hourly Pay Rate:  54.72  Gross Pay:$1,860.48  Net Pay: $1,748.85
+ID: 05-1119176  Name: Bellany, Erica             Hours Worked:  18  Hourly Pay Rate:  38.32  Gross Pay:$  689.76  Net Pay: $648.37
+ID: 68-1218171  Name: Preble, Ebeneser           Hours Worked:  25  Hourly Pay Rate:  31.90  Gross Pay:$  797.50  Net Pay: $749.65
+ID: 72-9105917  Name: Hares, Arlene              Hours Worked:  24  Hourly Pay Rate:  36.58  Gross Pay:$  877.92  Net Pay: $825.24
+ID: 76-9885380  Name: Hebbs, Catlin              Hours Worked:  26  Hourly Pay Rate:  32.57  Gross Pay:$  846.82  Net Pay: $796.01
+ID: 45-5985290  Name: Duffit, Valdemar           Hours Worked:  29  Hourly Pay Rate:  54.80  Gross Pay:$1,589.20  Net Pay: $1,493.85
+ID: 30-1690274  Name: Basile, Pearce             Hours Worked:  19  Hourly Pay Rate:  49.54  Gross Pay:$  941.26  Net Pay: $884.78
+ID: 48-4177294  Name: Dilke, Tommy               Hours Worked:  35  Hourly Pay Rate:  47.08  Gross Pay:$1,647.80  Net Pay: $1,548.93
+ID: 57-1533476  Name: Childs, Avie               Hours Worked:  37  Hourly Pay Rate:  28.23  Gross Pay:$1,044.51  Net Pay: $981.84
+ID: 10-0321410  Name: Cheetam, Leslie            Hours Worked:  39  Hourly Pay Rate:  45.40  Gross Pay:$1,770.60  Net Pay: $1,664.36
+ID: 27-4611896  Name: Fleischer, Danika          Hours Worked:  18  Hourly Pay Rate:  30.94  Gross Pay:$  556.92  Net Pay: $523.50
+ID: 93-7594120  Name: Keatley, Rahal             Hours Worked:  22  Hourly Pay Rate:  19.82  Gross Pay:$  436.04  Net Pay: $409.88
+ID: 35-7618206  Name: Balston, Shep              Hours Worked:  40  Hourly Pay Rate:  11.62  Gross Pay:$  464.80  Net Pay: $436.91
+ID: 38-3921721  Name: Wittman, Cloe              Hours Worked:  32  Hourly Pay Rate:  19.30  Gross Pay:$  617.60  Net Pay: $580.54
+ID: 89-4652806  Name: Cure, Luisa                Hours Worked:  38  Hourly Pay Rate:  15.27  Gross Pay:$  580.26  Net Pay: $545.44
+ID: 05-1506824  Name: Tomala, Dorothea           Hours Worked:  22  Hourly Pay Rate:  35.82  Gross Pay:$  788.04  Net Pay: $740.76
+ID: 75-2767842  Name: O'Mannion, Ola             Hours Worked:  20  Hourly Pay Rate:  48.44  Gross Pay:$  968.80  Net Pay: $910.67
+ID: 94-2594033  Name: De Francisci, Haze         Hours Worked:  39  Hourly Pay Rate:  30.40  Gross Pay:$1,185.60  Net Pay: $1,114.46
+ID: 23-4581607  Name: Dincey, Lilllie            Hours Worked:  33  Hourly Pay Rate:  59.92  Gross Pay:$1,977.36  Net Pay: $1,858.72
+ID: 20-9156130  Name: Muncer, Sansone            Hours Worked:  24  Hourly Pay Rate:  41.92  Gross Pay:$1,006.08  Net Pay: $945.72
+ID: 24-4024104  Name: Fevers, Jacquette          Hours Worked:  31  Hourly Pay Rate:  38.22  Gross Pay:$1,184.82  Net Pay: $1,113.73
+ID: 13-6652118  Name: Hanton, Alejoa             Hours Worked:  36  Hourly Pay Rate:  45.66  Gross Pay:$1,643.76  Net Pay: $1,545.13
+ID: 98-7924308  Name: Maxstead, Monique          Hours Worked:  28  Hourly Pay Rate:  30.78  Gross Pay:$  861.84  Net Pay: $810.13
+ID: 54-3627215  Name: Clementet, Leisha          Hours Worked:  23  Hourly Pay Rate:  52.27  Gross Pay:$1,202.21  Net Pay: $1,130.08
+ID: 50-9345777  Name: Letson, Geno               Hours Worked:  34  Hourly Pay Rate:  43.73  Gross Pay:$1,486.82  Net Pay: $1,397.61
+ID: 27-0230005  Name: Britland, Randie           Hours Worked:  26  Hourly Pay Rate:  22.21  Gross Pay:$  577.46  Net Pay: $542.81
+ID: 98-2119514  Name: Blaschek, Otha             Hours Worked:  32  Hourly Pay Rate:  56.15  Gross Pay:$1,796.80  Net Pay: $1,688.99
+ID: 00-0233873  Name: Mounch, Karel              Hours Worked:  29  Hourly Pay Rate:  44.78  Gross Pay:$1,298.62  Net Pay: $1,220.70
+ID: 66-2302173  Name: Le Claire, Martguerita     Hours Worked:  31  Hourly Pay Rate:  43.41  Gross Pay:$1,345.71  Net Pay: $1,264.97
+ID: 81-5894229  Name: Sommers, Abagail           Hours Worked:  17  Hourly Pay Rate:  50.34  Gross Pay:$  855.78  Net Pay: $804.43
+ID: 51-9368122  Name: Pexton, Gabrila            Hours Worked:  17  Hourly Pay Rate:  44.80  Gross Pay:$  761.60  Net Pay: $715.90
+ID: 13-0322679  Name: McTerry, Jamie             Hours Worked:  21  Hourly Pay Rate:  18.53  Gross Pay:$  389.13  Net Pay: $365.78
+ID: 19-2087739  Name: Lonie, Charmion            Hours Worked:  26  Hourly Pay Rate:  14.83  Gross Pay:$  385.58  Net Pay: $362.45
+ID: 98-7180892  Name: Linguard, Ulrick           Hours Worked:  33  Hourly Pay Rate:  16.50  Gross Pay:$  544.50  Net Pay: $511.83
+ID: 56-5880176  Name: Boud, Fanchette            Hours Worked:  21  Hourly Pay Rate:  42.96  Gross Pay:$  902.16  Net Pay: $848.03
+ID: 67-0844717  Name: Giovannilli, Scottie       Hours Worked:  31  Hourly Pay Rate:  46.54  Gross Pay:$1,442.74  Net Pay: $1,356.18
+ID: 02-9974214  Name: Oxe, Noell                 Hours Worked:  32  Hourly Pay Rate:  27.20  Gross Pay:$  870.40  Net Pay: $818.18
+ID: 14-9167364  Name: Lavalde, Andreas           Hours Worked:  34  Hourly Pay Rate:  39.51  Gross Pay:$1,343.34  Net Pay: $1,262.74
+ID: 36-0852324  Name: Marzele, Dewie             Hours Worked:  15  Hourly Pay Rate:  31.02  Gross Pay:$  465.30  Net Pay: $437.38
+ID: 10-4803867  Name: Fiorentino, Marcellus      Hours Worked:  26  Hourly Pay Rate:  29.06  Gross Pay:$  755.56  Net Pay: $710.23
+ID: 02-9146567  Name: Gerling, Greer             Hours Worked:  36  Hourly Pay Rate:  35.91  Gross Pay:$1,292.76  Net Pay: $1,215.19
+ID: 50-0516485  Name: MacGoun, Tammie            Hours Worked:  26  Hourly Pay Rate:  10.07  Gross Pay:$  261.82  Net Pay: $246.11
+ID: 69-4091174  Name: Barbosa, Winnie            Hours Worked:  37  Hourly Pay Rate:  58.56  Gross Pay:$2,166.72  Net Pay: $2,036.72
+ID: 15-5281894  Name: Jewer, Taite               Hours Worked:  25  Hourly Pay Rate:  35.47  Gross Pay:$  886.75  Net Pay: $833.55
+ID: 92-6183860  Name: Scarlett, Sophi            Hours Worked:  29  Hourly Pay Rate:  34.41  Gross Pay:$  997.89  Net Pay: $938.02
+ID: 07-0750615  Name: Narramore, Ortensia        Hours Worked:  24  Hourly Pay Rate:  12.27  Gross Pay:$  294.48  Net Pay: $276.81
+ID: 55-8395257  Name: Neachell, Bill             Hours Worked:  38  Hourly Pay Rate:  26.56  Gross Pay:$1,009.28  Net Pay: $948.72
+ID: 31-4921353  Name: Hallex, Lalo               Hours Worked:  38  Hourly Pay Rate:  21.83  Gross Pay:$  829.54  Net Pay: $779.77
+ID: 33-6605515  Name: Poyntz, Lenard             Hours Worked:  20  Hourly Pay Rate:  59.19  Gross Pay:$1,183.80  Net Pay: $1,112.77
+ID: 31-8208477  Name: Brounsell, Alayne          Hours Worked:  36  Hourly Pay Rate:  42.97  Gross Pay:$1,546.92  Net Pay: $1,454.10
+ID: 70-7278620  Name: O'Shee, Cal                Hours Worked:  18  Hourly Pay Rate:  21.19  Gross Pay:$  381.42  Net Pay: $358.53
+ID: 75-0421077  Name: Dagnall, Marcille          Hours Worked:  23  Hourly Pay Rate:  30.39  Gross Pay:$  698.97  Net Pay: $657.03
+ID: 37-3230160  Name: Ronca, Welbie              Hours Worked:  33  Hourly Pay Rate:  20.76  Gross Pay:$  685.08  Net Pay: $643.98
+ID: 37-2653213  Name: Salsberg, Barrie           Hours Worked:  24  Hourly Pay Rate:  18.76  Gross Pay:$  450.24  Net Pay: $423.23
+ID: 59-8592816  Name: Catenot, Ruperto           Hours Worked:  32  Hourly Pay Rate:  31.55  Gross Pay:$1,009.60  Net Pay: $949.02
+ID: 41-2834199  Name: Pinshon, Hamilton          Hours Worked:  26  Hourly Pay Rate:  34.40  Gross Pay:$  894.40  Net Pay: $840.74
+ID: 26-5785538  Name: Benford, Ronald            Hours Worked:  25  Hourly Pay Rate:  27.06  Gross Pay:$  676.50  Net Pay: $635.91
+ID: 79-4506556  Name: Rief, Margaret             Hours Worked:  17  Hourly Pay Rate:  17.83  Gross Pay:$  303.11  Net Pay: $284.92
+ID: 78-5179170  Name: McFeate, Bruno             Hours Worked:  31  Hourly Pay Rate:  29.57  Gross Pay:$  916.67  Net Pay: $861.67
+ID: 44-7474739  Name: Klyn, Alonso               Hours Worked:  22  Hourly Pay Rate:  21.62  Gross Pay:$  475.64  Net Pay: $447.10
+ID: 07-6383042  Name: Mityukov, Humberto         Hours Worked:  26  Hourly Pay Rate:  19.47  Gross Pay:$  506.22  Net Pay: $475.85
+ID: 21-3984932  Name: Luc, Lanita                Hours Worked:  26  Hourly Pay Rate:  58.56  Gross Pay:$1,522.56  Net Pay: $1,431.21
+ID: 50-7105360  Name: Hawtry, Sada               Hours Worked:  15  Hourly Pay Rate:  12.08  Gross Pay:$  181.20  Net Pay: $170.33
+ID: 08-2116692  Name: Gummory, Kleon             Hours Worked:  32  Hourly Pay Rate:  51.20  Gross Pay:$1,638.40  Net Pay: $1,540.10
+ID: 99-5297002  Name: Menel, Stephannie          Hours Worked:  25  Hourly Pay Rate:  36.60  Gross Pay:$  915.00  Net Pay: $860.10
+ID: 07-0555404  Name: Derle, Lilas               Hours Worked:  39  Hourly Pay Rate:  53.53  Gross Pay:$2,087.67  Net Pay: $1,962.41
+ID: 28-7102780  Name: Erickson, Emilie           Hours Worked:  40  Hourly Pay Rate:  15.84  Gross Pay:$  633.60  Net Pay: $595.58
+ID: 09-5261431  Name: Zelner, Jacinthe           Hours Worked:  32  Hourly Pay Rate:  14.61  Gross Pay:$  467.52  Net Pay: $439.47
+ID: 66-6261311  Name: Dugget, Hervey             Hours Worked:  32  Hourly Pay Rate:  48.51  Gross Pay:$1,552.32  Net Pay: $1,459.18
+ID: 37-9046026  Name: Jeaves, Sabrina            Hours Worked:  27  Hourly Pay Rate:  55.03  Gross Pay:$1,485.81  Net Pay: $1,396.66
+ID: 00-6054516  Name: Monketon, Mahalia          Hours Worked:  21  Hourly Pay Rate:  48.05  Gross Pay:$1,009.05  Net Pay: $948.51
+ID: 65-2984010  Name: Ridges, Eddie              Hours Worked:  20  Hourly Pay Rate:  33.52  Gross Pay:$  670.40  Net Pay: $630.18
+ID: 31-7444019  Name: Palser, Roseann            Hours Worked:  32  Hourly Pay Rate:  26.38  Gross Pay:$  844.16  Net Pay: $793.51
+ID: 80-3411159  Name: Stiffell, Tasia            Hours Worked:  40  Hourly Pay Rate:  49.68  Gross Pay:$1,987.20  Net Pay: $1,867.97
+ID: 89-1252022  Name: Allinson, Alyss            Hours Worked:  28  Hourly Pay Rate:  59.41  Gross Pay:$1,663.48  Net Pay: $1,563.67
+ID: 15-5189358  Name: Gresley, James             Hours Worked:  19  Hourly Pay Rate:  33.61  Gross Pay:$  638.59  Net Pay: $600.27
+ID: 36-4626346  Name: Henriksson, Xylia          Hours Worked:  32  Hourly Pay Rate:  52.92  Gross Pay:$1,693.44  Net Pay: $1,591.83
+ID: 88-9937440  Name: Pyper, Carlin              Hours Worked:  19  Hourly Pay Rate:  21.31  Gross Pay:$  404.89  Net Pay: $380.60
+ID: 48-1605037  Name: Cleyne, Christie           Hours Worked:  25  Hourly Pay Rate:  20.40  Gross Pay:$  510.00  Net Pay: $479.40
+ID: 53-9229991  Name: De Bruyne, Gabi            Hours Worked:  36  Hourly Pay Rate:  58.05  Gross Pay:$2,089.80  Net Pay: $1,964.41
+ID: 86-2475637  Name: Titta, Sanford             Hours Worked:  30  Hourly Pay Rate:  36.17  Gross Pay:$1,085.10  Net Pay: $1,019.99
+ID: 78-5926178  Name: Gooch, Audrey              Hours Worked:  18  Hourly Pay Rate:  19.99  Gross Pay:$  359.82  Net Pay: $338.23
+ID: 36-4952095  Name: Partleton, Esmeralda       Hours Worked:  19  Hourly Pay Rate:  18.86  Gross Pay:$  358.34  Net Pay: $336.84
+ID: 28-9274266  Name: Batecok, Annalee           Hours Worked:  28  Hourly Pay Rate:  21.24  Gross Pay:$  594.72  Net Pay: $559.04
+ID: 84-0367589  Name: Durdle, Jacquelin          Hours Worked:  21  Hourly Pay Rate:  19.31  Gross Pay:$  405.51  Net Pay: $381.18
+ID: 29-1517878  Name: Stollberger, Berna         Hours Worked:  15  Hourly Pay Rate:  10.84  Gross Pay:$  162.60  Net Pay: $152.84
+ID: 35-7416347  Name: Shillabear, Emelita        Hours Worked:  17  Hourly Pay Rate:  53.09  Gross Pay:$  902.53  Net Pay: $848.38
+ID: 14-9983081  Name: Galliver, Adaline          Hours Worked:  40  Hourly Pay Rate:  50.00  Gross Pay:$2,000.00  Net Pay: $1,880.00
+ID: 69-4671042  Name: Schutte, Benedicta         Hours Worked:  27  Hourly Pay Rate:  21.16  Gross Pay:$  571.32  Net Pay: $537.04
+ID: 67-8214599  Name: Drillingcourt, Karoly      Hours Worked:  18  Hourly Pay Rate:  47.36  Gross Pay:$  852.48  Net Pay: $801.33
+ID: 79-7261872  Name: Aldred, Nata               Hours Worked:  33  Hourly Pay Rate:  46.89  Gross Pay:$1,547.37  Net Pay: $1,454.53
+ID: 78-5564051  Name: Artois, Elisha             Hours Worked:  20  Hourly Pay Rate:  39.53  Gross Pay:$  790.60  Net Pay: $743.16
+ID: 13-0163516  Name: Southan, Cesaro            Hours Worked:  25  Hourly Pay Rate:  27.23  Gross Pay:$  680.75  Net Pay: $639.91
+ID: 50-9420409  Name: Defew, Darnall             Hours Worked:  26  Hourly Pay Rate:  45.74  Gross Pay:$1,189.24  Net Pay: $1,117.89
+ID: 08-0913991  Name: O'Lyhane, Celestine        Hours Worked:  36  Hourly Pay Rate:  48.39  Gross Pay:$1,742.04  Net Pay: $1,637.52
+ID: 09-3573764  Name: Becaris, Reinald           Hours Worked:  30  Hourly Pay Rate:  27.20  Gross Pay:$  816.00  Net Pay: $767.04
+ID: 55-6052093  Name: Leipelt, Donalt            Hours Worked:  26  Hourly Pay Rate:  33.63  Gross Pay:$  874.38  Net Pay: $821.92
+ID: 96-0591821  Name: Veale, Art                 Hours Worked:  33  Hourly Pay Rate:  20.28  Gross Pay:$  669.24  Net Pay: $629.09
+ID: 07-3106978  Name: Lampert, Zsa zsa           Hours Worked:  25  Hourly Pay Rate:  19.09  Gross Pay:$  477.25  Net Pay: $448.61
+ID: 13-5843478  Name: Castella, Monroe           Hours Worked:  17  Hourly Pay Rate:  41.12  Gross Pay:$  699.04  Net Pay: $657.10
+ID: 53-2004028  Name: Mackin, Mallissa           Hours Worked:  34  Hourly Pay Rate:  54.75  Gross Pay:$1,861.50  Net Pay: $1,749.81
+ID: 02-8691211  Name: Josofovitz, Ailis          Hours Worked:  30  Hourly Pay Rate:  14.27  Gross Pay:$  428.10  Net Pay: $402.41
+ID: 37-7804835  Name: Letherbury, Isa            Hours Worked:  34  Hourly Pay Rate:  34.56  Gross Pay:$1,175.04  Net Pay: $1,104.54
+ID: 26-3114145  Name: Sail, Rosanna              Hours Worked:  25  Hourly Pay Rate:  52.00  Gross Pay:$1,300.00  Net Pay: $1,222.00
+ID: 35-7768621  Name: Winsper, Nikoletta         Hours Worked:  35  Hourly Pay Rate:  46.09  Gross Pay:$1,613.15  Net Pay: $1,516.36
+ID: 65-7454399  Name: Salack, Talya              Hours Worked:  32  Hourly Pay Rate:  14.11  Gross Pay:$  451.52  Net Pay: $424.43
+ID: 88-0384867  Name: Bachelar, Warren           Hours Worked:  22  Hourly Pay Rate:  56.67  Gross Pay:$1,246.74  Net Pay: $1,171.94
+ID: 31-9923694  Name: Kilbride, Corilla          Hours Worked:  37  Hourly Pay Rate:  33.90  Gross Pay:$1,254.30  Net Pay: $1,179.04
+ID: 41-4945775  Name: Greenly, Collie            Hours Worked:  39  Hourly Pay Rate:  54.18  Gross Pay:$2,113.02  Net Pay: $1,986.24
+ID: 52-2143091  Name: Karpman, Audrey            Hours Worked:  35  Hourly Pay Rate:  31.09  Gross Pay:$1,088.15  Net Pay: $1,022.86
+ID: 06-0876440  Name: Telfer, Skippie            Hours Worked:  26  Hourly Pay Rate:  47.12  Gross Pay:$1,225.12  Net Pay: $1,151.61
+ID: 70-9204724  Name: Arnould, Rici              Hours Worked:  22  Hourly Pay Rate:  28.73  Gross Pay:$  632.06  Net Pay: $594.14
+ID: 54-8259106  Name: Crim, Wendell              Hours Worked:  35  Hourly Pay Rate:  18.61  Gross Pay:$  651.35  Net Pay: $612.27
+ID: 62-5856168  Name: Mellonby, Antone           Hours Worked:  30  Hourly Pay Rate:  14.76  Gross Pay:$  442.80  Net Pay: $416.23
+ID: 69-7057730  Name: Sarah, Charlot             Hours Worked:  40  Hourly Pay Rate:  39.01  Gross Pay:$1,560.40  Net Pay: $1,466.78
+ID: 69-6639643  Name: Droghan, Clio              Hours Worked:  15  Hourly Pay Rate:  53.47  Gross Pay:$  802.05  Net Pay: $753.93
+ID: 85-8784568  Name: Greggs, Noe                Hours Worked:  24  Hourly Pay Rate:  20.33  Gross Pay:$  487.92  Net Pay: $458.64
+ID: 82-8970755  Name: Petroselli, Rorie          Hours Worked:  18  Hourly Pay Rate:  49.62  Gross Pay:$  893.16  Net Pay: $839.57
+ID: 06-1259858  Name: Josefsen, Candida          Hours Worked:  32  Hourly Pay Rate:  45.22  Gross Pay:$1,447.04  Net Pay: $1,360.22
+ID: 30-7149220  Name: Lorkings, Brig             Hours Worked:  26  Hourly Pay Rate:  23.24  Gross Pay:$  604.24  Net Pay: $567.99
+ID: 45-0951316  Name: Stanier, Charis            Hours Worked:  26  Hourly Pay Rate:  28.52  Gross Pay:$  741.52  Net Pay: $697.03
+ID: 18-5707972  Name: Dunsford, Gerry            Hours Worked:  38  Hourly Pay Rate:  14.16  Gross Pay:$  538.08  Net Pay: $505.80
+ID: 54-2648719  Name: Moggach, Sonia             Hours Worked:  29  Hourly Pay Rate:  39.50  Gross Pay:$1,145.50  Net Pay: $1,076.77
+ID: 71-9789773  Name: Mallinar, Seana            Hours Worked:  40  Hourly Pay Rate:  22.29  Gross Pay:$  891.60  Net Pay: $838.10
+ID: 56-8747629  Name: Lowing, Clari              Hours Worked:  27  Hourly Pay Rate:  27.54  Gross Pay:$  743.58  Net Pay: $698.97
+ID: 39-4771310  Name: Pygott, Tish               Hours Worked:  28  Hourly Pay Rate:  10.88  Gross Pay:$  304.64  Net Pay: $286.36
+ID: 57-0478969  Name: Morrad, Kania              Hours Worked:  25  Hourly Pay Rate:  15.75  Gross Pay:$  393.75  Net Pay: $370.13
+ID: 93-4697980  Name: Lunt, Nathalia             Hours Worked:  20  Hourly Pay Rate:  49.63  Gross Pay:$  992.60  Net Pay: $933.04
+ID: 64-9408441  Name: Galier, Maximilien         Hours Worked:  15  Hourly Pay Rate:  36.95  Gross Pay:$  554.25  Net Pay: $521.00
+ID: 10-4905089  Name: MacLoughlin, Keven         Hours Worked:  37  Hourly Pay Rate:  46.33  Gross Pay:$1,714.21  Net Pay: $1,611.36
+ID: 35-7277721  Name: Alsina, Nadya              Hours Worked:  29  Hourly Pay Rate:  49.90  Gross Pay:$1,447.10  Net Pay: $1,360.27
+ID: 33-1423516  Name: Terrans, Ketty             Hours Worked:  17  Hourly Pay Rate:  31.43  Gross Pay:$  534.31  Net Pay: $502.25
+ID: 93-0182020  Name: Bateman, Lezlie            Hours Worked:  19  Hourly Pay Rate:  37.84  Gross Pay:$  718.96  Net Pay: $675.82
+ID: 84-5599283  Name: Sturman, Donnamarie        Hours Worked:  37  Hourly Pay Rate:  25.62  Gross Pay:$  947.94  Net Pay: $891.06
+ID: 73-7417943  Name: Aspey, Mame                Hours Worked:  24  Hourly Pay Rate:  35.08  Gross Pay:$  841.92  Net Pay: $791.40
+ID: 18-1408186  Name: Fyfe, Wilton               Hours Worked:  40  Hourly Pay Rate:  54.10  Gross Pay:$2,164.00  Net Pay: $2,034.16
+ID: 48-1730003  Name: Paz, Barde                 Hours Worked:  34  Hourly Pay Rate:  42.16  Gross Pay:$1,433.44  Net Pay: $1,347.43
+ID: 96-6770861  Name: Saller, Cass               Hours Worked:  37  Hourly Pay Rate:  32.85  Gross Pay:$1,215.45  Net Pay: $1,142.52
+ID: 67-2129232  Name: Yakebovitch, Goran         Hours Worked:  31  Hourly Pay Rate:  42.11  Gross Pay:$1,305.41  Net Pay: $1,227.09
+ID: 64-9757214  Name: Rootes, Margery            Hours Worked:  32  Hourly Pay Rate:  42.48  Gross Pay:$1,359.36  Net Pay: $1,277.80
+ID: 48-9476448  Name: Stanborough, Scotti        Hours Worked:  37  Hourly Pay Rate:  24.04  Gross Pay:$  889.48  Net Pay: $836.11
+ID: 31-4712009  Name: Briffett, Matty            Hours Worked:  34  Hourly Pay Rate:  23.30  Gross Pay:$  792.20  Net Pay: $744.67
+ID: 81-7886270  Name: Coonihan, Tasha            Hours Worked:  36  Hourly Pay Rate:  26.47  Gross Pay:$  952.92  Net Pay: $895.74
+ID: 45-8747802  Name: Mantram, Cassie            Hours Worked:  33  Hourly Pay Rate:  14.31  Gross Pay:$  472.23  Net Pay: $443.90
+ID: 35-3588844  Name: Alster, Alden              Hours Worked:  40  Hourly Pay Rate:  31.44  Gross Pay:$1,257.60  Net Pay: $1,182.14
+ID: 29-6096341  Name: Filippov, Louisa           Hours Worked:  39  Hourly Pay Rate:  31.54  Gross Pay:$1,230.06  Net Pay: $1,156.26
+ID: 54-3344711  Name: Schimank, Wallas           Hours Worked:  17  Hourly Pay Rate:  43.32  Gross Pay:$  736.44  Net Pay: $692.25
+ID: 67-5379768  Name: Godehard.sf, Austin        Hours Worked:  30  Hourly Pay Rate:  30.36  Gross Pay:$  910.80  Net Pay: $856.15
+ID: 31-0286339  Name: Vase, Bobinette            Hours Worked:  15  Hourly Pay Rate:  11.09  Gross Pay:$  166.35  Net Pay: $156.37
+ID: 46-7531610  Name: Lindmark, Pippo            Hours Worked:  21  Hourly Pay Rate:  44.91  Gross Pay:$  943.11  Net Pay: $886.52
+ID: 38-7704608  Name: Fredi, Danita              Hours Worked:  25  Hourly Pay Rate:  17.80  Gross Pay:$  445.00  Net Pay: $418.30
+ID: 51-4202151  Name: MacGillivray, Rafe         Hours Worked:  16  Hourly Pay Rate:  44.23  Gross Pay:$  707.68  Net Pay: $665.22
+ID: 12-1216627  Name: Barden, Mata               Hours Worked:  25  Hourly Pay Rate:  43.98  Gross Pay:$1,099.50  Net Pay: $1,033.53
+ID: 75-8759385  Name: Niemetz, Mischa            Hours Worked:  20  Hourly Pay Rate:  59.85  Gross Pay:$1,197.00  Net Pay: $1,125.18
+ID: 59-5797207  Name: Iorizzi, Leeanne           Hours Worked:  19  Hourly Pay Rate:  24.22  Gross Pay:$  460.18  Net Pay: $432.57
+ID: 87-4292060  Name: Ewells, Deanne             Hours Worked:  40  Hourly Pay Rate:  53.51  Gross Pay:$2,140.40  Net Pay: $2,011.98
+ID: 41-3523081  Name: Dalwood, Tani              Hours Worked:  25  Hourly Pay Rate:  26.31  Gross Pay:$  657.75  Net Pay: $618.29
+ID: 35-0050377  Name: Buckby, Tracy              Hours Worked:  25  Hourly Pay Rate:  50.34  Gross Pay:$1,258.50  Net Pay: $1,182.99
+ID: 69-5204450  Name: Coultous, Bay              Hours Worked:  29  Hourly Pay Rate:  42.49  Gross Pay:$1,232.21  Net Pay: $1,158.28
+ID: 58-8321772  Name: Hairesnape, Salomon        Hours Worked:  15  Hourly Pay Rate:  52.18  Gross Pay:$  782.70  Net Pay: $735.74
+ID: 54-0642215  Name: Smails, Ansley             Hours Worked:  33  Hourly Pay Rate:  51.38  Gross Pay:$1,695.54  Net Pay: $1,593.81
+ID: 96-6583003  Name: Ogle, Kalle                Hours Worked:  17  Hourly Pay Rate:  19.31  Gross Pay:$  328.27  Net Pay: $308.57
+ID: 75-8632041  Name: Fantham, Britteny          Hours Worked:  17  Hourly Pay Rate:  19.64  Gross Pay:$  333.88  Net Pay: $313.85
+ID: 75-1928270  Name: MacRirie, Rogers           Hours Worked:  27  Hourly Pay Rate:  58.03  Gross Pay:$1,566.81  Net Pay: $1,472.80
+ID: 46-7767081  Name: Westwick, Cathrine         Hours Worked:  26  Hourly Pay Rate:  24.59  Gross Pay:$  639.34  Net Pay: $600.98
+ID: 57-3887083  Name: Giovannacc@i, Robyn        Hours Worked:  39  Hourly Pay Rate:  17.52  Gross Pay:$  683.28  Net Pay: $642.28
+ID: 95-0606781  Name: Stirgess, Starla           Hours Worked:  36  Hourly Pay Rate:  29.12  Gross Pay:$1,048.32  Net Pay: $985.42
+ID: 96-2446301  Name: Castelow, Garrott          Hours Worked:  22  Hourly Pay Rate:  50.33  Gross Pay:$1,107.26  Net Pay: $1,040.82
+ID: 48-5557344  Name: Tabrett, Pearle            Hours Worked:  33  Hourly Pay Rate:  37.26  Gross Pay:$1,229.58  Net Pay: $1,155.81
+ID: 10-9820477  Name: Tucsell, Mattias           Hours Worked:  36  Hourly Pay Rate:  25.82  Gross Pay:$  929.52  Net Pay: $873.75
+ID: 60-3540966  Name: Isitt, Charil              Hours Worked:  27  Hourly Pay Rate:  11.37  Gross Pay:$  306.99  Net Pay: $288.57
+ID: 19-3310014  Name: Pawlyn, Cass               Hours Worked:  32  Hourly Pay Rate:  10.90  Gross Pay:$  348.80  Net Pay: $327.87
+ID: 78-9855294  Name: Heigl, Windy               Hours Worked:  19  Hourly Pay Rate:  34.78  Gross Pay:$  660.82  Net Pay: $621.17
+ID: 46-0959580  Name: Raubenheimers, Christine   Hours Worked:  40  Hourly Pay Rate:  45.29  Gross Pay:$1,811.60  Net Pay: $1,702.90
+ID: 70-3083129  Name: Corish, Xavier             Hours Worked:  19  Hourly Pay Rate:  55.97  Gross Pay:$1,063.43  Net Pay: $999.62
+ID: 89-2907541  Name: Kubiak, Katerina           Hours Worked:  35  Hourly Pay Rate:  18.48  Gross Pay:$  646.80  Net Pay: $607.99
+ID: 32-7593231  Name: Boolsen, Rhiamon           Hours Worked:  39  Hourly Pay Rate:  27.98  Gross Pay:$1,091.22  Net Pay: $1,025.75
+ID: 75-9073944  Name: Manion, Julina             Hours Worked:  38  Hourly Pay Rate:  37.69  Gross Pay:$1,432.22  Net Pay: $1,346.29
+ID: 51-0827722  Name: Skingle, Muriel            Hours Worked:  21  Hourly Pay Rate:  40.14  Gross Pay:$  842.94  Net Pay: $792.36
+ID: 58-8613650  Name: Fibben, Elvina             Hours Worked:  29  Hourly Pay Rate:  21.62  Gross Pay:$  626.98  Net Pay: $589.36
+ID: 74-3605417  Name: Kennally, Karleen          Hours Worked:  34  Hourly Pay Rate:  39.51  Gross Pay:$1,343.34  Net Pay: $1,262.74
+ID: 47-4853935  Name: Wareham, Yettie            Hours Worked:  33  Hourly Pay Rate:  28.04  Gross Pay:$  925.32  Net Pay: $869.80
+ID: 09-3775862  Name: Bampforth, Dolley          Hours Worked:  24  Hourly Pay Rate:  46.48  Gross Pay:$1,115.52  Net Pay: $1,048.59
+ID: 76-3884661  Name: Craydon, Tandi             Hours Worked:  22  Hourly Pay Rate:  30.35  Gross Pay:$  667.70  Net Pay: $627.64
+ID: 80-6427467  Name: Ricciardo, Davin           Hours Worked:  29  Hourly Pay Rate:  40.78  Gross Pay:$1,182.62  Net Pay: $1,111.66
+ID: 86-7695308  Name: Clitsome, Skelly           Hours Worked:  32  Hourly Pay Rate:  16.01  Gross Pay:$  512.32  Net Pay: $481.58
+ID: 03-5448355  Name: Burrells, Gustie           Hours Worked:  22  Hourly Pay Rate:  32.82  Gross Pay:$  722.04  Net Pay: $678.72
+ID: 44-8136075  Name: Wombwell, Lissa            Hours Worked:  40  Hourly Pay Rate:  50.42  Gross Pay:$2,016.80  Net Pay: $1,895.79
+ID: 20-5478806  Name: Brookfield, Clementius     Hours Worked:  16  Hourly Pay Rate:  54.44  Gross Pay:$  871.04  Net Pay: $818.78
+ID: 96-1369994  Name: Scoggins, Thalia           Hours Worked:  19  Hourly Pay Rate:  24.56  Gross Pay:$  466.64  Net Pay: $438.64
+ID: 75-2392060  Name: Tal, Whitney               Hours Worked:  36  Hourly Pay Rate:  57.41  Gross Pay:$2,066.76  Net Pay: $1,942.75
+ID: 80-4771629  Name: Crumb, Desiri              Hours Worked:  39  Hourly Pay Rate:  19.93  Gross Pay:$  777.27  Net Pay: $730.63
+ID: 88-6128584  Name: Dat, Jephthah              Hours Worked:  32  Hourly Pay Rate:  29.60  Gross Pay:$  947.20  Net Pay: $890.37
+ID: 66-5490271  Name: de Almeida, Madelyn        Hours Worked:  39  Hourly Pay Rate:  31.45  Gross Pay:$1,226.55  Net Pay: $1,152.96
+ID: 08-6229802  Name: Bielefeld, Jacquetta       Hours Worked:  22  Hourly Pay Rate:  17.24  Gross Pay:$  379.28  Net Pay: $356.52
+ID: 09-4286803  Name: Peealess, Coop             Hours Worked:  39  Hourly Pay Rate:  52.92  Gross Pay:$2,063.88  Net Pay: $1,940.05
+ID: 81-7690035  Name: Gallanders, Kelbee         Hours Worked:  27  Hourly Pay Rate:  29.17  Gross Pay:$  787.59  Net Pay: $740.33
+ID: 94-3873912  Name: Rizzetti, Margarette       Hours Worked:  21  Hourly Pay Rate:  48.74  Gross Pay:$1,023.54  Net Pay: $962.13
+ID: 46-7519596  Name: Dorning, Shurlock          Hours Worked:  33  Hourly Pay Rate:  27.96  Gross Pay:$  922.68  Net Pay: $867.32
+ID: 38-7395921  Name: Besnardeau, Lebbie         Hours Worked:  40  Hourly Pay Rate:  37.72  Gross Pay:$1,508.80  Net Pay: $1,418.27
+ID: 76-9450595  Name: Tolefree, Lanny            Hours Worked:  16  Hourly Pay Rate:  17.83  Gross Pay:$  285.28  Net Pay: $268.16
+ID: 37-6034954  Name: Rowlett, Illa              Hours Worked:  17  Hourly Pay Rate:  31.55  Gross Pay:$  536.35  Net Pay: $504.17
+ID: 65-0817707  Name: Benit, Michail             Hours Worked:  24  Hourly Pay Rate:  48.34  Gross Pay:$1,160.16  Net Pay: $1,090.55
+ID: 38-9250138  Name: Palle, Felicle             Hours Worked:  23  Hourly Pay Rate:  16.60  Gross Pay:$  381.80  Net Pay: $358.89
+ID: 93-0637120  Name: Gwynn, Laurena             Hours Worked:  30  Hourly Pay Rate:  10.08  Gross Pay:$  302.40  Net Pay: $284.26
+ID: 98-4013186  Name: Dametti, Ginelle           Hours Worked:  17  Hourly Pay Rate:  30.63  Gross Pay:$  520.71  Net Pay: $489.47
+ID: 77-4681378  Name: Downs, Guillaume           Hours Worked:  28  Hourly Pay Rate:  42.65  Gross Pay:$1,194.20  Net Pay: $1,122.55
+ID: 03-9539407  Name: Burnie, Nissy              Hours Worked:  32  Hourly Pay Rate:  41.68  Gross Pay:$1,333.76  Net Pay: $1,253.73
+ID: 14-9539192  Name: Polin, Orsa                Hours Worked:  33  Hourly Pay Rate:  57.49  Gross Pay:$1,897.17  Net Pay: $1,783.34
+ID: 52-9296908  Name: Bettanay, Hadley           Hours Worked:  36  Hourly Pay Rate:  20.05  Gross Pay:$  721.80  Net Pay: $678.49
+ID: 65-7274907  Name: Chaulk, Cortie             Hours Worked:  39  Hourly Pay Rate:  18.99  Gross Pay:$  740.61  Net Pay: $696.17
+ID: 07-5728162  Name: McKirton, Reeva            Hours Worked:  28  Hourly Pay Rate:  48.44  Gross Pay:$1,356.32  Net Pay: $1,274.94
+ID: 40-4873858  Name: Hakking, Richmound         Hours Worked:  32  Hourly Pay Rate:  17.31  Gross Pay:$  553.92  Net Pay: $520.68
+ID: 16-3763979  Name: Tort, Joline               Hours Worked:  38  Hourly Pay Rate:  38.59  Gross Pay:$1,466.42  Net Pay: $1,378.43
+ID: 62-2049065  Name: Waldocke, Addia            Hours Worked:  28  Hourly Pay Rate:  12.57  Gross Pay:$  351.96  Net Pay: $330.84
+ID: 13-6474574  Name: Pain, Farr                 Hours Worked:  18  Hourly Pay Rate:  47.10  Gross Pay:$  847.80  Net Pay: $796.93
+ID: 43-0546778  Name: Raymen, Ingmar             Hours Worked:  32  Hourly Pay Rate:  38.89  Gross Pay:$1,244.48  Net Pay: $1,169.81
+ID: 73-7896062  Name: Brannigan, Aubine          Hours Worked:  21  Hourly Pay Rate:  30.83  Gross Pay:$  647.43  Net Pay: $608.58
+ID: 35-3151435  Name: Boram, Wilona              Hours Worked:  16  Hourly Pay Rate:  24.81  Gross Pay:$  396.96  Net Pay: $373.14
+ID: 63-4087401  Name: Dreelan, Felipe            Hours Worked:  31  Hourly Pay Rate:  46.39  Gross Pay:$1,438.09  Net Pay: $1,351.80
+ID: 46-5949107  Name: Chilton, Henrietta         Hours Worked:  36  Hourly Pay Rate:  44.90  Gross Pay:$1,616.40  Net Pay: $1,519.42
+ID: 46-2219832  Name: Kurton, Aleece             Hours Worked:  17  Hourly Pay Rate:  50.58  Gross Pay:$  859.86  Net Pay: $808.27
+ID: 96-6325399  Name: Turone, Emery              Hours Worked:  39  Hourly Pay Rate:  38.01  Gross Pay:$1,482.39  Net Pay: $1,393.45
+ID: 57-3514506  Name: Kirvell, Jose              Hours Worked:  34  Hourly Pay Rate:  28.85  Gross Pay:$  980.90  Net Pay: $922.05
+ID: 40-4376196  Name: Franceschi, Nicoline       Hours Worked:  37  Hourly Pay Rate:  36.25  Gross Pay:$1,341.25  Net Pay: $1,260.77
+ID: 17-7721674  Name: Chapling, Konstantin       Hours Worked:  19  Hourly Pay Rate:  52.18  Gross Pay:$  991.42  Net Pay: $931.93
+ID: 65-2654069  Name: Millward, Mose             Hours Worked:  26  Hourly Pay Rate:  25.13  Gross Pay:$  653.38  Net Pay: $614.18
+ID: 29-9293072  Name: Vick, Wes                  Hours Worked:  17  Hourly Pay Rate:  37.71  Gross Pay:$  641.07  Net Pay: $602.61
+ID: 94-5794143  Name: McLoughlin, Christos       Hours Worked:  21  Hourly Pay Rate:  18.49  Gross Pay:$  388.29  Net Pay: $364.99
+ID: 41-3109020  Name: Featherstonehaugh, Nanny   Hours Worked:  28  Hourly Pay Rate:  58.64  Gross Pay:$1,641.92  Net Pay: $1,543.40
+ID: 18-5708733  Name: Hannaway, Natty            Hours Worked:  40  Hourly Pay Rate:  45.34  Gross Pay:$1,813.60  Net Pay: $1,704.78
+ID: 50-9341047  Name: Allchorne, Walden          Hours Worked:  31  Hourly Pay Rate:  38.97  Gross Pay:$1,208.07  Net Pay: $1,135.59
+ID: 50-3393042  Name: Sparkwell, Dacie           Hours Worked:  38  Hourly Pay Rate:  52.42  Gross Pay:$1,991.96  Net Pay: $1,872.44
+ID: 20-7120258  Name: Sabie, Brigid              Hours Worked:  39  Hourly Pay Rate:  13.99  Gross Pay:$  545.61  Net Pay: $512.87
+ID: 85-1313804  Name: Casale, Ileane             Hours Worked:  20  Hourly Pay Rate:  33.28  Gross Pay:$  665.60  Net Pay: $625.66
+ID: 19-0286364  Name: Temple, Ardyce             Hours Worked:  21  Hourly Pay Rate:  24.26  Gross Pay:$  509.46  Net Pay: $478.89
+ID: 55-9726207  Name: Tatum, Poppy               Hours Worked:  30  Hourly Pay Rate:  50.62  Gross Pay:$1,518.60  Net Pay: $1,427.48
+ID: 12-7210262  Name: McTrustrie, Delcina        Hours Worked:  18  Hourly Pay Rate:  45.39  Gross Pay:$  817.02  Net Pay: $768.00
+ID: 34-6543288  Name: Nesbit, Evan               Hours Worked:  15  Hourly Pay Rate:  24.81  Gross Pay:$  372.15  Net Pay: $349.82
+ID: 61-2775639  Name: Lawerence, Easter          Hours Worked:  19  Hourly Pay Rate:  53.09  Gross Pay:$1,008.71  Net Pay: $948.19
+ID: 80-8182344  Name: Redon, Brande              Hours Worked:  25  Hourly Pay Rate:  44.53  Gross Pay:$1,113.25  Net Pay: $1,046.46
+ID: 81-9960194  Name: Sille, Zak                 Hours Worked:  28  Hourly Pay Rate:  13.30  Gross Pay:$  372.40  Net Pay: $350.06
+ID: 64-4672722  Name: Gianullo, Beth             Hours Worked:  24  Hourly Pay Rate:  46.38  Gross Pay:$1,113.12  Net Pay: $1,046.33
+ID: 79-0076843  Name: Shepley, Levon             Hours Worked:  40  Hourly Pay Rate:  18.95  Gross Pay:$  758.00  Net Pay: $712.52
+ID: 50-2507375  Name: Toulmin, Jeromy            Hours Worked:  39  Hourly Pay Rate:  48.64  Gross Pay:$1,896.96  Net Pay: $1,783.14
+ID: 14-4361971  Name: Bradburne, Den             Hours Worked:  37  Hourly Pay Rate:  32.88  Gross Pay:$1,216.56  Net Pay: $1,143.57
+ID: 44-8928997  Name: Lyddiard, Idalia           Hours Worked:  30  Hourly Pay Rate:  18.65  Gross Pay:$  559.50  Net Pay: $525.93
+ID: 88-3012868  Name: Grattage, Siusan           Hours Worked:  25  Hourly Pay Rate:  30.86  Gross Pay:$  771.50  Net Pay: $725.21
+ID: 37-1617512  Name: Tubby, Johna               Hours Worked:  24  Hourly Pay Rate:  13.47  Gross Pay:$  323.28  Net Pay: $303.88
+ID: 15-3267071  Name: Sayce, Almeda              Hours Worked:  27  Hourly Pay Rate:  18.31  Gross Pay:$  494.37  Net Pay: $464.71
+ID: 14-6783676  Name: Gaudon, Lou                Hours Worked:  34  Hourly Pay Rate:  22.86  Gross Pay:$  777.24  Net Pay: $730.61
+ID: 78-3689646  Name: Quarton, Meredith          Hours Worked:  37  Hourly Pay Rate:  56.35  Gross Pay:$2,084.95  Net Pay: $1,959.85
+ID: 10-3097966  Name: Fernando, Moll             Hours Worked:  23  Hourly Pay Rate:  20.96  Gross Pay:$  482.08  Net Pay: $453.16
+ID: 94-4660803  Name: Novill, Gibbie             Hours Worked:  33  Hourly Pay Rate:  43.96  Gross Pay:$1,450.68  Net Pay: $1,363.64
+ID: 89-3891994  Name: Cleugher, Dyanne           Hours Worked:  22  Hourly Pay Rate:  43.35  Gross Pay:$  953.70  Net Pay: $896.48
+ID: 24-4009335  Name: Willden, Lois              Hours Worked:  33  Hourly Pay Rate:  19.12  Gross Pay:$  630.96  Net Pay: $593.10
+ID: 38-8802108  Name: Ingray, Louisette          Hours Worked:  23  Hourly Pay Rate:  52.92  Gross Pay:$1,217.16  Net Pay: $1,144.13
+ID: 73-0772688  Name: Warman, Kali               Hours Worked:  40  Hourly Pay Rate:  49.28  Gross Pay:$1,971.20  Net Pay: $1,852.93
+ID: 99-6086139  Name: Reynard, Moira             Hours Worked:  29  Hourly Pay Rate:  18.21  Gross Pay:$  528.09  Net Pay: $496.40
+ID: 66-7024151  Name: Alliband, Jada             Hours Worked:  25  Hourly Pay Rate:  46.74  Gross Pay:$1,168.50  Net Pay: $1,098.39
+ID: 80-2675795  Name: Lenox, Jenny               Hours Worked:  15  Hourly Pay Rate:  22.27  Gross Pay:$  334.05  Net Pay: $314.01
+ID: 88-2090964  Name: Legan, Gilda               Hours Worked:  19  Hourly Pay Rate:  58.74  Gross Pay:$1,116.06  Net Pay: $1,049.10
+ID: 89-3633776  Name: Recher, Kori               Hours Worked:  30  Hourly Pay Rate:  17.73  Gross Pay:$  531.90  Net Pay: $499.99
+ID: 15-5062935  Name: Fidoe, Yuma                Hours Worked:  35  Hourly Pay Rate:  53.93  Gross Pay:$1,887.55  Net Pay: $1,774.30
+ID: 96-8863363  Name: Antonikov, Bartolomeo      Hours Worked:  34  Hourly Pay Rate:  49.32  Gross Pay:$1,676.88  Net Pay: $1,576.27
+ID: 02-1393334  Name: Kornilov, Bidget           Hours Worked:  37  Hourly Pay Rate:  39.01  Gross Pay:$1,443.37  Net Pay: $1,356.77
+ID: 97-8796626  Name: Mingo, Waylin              Hours Worked:  40  Hourly Pay Rate:  35.94  Gross Pay:$1,437.60  Net Pay: $1,351.34
+ID: 65-9700476  Name: Laffranconi, Gaultiero     Hours Worked:  31  Hourly Pay Rate:  15.53  Gross Pay:$  481.43  Net Pay: $452.54
+ID: 63-4627253  Name: Bernardet, Rorke           Hours Worked:  15  Hourly Pay Rate:  11.46  Gross Pay:$  171.90  Net Pay: $161.59
+ID: 03-3783119  Name: Larham, Rowland            Hours Worked:  15  Hourly Pay Rate:  40.98  Gross Pay:$  614.70  Net Pay: $577.82
+ID: 32-4034239  Name: McIlvaney, Courtnay        Hours Worked:  17  Hourly Pay Rate:  58.50  Gross Pay:$  994.50  Net Pay: $934.83
+ID: 65-4837111  Name: Maxwell, Nilson            Hours Worked:  30  Hourly Pay Rate:  36.71  Gross Pay:$1,101.30  Net Pay: $1,035.22
+ID: 05-1968910  Name: De Pero, Clem              Hours Worked:  22  Hourly Pay Rate:  12.71  Gross Pay:$  279.62  Net Pay: $262.84
+ID: 67-6245452  Name: Duran, Brena               Hours Worked:  19  Hourly Pay Rate:  51.05  Gross Pay:$  969.95  Net Pay: $911.75
+ID: 81-9596519  Name: Alexsandrovich, Lazaro     Hours Worked:  40  Hourly Pay Rate:  20.29  Gross Pay:$  811.60  Net Pay: $762.90
+ID: 11-8512775  Name: Beirne, Turner             Hours Worked:  23  Hourly Pay Rate:  19.67  Gross Pay:$  452.41  Net Pay: $425.27
+ID: 46-3521096  Name: Sang, Barbara-anne         Hours Worked:  20  Hourly Pay Rate:  45.47  Gross Pay:$  909.40  Net Pay: $854.84
+ID: 10-3722358  Name: Mulder, Lorilyn            Hours Worked:  28  Hourly Pay Rate:  12.73  Gross Pay:$  356.44  Net Pay: $335.05
+ID: 22-4079747  Name: Tabb, Derby                Hours Worked:  25  Hourly Pay Rate:  30.80  Gross Pay:$  770.00  Net Pay: $723.80
+ID: 44-7984006  Name: Jenoure, Dannie            Hours Worked:  33  Hourly Pay Rate:  35.83  Gross Pay:$1,182.39  Net Pay: $1,111.45
+ID: 55-7372847  Name: Peinke, Alano              Hours Worked:  17  Hourly Pay Rate:  43.61  Gross Pay:$  741.37  Net Pay: $696.89
+ID: 72-0436262  Name: Moffett, Freddy            Hours Worked:  30  Hourly Pay Rate:  42.32  Gross Pay:$1,269.60  Net Pay: $1,193.42
+ID: 70-4360046  Name: Prest, Brose               Hours Worked:  33  Hourly Pay Rate:  40.89  Gross Pay:$1,349.37  Net Pay: $1,268.41
+ID: 88-6374525  Name: Skeemer, Reinhold          Hours Worked:  15  Hourly Pay Rate:  39.83  Gross Pay:$  597.45  Net Pay: $561.60
+ID: 31-8786093  Name: Maun, Decca                Hours Worked:  16  Hourly Pay Rate:  26.59  Gross Pay:$  425.44  Net Pay: $399.91
+ID: 23-3498166  Name: Alliot, Tommy              Hours Worked:  21  Hourly Pay Rate:  13.11  Gross Pay:$  275.31  Net Pay: $258.79
+ID: 93-6531400  Name: Maidens, Konstantine       Hours Worked:  25  Hourly Pay Rate:  59.80  Gross Pay:$1,495.00  Net Pay: $1,405.30
+ID: 45-3750278  Name: Gillbard, Paolo            Hours Worked:  25  Hourly Pay Rate:  20.44  Gross Pay:$  511.00  Net Pay: $480.34
+ID: 62-3032158  Name: Quartly, Emmalynne         Hours Worked:  35  Hourly Pay Rate:  51.63  Gross Pay:$1,807.05  Net Pay: $1,698.63
+ID: 39-4316300  Name: Graine, Devland            Hours Worked:  39  Hourly Pay Rate:  10.81  Gross Pay:$  421.59  Net Pay: $396.29
+ID: 72-1893660  Name: Cancellor, Derry           Hours Worked:  35  Hourly Pay Rate:  54.95  Gross Pay:$1,923.25  Net Pay: $1,807.85
+ID: 59-5737783  Name: Hedley, Dunc               Hours Worked:  25  Hourly Pay Rate:  12.49  Gross Pay:$  312.25  Net Pay: $293.52
+ID: 04-4244813  Name: Gilbart, Harri             Hours Worked:  35  Hourly Pay Rate:  28.65  Gross Pay:$1,002.75  Net Pay: $942.58
+ID: 97-7600925  Name: Bontein, Mella             Hours Worked:  31  Hourly Pay Rate:  50.47  Gross Pay:$1,564.57  Net Pay: $1,470.70
+ID: 36-8548617  Name: Borwick, Matthieu          Hours Worked:  27  Hourly Pay Rate:  59.95  Gross Pay:$1,618.65  Net Pay: $1,521.53
+ID: 48-2593310  Name: Gobat, Jasper              Hours Worked:  39  Hourly Pay Rate:  48.89  Gross Pay:$1,906.71  Net Pay: $1,792.31
+ID: 37-6103891  Name: Heskey, Ede                Hours Worked:  30  Hourly Pay Rate:  11.12  Gross Pay:$  333.60  Net Pay: $313.58
+ID: 70-9059207  Name: Sterke, Timofei            Hours Worked:  40  Hourly Pay Rate:  30.43  Gross Pay:$1,217.20  Net Pay: $1,144.17
+ID: 08-1546073  Name: Thomesson, Beniamino       Hours Worked:  24  Hourly Pay Rate:  40.83  Gross Pay:$  979.92  Net Pay: $921.12
+ID: 65-1591012  Name: Ebbings, Hartwell          Hours Worked:  29  Hourly Pay Rate:  36.73  Gross Pay:$1,065.17  Net Pay: $1,001.26
+ID: 76-8797899  Name: Gludor, Damon              Hours Worked:  23  Hourly Pay Rate:  21.13  Gross Pay:$  485.99  Net Pay: $456.83
+ID: 82-7671306  Name: Cressey, Janine            Hours Worked:  32  Hourly Pay Rate:  34.24  Gross Pay:$1,095.68  Net Pay: $1,029.94
+ID: 55-2398117  Name: Waiton, Matilda            Hours Worked:  33  Hourly Pay Rate:  16.29  Gross Pay:$  537.57  Net Pay: $505.32
+ID: 53-3029141  Name: Shiel, Ellwood             Hours Worked:  30  Hourly Pay Rate:  40.27  Gross Pay:$1,208.10  Net Pay: $1,135.61
+ID: 02-8178463  Name: Francklyn, Jobie           Hours Worked:  25  Hourly Pay Rate:  26.77  Gross Pay:$  669.25  Net Pay: $629.09
+ID: 97-5563984  Name: Maylor, Matty              Hours Worked:  31  Hourly Pay Rate:  47.91  Gross Pay:$1,485.21  Net Pay: $1,396.10
+ID: 79-0246839  Name: Minkin, Dredi              Hours Worked:  26  Hourly Pay Rate:  59.93  Gross Pay:$1,558.18  Net Pay: $1,464.69
+ID: 65-9340280  Name: Cassely, Timothea          Hours Worked:  22  Hourly Pay Rate:  17.56  Gross Pay:$  386.32  Net Pay: $363.14
+ID: 58-4765365  Name: Mauger, Edin               Hours Worked:  26  Hourly Pay Rate:  53.92  Gross Pay:$1,401.92  Net Pay: $1,317.80
+ID: 22-8947592  Name: Brownhill, Cordula         Hours Worked:  16  Hourly Pay Rate:  52.49  Gross Pay:$  839.84  Net Pay: $789.45
+ID: 14-9941581  Name: Latehouse, Basilio         Hours Worked:  38  Hourly Pay Rate:  56.96  Gross Pay:$2,164.48  Net Pay: $2,034.61
+ID: 25-2521137  Name: Pietrasik, Weider          Hours Worked:  17  Hourly Pay Rate:  20.65  Gross Pay:$  351.05  Net Pay: $329.99
+ID: 11-6053139  Name: Shaul, Trix                Hours Worked:  36  Hourly Pay Rate:  13.19  Gross Pay:$  474.84  Net Pay: $446.35
+ID: 90-3985529  Name: Alessandrini, Dalila       Hours Worked:  21  Hourly Pay Rate:  37.13  Gross Pay:$  779.73  Net Pay: $732.95
+ID: 02-8159652  Name: Quincey, Ebonee            Hours Worked:  25  Hourly Pay Rate:  40.43  Gross Pay:$1,010.75  Net Pay: $950.10
+ID: 52-3338834  Name: Dyerson, Eben              Hours Worked:  18  Hourly Pay Rate:  23.32  Gross Pay:$  419.76  Net Pay: $394.57
+ID: 35-6242576  Name: Nulty, Noella              Hours Worked:  35  Hourly Pay Rate:  15.78  Gross Pay:$  552.30  Net Pay: $519.16
+ID: 31-0131959  Name: Wawer, Papagena            Hours Worked:  32  Hourly Pay Rate:  16.85  Gross Pay:$  539.20  Net Pay: $506.85
+ID: 68-8134041  Name: Oulett, Phil               Hours Worked:  28  Hourly Pay Rate:  35.81  Gross Pay:$1,002.68  Net Pay: $942.52
+ID: 18-2161190  Name: Weerdenburg, Jervis        Hours Worked:  27  Hourly Pay Rate:  56.58  Gross Pay:$1,527.66  Net Pay: $1,436.00
+ID: 42-3243007  Name: Malicki, Angeline          Hours Worked:  34  Hourly Pay Rate:  22.03  Gross Pay:$  749.02  Net Pay: $704.08
+ID: 10-4420182  Name: Swannell, Anderea          Hours Worked:  32  Hourly Pay Rate:  33.97  Gross Pay:$1,087.04  Net Pay: $1,021.82
+ID: 74-9588419  Name: Farmery, Catlaina          Hours Worked:  18  Hourly Pay Rate:  49.03  Gross Pay:$  882.54  Net Pay: $829.59
+ID: 24-9125335  Name: Bartels-Ellis, Sherie      Hours Worked:  36  Hourly Pay Rate:  30.11  Gross Pay:$1,083.96  Net Pay: $1,018.92
+ID: 82-5712161  Name: Kingswoode, Irving         Hours Worked:  18  Hourly Pay Rate:  35.32  Gross Pay:$  635.76  Net Pay: $597.61
+ID: 91-4943133  Name: Perrott, Berkeley          Hours Worked:  33  Hourly Pay Rate:  17.82  Gross Pay:$  588.06  Net Pay: $552.78
+ID: 67-2335382  Name: Sheeran, Jarred            Hours Worked:  39  Hourly Pay Rate:  25.51  Gross Pay:$  994.89  Net Pay: $935.20
+ID: 70-6587282  Name: Revance, Devora            Hours Worked:  35  Hourly Pay Rate:  19.85  Gross Pay:$  694.75  Net Pay: $653.06
+ID: 02-1454167  Name: Doldon, Lorilee            Hours Worked:  31  Hourly Pay Rate:  57.84  Gross Pay:$1,793.04  Net Pay: $1,685.46
+ID: 88-4849363  Name: D'Alessandro, Penrod       Hours Worked:  37  Hourly Pay Rate:  41.83  Gross Pay:$1,547.71  Net Pay: $1,454.85
+ID: 91-7415816  Name: Parram, Kaila              Hours Worked:  27  Hourly Pay Rate:  49.01  Gross Pay:$1,323.27  Net Pay: $1,243.87
+ID: 86-8018887  Name: Lemmens, Nancie            Hours Worked:  16  Hourly Pay Rate:  57.85  Gross Pay:$  925.60  Net Pay: $870.06
+ID: 39-6776378  Name: Ruzek, Rubin               Hours Worked:  36  Hourly Pay Rate:  24.89  Gross Pay:$  896.04  Net Pay: $842.28
+ID: 38-9256292  Name: Lorincz, Leonelle          Hours Worked:  40  Hourly Pay Rate:  56.57  Gross Pay:$2,262.80  Net Pay: $2,127.03
+ID: 80-9703802  Name: Knaggs, Ariana             Hours Worked:  28  Hourly Pay Rate:  31.52  Gross Pay:$  882.56  Net Pay: $829.61
+ID: 74-0436520  Name: Cecil, Jeannie             Hours Worked:  40  Hourly Pay Rate:  52.29  Gross Pay:$2,091.60  Net Pay: $1,966.10
+ID: 89-5572142  Name: Guiducci, Dian             Hours Worked:  34  Hourly Pay Rate:  37.16  Gross Pay:$1,263.44  Net Pay: $1,187.63
+ID: 48-5944357  Name: Chaff, Matelda             Hours Worked:  32  Hourly Pay Rate:  12.11  Gross Pay:$  387.52  Net Pay: $364.27
+ID: 08-6418374  Name: Bein, Todd                 Hours Worked:  16  Hourly Pay Rate:  21.36  Gross Pay:$  341.76  Net Pay: $321.25
+ID: 57-5668354  Name: Tomkin, Ada                Hours Worked:  25  Hourly Pay Rate:  46.79  Gross Pay:$1,169.75  Net Pay: $1,099.56
+ID: 90-4343245  Name: Tumbridge, Peri            Hours Worked:  18  Hourly Pay Rate:  11.10  Gross Pay:$  199.80  Net Pay: $187.81
+ID: 88-5965464  Name: Simonini, Patin            Hours Worked:  18  Hourly Pay Rate:  56.19  Gross Pay:$1,011.42  Net Pay: $950.73
+ID: 66-8646384  Name: Euston, Amalle             Hours Worked:  24  Hourly Pay Rate:  50.83  Gross Pay:$1,219.92  Net Pay: $1,146.72
+ID: 92-6608028  Name: Barnaby, Blancha           Hours Worked:  27  Hourly Pay Rate:  29.15  Gross Pay:$  787.05  Net Pay: $739.83
+ID: 09-4311240  Name: Hawton, Nichol             Hours Worked:  17  Hourly Pay Rate:  13.74  Gross Pay:$  233.58  Net Pay: $219.57
+ID: 07-2436382  Name: Fieller, Salvador          Hours Worked:  37  Hourly Pay Rate:  46.62  Gross Pay:$1,724.94  Net Pay: $1,621.44
+ID: 89-9294243  Name: Klaff, Datha               Hours Worked:  33  Hourly Pay Rate:  55.47  Gross Pay:$1,830.51  Net Pay: $1,720.68
+ID: 29-5149538  Name: Dorricott, Niall           Hours Worked:  27  Hourly Pay Rate:  15.34  Gross Pay:$  414.18  Net Pay: $389.33
+ID: 31-2010280  Name: Hanlin, Maxine             Hours Worked:  37  Hourly Pay Rate:  52.17  Gross Pay:$1,930.29  Net Pay: $1,814.47
+ID: 08-9119071  Name: Denne, Rosene              Hours Worked:  36  Hourly Pay Rate:  17.54  Gross Pay:$  631.44  Net Pay: $593.55
+ID: 72-8268306  Name: Croydon, Glynis            Hours Worked:  22  Hourly Pay Rate:  15.38  Gross Pay:$  338.36  Net Pay: $318.06
+ID: 69-0000549  Name: Beretta, Helen             Hours Worked:  38  Hourly Pay Rate:  12.88  Gross Pay:$  489.44  Net Pay: $460.07
+ID: 18-5896022  Name: Proschek, Marietta         Hours Worked:  22  Hourly Pay Rate:  51.44  Gross Pay:$1,131.68  Net Pay: $1,063.78
+ID: 05-1178852  Name: Bispham, Flor              Hours Worked:  37  Hourly Pay Rate:  48.94  Gross Pay:$1,810.78  Net Pay: $1,702.13
+ID: 27-4222458  Name: Branscombe, Melitta        Hours Worked:  16  Hourly Pay Rate:  36.64  Gross Pay:$  586.24  Net Pay: $551.07
+ID: 78-9632063  Name: Hauxley, Manny             Hours Worked:  39  Hourly Pay Rate:  30.38  Gross Pay:$1,184.82  Net Pay: $1,113.73
+ID: 94-0463749  Name: Morewood, Izak             Hours Worked:  19  Hourly Pay Rate:  32.98  Gross Pay:$  626.62  Net Pay: $589.02
+ID: 38-7745055  Name: Bentinck, Jdavie           Hours Worked:  39  Hourly Pay Rate:  13.16  Gross Pay:$  513.24  Net Pay: $482.45
+ID: 79-1965723  Name: Boerder, Darya             Hours Worked:  39  Hourly Pay Rate:  16.14  Gross Pay:$  629.46  Net Pay: $591.69
+ID: 64-3400166  Name: Armistead, Willy           Hours Worked:  15  Hourly Pay Rate:  23.55  Gross Pay:$  353.25  Net Pay: $332.06
+ID: 25-9217245  Name: Weekley, Inger             Hours Worked:  27  Hourly Pay Rate:  23.49  Gross Pay:$  634.23  Net Pay: $596.18
+ID: 55-5751684  Name: Bartunek, Merry            Hours Worked:  24  Hourly Pay Rate:  46.07  Gross Pay:$1,105.68  Net Pay: $1,039.34
+ID: 86-4134589  Name: Pochon, Velma              Hours Worked:  18  Hourly Pay Rate:  51.00  Gross Pay:$  918.00  Net Pay: $862.92
+ID: 10-6743638  Name: Deards, Shamus             Hours Worked:  27  Hourly Pay Rate:  35.76  Gross Pay:$  965.52  Net Pay: $907.59
+ID: 37-4924115  Name: Moland, Nelia              Hours Worked:  30  Hourly Pay Rate:  37.65  Gross Pay:$1,129.50  Net Pay: $1,061.73
+ID: 04-2822236  Name: Clarson, Laural            Hours Worked:  25  Hourly Pay Rate:  17.44  Gross Pay:$  436.00  Net Pay: $409.84
+ID: 25-8704088  Name: Giddens, Tessi             Hours Worked:  24  Hourly Pay Rate:  41.33  Gross Pay:$  991.92  Net Pay: $932.40
+ID: 46-7512981  Name: Gaskins, Chrissie          Hours Worked:  25  Hourly Pay Rate:  20.76  Gross Pay:$  519.00  Net Pay: $487.86
+ID: 12-4737970  Name: Ilewicz, Ellary            Hours Worked:  35  Hourly Pay Rate:  50.88  Gross Pay:$1,780.80  Net Pay: $1,673.95
+ID: 82-1305674  Name: Rappa, Lethia              Hours Worked:  24  Hourly Pay Rate:  13.13  Gross Pay:$  315.12  Net Pay: $296.21
+ID: 52-6786433  Name: Lakin, Teddi               Hours Worked:  35  Hourly Pay Rate:  45.96  Gross Pay:$1,608.60  Net Pay: $1,512.08
+ID: 32-9126566  Name: Dunnion, Lenna             Hours Worked:  24  Hourly Pay Rate:  39.50  Gross Pay:$  948.00  Net Pay: $891.12
+ID: 23-5080933  Name: Finan, Lauralee            Hours Worked:  27  Hourly Pay Rate:  59.18  Gross Pay:$1,597.86  Net Pay: $1,501.99
+ID: 79-8931381  Name: Carmichael, Timmy          Hours Worked:  15  Hourly Pay Rate:  35.78  Gross Pay:$  536.70  Net Pay: $504.50
+ID: 96-1968420  Name: Woodman, Lind              Hours Worked:  24  Hourly Pay Rate:  37.75  Gross Pay:$  906.00  Net Pay: $851.64
+ID: 63-6322000  Name: Hogbourne, Niko            Hours Worked:  29  Hourly Pay Rate:  13.99  Gross Pay:$  405.71  Net Pay: $381.37
+ID: 40-4239908  Name: Oxlee, Michaela            Hours Worked:  35  Hourly Pay Rate:  56.69  Gross Pay:$1,984.15  Net Pay: $1,865.10
+ID: 06-8440217  Name: Blazey, Jaclin             Hours Worked:  20  Hourly Pay Rate:  12.99  Gross Pay:$  259.80  Net Pay: $244.21
+ID: 93-6145693  Name: Turville, Richardo         Hours Worked:  18  Hourly Pay Rate:  36.94  Gross Pay:$  664.92  Net Pay: $625.02
+ID: 73-8123314  Name: Mailes, Dev                Hours Worked:  23  Hourly Pay Rate:  34.39  Gross Pay:$  790.97  Net Pay: $743.51
+ID: 38-9183417  Name: Spawton, Gabriela          Hours Worked:  23  Hourly Pay Rate:  28.01  Gross Pay:$  644.23  Net Pay: $605.58
+ID: 72-7137871  Name: Hughes, Juliette           Hours Worked:  35  Hourly Pay Rate:  30.44  Gross Pay:$1,065.40  Net Pay: $1,001.48
+ID: 21-6881934  Name: Wingatt, Craggie           Hours Worked:  38  Hourly Pay Rate:  29.05  Gross Pay:$1,103.90  Net Pay: $1,037.67
+ID: 71-1085613  Name: von Nassau, Rayshell       Hours Worked:  18  Hourly Pay Rate:  48.56  Gross Pay:$  874.08  Net Pay: $821.64
+ID: 13-4726049  Name: Piatkowski, Janela         Hours Worked:  20  Hourly Pay Rate:  41.76  Gross Pay:$  835.20  Net Pay: $785.09
+ID: 99-3704597  Name: Witheridge, Lulu           Hours Worked:  36  Hourly Pay Rate:  18.88  Gross Pay:$  679.68  Net Pay: $638.90
+ID: 64-6640873  Name: Millett, Wilden            Hours Worked:  24  Hourly Pay Rate:  49.49  Gross Pay:$1,187.76  Net Pay: $1,116.49
+ID: 59-1303462  Name: Bedin, Ulrich              Hours Worked:  17  Hourly Pay Rate:  35.89  Gross Pay:$  610.13  Net Pay: $573.52
+ID: 79-7151954  Name: Todari, Collette           Hours Worked:  19  Hourly Pay Rate:  27.09  Gross Pay:$  514.71  Net Pay: $483.83
+ID: 59-6700511  Name: Skeemer, Zahara            Hours Worked:  20  Hourly Pay Rate:  13.78  Gross Pay:$  275.60  Net Pay: $259.06
+ID: 74-9668426  Name: Pugh, Stearn               Hours Worked:  40  Hourly Pay Rate:  24.45  Gross Pay:$  978.00  Net Pay: $919.32
+ID: 00-6661070  Name: Wadly, Kala                Hours Worked:  15  Hourly Pay Rate:  53.70  Gross Pay:$  805.50  Net Pay: $757.17
+ID: 61-2995815  Name: Dronsfield, Jarrod         Hours Worked:  38  Hourly Pay Rate:  16.50  Gross Pay:$  627.00  Net Pay: $589.38
+ID: 01-1506373  Name: Landon, Stacia             Hours Worked:  26  Hourly Pay Rate:  15.23  Gross Pay:$  395.98  Net Pay: $372.22
+ID: 83-7627070  Name: Barles, Piper              Hours Worked:  32  Hourly Pay Rate:  26.19  Gross Pay:$  838.08  Net Pay: $787.80
+ID: 51-7161182  Name: Cossons, Marinna           Hours Worked:  20  Hourly Pay Rate:  36.86  Gross Pay:$  737.20  Net Pay: $692.97
+ID: 00-7718514  Name: Frentz, Danielle           Hours Worked:  29  Hourly Pay Rate:  28.91  Gross Pay:$  838.39  Net Pay: $788.09
+ID: 91-5242372  Name: Sinisbury, Tobias          Hours Worked:  33  Hourly Pay Rate:  50.28  Gross Pay:$1,659.24  Net Pay: $1,559.69
+ID: 66-4010174  Name: Clutheram, Sergei          Hours Worked:  27  Hourly Pay Rate:  20.94  Gross Pay:$  565.38  Net Pay: $531.46
+ID: 24-9273033  Name: Bartoletti, Tasia          Hours Worked:  18  Hourly Pay Rate:  17.86  Gross Pay:$  321.48  Net Pay: $302.19
+ID: 64-4632221  Name: Bennett, Bevan             Hours Worked:  40  Hourly Pay Rate:  25.92  Gross Pay:$1,036.80  Net Pay: $974.59
+ID: 96-8755152  Name: Noseworthy, Rodi           Hours Worked:  40  Hourly Pay Rate:  43.54  Gross Pay:$1,741.60  Net Pay: $1,637.10
+ID: 33-4934648  Name: Lundie, Willow             Hours Worked:  39  Hourly Pay Rate:  54.96  Gross Pay:$2,143.44  Net Pay: $2,014.83
+ID: 90-7469158  Name: Nacey, Aigneis             Hours Worked:  36  Hourly Pay Rate:  52.44  Gross Pay:$1,887.84  Net Pay: $1,774.57
+ID: 79-7981804  Name: Garritley, Estrella        Hours Worked:  37  Hourly Pay Rate:  52.21  Gross Pay:$1,931.77  Net Pay: $1,815.86
+ID: 44-3463421  Name: Whapham, Dee dee           Hours Worked:  32  Hourly Pay Rate:  31.85  Gross Pay:$1,019.20  Net Pay: $958.05
+ID: 64-1147632  Name: Birchill, Danny            Hours Worked:  39  Hourly Pay Rate:  47.70  Gross Pay:$1,860.30  Net Pay: $1,748.68
+ID: 04-9664578  Name: Tinto, Gaspar              Hours Worked:  19  Hourly Pay Rate:  46.16  Gross Pay:$  877.04  Net Pay: $824.42
+ID: 90-1839761  Name: Seacombe, Devy             Hours Worked:  33  Hourly Pay Rate:  56.02  Gross Pay:$1,848.66  Net Pay: $1,737.74
+ID: 31-1466660  Name: Hellin, Yehudi             Hours Worked:  30  Hourly Pay Rate:  47.57  Gross Pay:$1,427.10  Net Pay: $1,341.47
+ID: 57-7676649  Name: Salvador, Vikky            Hours Worked:  39  Hourly Pay Rate:  47.32  Gross Pay:$1,845.48  Net Pay: $1,734.75
+ID: 72-8861386  Name: Cheese, Daisey             Hours Worked:  15  Hourly Pay Rate:  31.23  Gross Pay:$  468.45  Net Pay: $440.34
+ID: 79-2064123  Name: Brockie, Evelina           Hours Worked:  27  Hourly Pay Rate:  26.93  Gross Pay:$  727.11  Net Pay: $683.48
+ID: 38-1562417  Name: Sansum, Zak                Hours Worked:  26  Hourly Pay Rate:  25.32  Gross Pay:$  658.32  Net Pay: $618.82
+ID: 80-9428318  Name: Brame, Adolphus            Hours Worked:  27  Hourly Pay Rate:  15.00  Gross Pay:$  405.00  Net Pay: $380.70
+ID: 81-3213825  Name: Messer, Meriel             Hours Worked:  29  Hourly Pay Rate:  58.63  Gross Pay:$1,700.27  Net Pay: $1,598.25
+ID: 75-7178713  Name: Jollie, Elysee             Hours Worked:  29  Hourly Pay Rate:  23.05  Gross Pay:$  668.45  Net Pay: $628.34
+ID: 00-7257729  Name: Josifovitz, Anallese       Hours Worked:  26  Hourly Pay Rate:  16.79  Gross Pay:$  436.54  Net Pay: $410.35
+ID: 48-1861908  Name: Power, Shell               Hours Worked:  36  Hourly Pay Rate:  25.57  Gross Pay:$  920.52  Net Pay: $865.29
+ID: 50-7243488  Name: Hince, Hillary             Hours Worked:  37  Hourly Pay Rate:  31.86  Gross Pay:$1,178.82  Net Pay: $1,108.09
+ID: 24-7559108  Name: Regglar, Menard            Hours Worked:  39  Hourly Pay Rate:  31.89  Gross Pay:$1,243.71  Net Pay: $1,169.09
+ID: 84-9220242  Name: Slemmonds, Calv            Hours Worked:  36  Hourly Pay Rate:  27.11  Gross Pay:$  975.96  Net Pay: $917.40
+ID: 98-1486434  Name: Tooke, Cynde               Hours Worked:  37  Hourly Pay Rate:  17.10  Gross Pay:$  632.70  Net Pay: $594.74
+ID: 91-8612320  Name: Bazek, Margot              Hours Worked:  16  Hourly Pay Rate:  35.68  Gross Pay:$  570.88  Net Pay: $536.63
+ID: 13-5189417  Name: MacGinney, Davidde         Hours Worked:  34  Hourly Pay Rate:  25.21  Gross Pay:$  857.14  Net Pay: $805.71
+ID: 89-8608257  Name: Ridge, Myron               Hours Worked:  16  Hourly Pay Rate:  14.54  Gross Pay:$  232.64  Net Pay: $218.68
+ID: 50-8343352  Name: Duffil, Sibby              Hours Worked:  19  Hourly Pay Rate:  10.90  Gross Pay:$  207.10  Net Pay: $194.67
+ID: 42-3551749  Name: Chue, Kenton               Hours Worked:  19  Hourly Pay Rate:  39.10  Gross Pay:$  742.90  Net Pay: $698.33
+ID: 06-3111305  Name: Gilfether, Stanleigh       Hours Worked:  22  Hourly Pay Rate:  14.00  Gross Pay:$  308.00  Net Pay: $289.52
+ID: 26-6405199  Name: Hatliff, Mirella           Hours Worked:  25  Hourly Pay Rate:  41.54  Gross Pay:$1,038.50  Net Pay: $976.19
+ID: 56-5097200  Name: Brownell, Dorothea         Hours Worked:  35  Hourly Pay Rate:  32.08  Gross Pay:$1,122.80  Net Pay: $1,055.43
+ID: 77-2663480  Name: Leithgoe, Allister         Hours Worked:  32  Hourly Pay Rate:  16.45  Gross Pay:$  526.40  Net Pay: $494.82
+ID: 68-7609940  Name: Urwen, Morley              Hours Worked:  23  Hourly Pay Rate:  35.18  Gross Pay:$  809.14  Net Pay: $760.59
+ID: 35-4369876  Name: Cumberlidge, Lutero        Hours Worked:  35  Hourly Pay Rate:  16.29  Gross Pay:$  570.15  Net Pay: $535.94
+ID: 22-7717193  Name: Kyllford, Zora             Hours Worked:  36  Hourly Pay Rate:  15.43  Gross Pay:$  555.48  Net Pay: $522.15
+ID: 80-2662146  Name: Cancellario, Tracee        Hours Worked:  26  Hourly Pay Rate:  21.95  Gross Pay:$  570.70  Net Pay: $536.46
+ID: 86-8715509  Name: Bawme, Klaus               Hours Worked:  40  Hourly Pay Rate:  38.69  Gross Pay:$1,547.60  Net Pay: $1,454.74
+ID: 01-6023737  Name: Salterne, Dael             Hours Worked:  36  Hourly Pay Rate:  53.65  Gross Pay:$1,931.40  Net Pay: $1,815.52
+ID: 60-8597051  Name: Gillebride, Sigrid         Hours Worked:  39  Hourly Pay Rate:  58.28  Gross Pay:$2,272.92  Net Pay: $2,136.54
+ID: 00-8492269  Name: Malenfant, Nerty           Hours Worked:  34  Hourly Pay Rate:  31.05  Gross Pay:$1,055.70  Net Pay: $992.36
+ID: 19-8623635  Name: Clohessy, Lishe            Hours Worked:  21  Hourly Pay Rate:  23.11  Gross Pay:$  485.31  Net Pay: $456.19
+ID: 21-2514150  Name: Gallyhaock, Rafaelita      Hours Worked:  30  Hourly Pay Rate:  48.71  Gross Pay:$1,461.30  Net Pay: $1,373.62
+ID: 13-5719143  Name: Backler, Herve             Hours Worked:  31  Hourly Pay Rate:  58.39  Gross Pay:$1,810.09  Net Pay: $1,701.48
+ID: 43-8412845  Name: Presswell, Darcey          Hours Worked:  37  Hourly Pay Rate:  10.12  Gross Pay:$  374.44  Net Pay: $351.97
+ID: 68-3046310  Name: Cowsby, Marsh              Hours Worked:  25  Hourly Pay Rate:  22.08  Gross Pay:$  552.00  Net Pay: $518.88
+ID: 89-2050674  Name: Roubottom, Thibaut         Hours Worked:  28  Hourly Pay Rate:  47.97  Gross Pay:$1,343.16  Net Pay: $1,262.57
+ID: 22-9461443  Name: Couser, Darryl             Hours Worked:  16  Hourly Pay Rate:  45.23  Gross Pay:$  723.68  Net Pay: $680.26
+ID: 70-5555561  Name: Dongate, Darrell           Hours Worked:  35  Hourly Pay Rate:  28.43  Gross Pay:$  995.05  Net Pay: $935.35
+ID: 61-9361995  Name: McManamen, Pace            Hours Worked:  35  Hourly Pay Rate:  27.25  Gross Pay:$  953.75  Net Pay: $896.53
+ID: 69-3315524  Name: Scini, Phyllys             Hours Worked:  23  Hourly Pay Rate:  33.08  Gross Pay:$  760.84  Net Pay: $715.19
+ID: 66-9658239  Name: Lightfoot, Morgana         Hours Worked:  30  Hourly Pay Rate:  15.27  Gross Pay:$  458.10  Net Pay: $430.61
+ID: 94-0000025  Name: Bauldrey, Catherina        Hours Worked:  26  Hourly Pay Rate:  25.43  Gross Pay:$  661.18  Net Pay: $621.51
+ID: 86-6067894  Name: Tomczykowski, Duncan       Hours Worked:  39  Hourly Pay Rate:  17.57  Gross Pay:$  685.23  Net Pay: $644.12
+ID: 87-7028437  Name: Cashell, Marina            Hours Worked:  19  Hourly Pay Rate:  42.25  Gross Pay:$  802.75  Net Pay: $754.58
+ID: 15-4380142  Name: Ainslee, Tove              Hours Worked:  25  Hourly Pay Rate:  25.01  Gross Pay:$  625.25  Net Pay: $587.74
+ID: 81-5674302  Name: Hould, Cathy               Hours Worked:  19  Hourly Pay Rate:  17.43  Gross Pay:$  331.17  Net Pay: $311.30
+ID: 16-4723914  Name: Akast, Fern                Hours Worked:  15  Hourly Pay Rate:  51.12  Gross Pay:$  766.80  Net Pay: $720.79
+ID: 25-0798928  Name: McLukie, Ram               Hours Worked:  37  Hourly Pay Rate:  22.39  Gross Pay:$  828.43  Net Pay: $778.72
+ID: 38-5631143  Name: Sutor, Frieda              Hours Worked:  25  Hourly Pay Rate:  53.92  Gross Pay:$1,348.00  Net Pay: $1,267.12
+ID: 73-6730862  Name: Nowak, Giovanni            Hours Worked:  15  Hourly Pay Rate:  41.60  Gross Pay:$  624.00  Net Pay: $586.56
+ID: 60-7498745  Name: Scraney, Allen             Hours Worked:  20  Hourly Pay Rate:  55.36  Gross Pay:$1,107.20  Net Pay: $1,040.77
+ID: 19-1670220  Name: Hanes, Susann              Hours Worked:  31  Hourly Pay Rate:  49.59  Gross Pay:$1,537.29  Net Pay: $1,445.05
+ID: 43-3218520  Name: Jaszczak, Temp             Hours Worked:  16  Hourly Pay Rate:  44.10  Gross Pay:$  705.60  Net Pay: $663.26
+ID: 39-2842104  Name: Verrillo, Mamie            Hours Worked:  20  Hourly Pay Rate:  43.77  Gross Pay:$  875.40  Net Pay: $822.88
+ID: 17-5336483  Name: Ruskin, Mendel             Hours Worked:  28  Hourly Pay Rate:  30.08  Gross Pay:$  842.24  Net Pay: $791.71
+ID: 74-0362661  Name: Shercliff, Amii            Hours Worked:  23  Hourly Pay Rate:  35.11  Gross Pay:$  807.53  Net Pay: $759.08
+ID: 94-3121305  Name: Brydon, Mace               Hours Worked:  16  Hourly Pay Rate:  41.46  Gross Pay:$  663.36  Net Pay: $623.56
+ID: 25-4927409  Name: Codling, Antoine           Hours Worked:  21  Hourly Pay Rate:  15.79  Gross Pay:$  331.59  Net Pay: $311.69
+ID: 96-5612844  Name: Mont, Clevie               Hours Worked:  16  Hourly Pay Rate:  56.65  Gross Pay:$  906.40  Net Pay: $852.02
+ID: 26-5926760  Name: Davidofski, Cristiano      Hours Worked:  22  Hourly Pay Rate:  26.09  Gross Pay:$  573.98  Net Pay: $539.54
+ID: 72-4803501  Name: Eglington, Salomone        Hours Worked:  30  Hourly Pay Rate:  33.42  Gross Pay:$1,002.60  Net Pay: $942.44
+ID: 49-5085352  Name: Berendsen, Jerrine         Hours Worked:  32  Hourly Pay Rate:  58.04  Gross Pay:$1,857.28  Net Pay: $1,745.84
+ID: 26-1424701  Name: Snawdon, Kira              Hours Worked:  16  Hourly Pay Rate:  44.66  Gross Pay:$  714.56  Net Pay: $671.69
+ID: 42-5882093  Name: Mincini, Emili             Hours Worked:  34  Hourly Pay Rate:  10.44  Gross Pay:$  354.96  Net Pay: $333.66
+ID: 83-4784279  Name: Lesly, Venus               Hours Worked:  39  Hourly Pay Rate:  49.57  Gross Pay:$1,933.23  Net Pay: $1,817.24
+ID: 80-9743260  Name: Hargreves, Chad            Hours Worked:  28  Hourly Pay Rate:  22.82  Gross Pay:$  638.96  Net Pay: $600.62
+ID: 42-3630060  Name: Meadway, Emelita           Hours Worked:  32  Hourly Pay Rate:  15.38  Gross Pay:$  492.16  Net Pay: $462.63
+ID: 04-0430200  Name: Smedmore, Nonie            Hours Worked:  22  Hourly Pay Rate:  56.19  Gross Pay:$1,236.18  Net Pay: $1,162.01
+ID: 40-7307100  Name: Veazey, Isadore            Hours Worked:  19  Hourly Pay Rate:  55.15  Gross Pay:$1,047.85  Net Pay: $984.98
+ID: 58-8571826  Name: Pollington, Demott         Hours Worked:  20  Hourly Pay Rate:  19.91  Gross Pay:$  398.20  Net Pay: $374.31
+ID: 36-6255840  Name: Huggins, Violetta          Hours Worked:  27  Hourly Pay Rate:  38.81  Gross Pay:$1,047.87  Net Pay: $985.00
+ID: 57-2924184  Name: Frid, Dulcinea             Hours Worked:  36  Hourly Pay Rate:  57.82  Gross Pay:$2,081.52  Net Pay: $1,956.63
+ID: 48-6277459  Name: Rabbage, Gerhardt          Hours Worked:  26  Hourly Pay Rate:  56.92  Gross Pay:$1,479.92  Net Pay: $1,391.12
+ID: 82-9018159  Name: Tremayne, Biron            Hours Worked:  36  Hourly Pay Rate:  48.59  Gross Pay:$1,749.24  Net Pay: $1,644.29
+ID: 78-9305729  Name: Allen, Jelene              Hours Worked:  28  Hourly Pay Rate:  49.73  Gross Pay:$1,392.44  Net Pay: $1,308.89
+ID: 10-0332769  Name: Charleston, Tobit          Hours Worked:  37  Hourly Pay Rate:  18.17  Gross Pay:$  672.29  Net Pay: $631.95
+ID: 55-8230918  Name: Crone, Arda                Hours Worked:  20  Hourly Pay Rate:  34.53  Gross Pay:$  690.60  Net Pay: $649.16
+ID: 18-3346271  Name: Piburn, Andre              Hours Worked:  27  Hourly Pay Rate:  32.63  Gross Pay:$  881.01  Net Pay: $828.15
+ID: 38-8871910  Name: Bowe, Ulrich               Hours Worked:  21  Hourly Pay Rate:  17.70  Gross Pay:$  371.70  Net Pay: $349.40
+ID: 18-3362691  Name: Peckham, Antonio           Hours Worked:  39  Hourly Pay Rate:  45.05  Gross Pay:$1,756.95  Net Pay: $1,651.53
+ID: 51-0846696  Name: Hanne, Mina                Hours Worked:  30  Hourly Pay Rate:  56.58  Gross Pay:$1,697.40  Net Pay: $1,595.56
+ID: 45-1567280  Name: Plaice, Kory               Hours Worked:  29  Hourly Pay Rate:  30.80  Gross Pay:$  893.20  Net Pay: $839.61
+ID: 42-7070211  Name: Grattage, Alyce            Hours Worked:  15  Hourly Pay Rate:  20.79  Gross Pay:$  311.85  Net Pay: $293.14
+ID: 25-3193571  Name: Caton, Kassia              Hours Worked:  30  Hourly Pay Rate:  53.70  Gross Pay:$1,611.00  Net Pay: $1,514.34
+ID: 83-5381163  Name: Caldera, Rozalie           Hours Worked:  31  Hourly Pay Rate:  16.86  Gross Pay:$  522.66  Net Pay: $491.30
+ID: 52-2768869  Name: Pencot, Linn               Hours Worked:  28  Hourly Pay Rate:  35.70  Gross Pay:$  999.60  Net Pay: $939.62
+ID: 93-9728045  Name: Trethewey, Cristy          Hours Worked:  21  Hourly Pay Rate:  42.25  Gross Pay:$  887.25  Net Pay: $834.02
+ID: 33-5785057  Name: Leys, Pietra               Hours Worked:  40  Hourly Pay Rate:  36.75  Gross Pay:$1,470.00  Net Pay: $1,381.80
+ID: 21-0559122  Name: O Mullen, Shelden          Hours Worked:  19  Hourly Pay Rate:  28.97  Gross Pay:$  550.43  Net Pay: $517.40
+ID: 18-6196078  Name: Doornbos, Druci            Hours Worked:  21  Hourly Pay Rate:  22.43  Gross Pay:$  471.03  Net Pay: $442.77
+ID: 68-5612577  Name: Gabey, Cybil               Hours Worked:  37  Hourly Pay Rate:  21.85  Gross Pay:$  808.45  Net Pay: $759.94
+ID: 39-9490937  Name: Twelvetree, Tirrell        Hours Worked:  31  Hourly Pay Rate:  23.60  Gross Pay:$  731.60  Net Pay: $687.70
+ID: 28-5736194  Name: Pyer, Stephannie           Hours Worked:  40  Hourly Pay Rate:  35.50  Gross Pay:$1,420.00  Net Pay: $1,334.80
+ID: 06-6354619  Name: Kuzma, Myrtia              Hours Worked:  18  Hourly Pay Rate:  33.97  Gross Pay:$  611.46  Net Pay: $574.77
+ID: 25-0369634  Name: Exley, Sigismundo          Hours Worked:  30  Hourly Pay Rate:  15.65  Gross Pay:$  469.50  Net Pay: $441.33
+ID: 23-5797618  Name: Pohlak, Gwen               Hours Worked:  32  Hourly Pay Rate:  12.34  Gross Pay:$  394.88  Net Pay: $371.19
+ID: 42-4280714  Name: Garnham, Ulick             Hours Worked:  36  Hourly Pay Rate:  57.24  Gross Pay:$2,060.64  Net Pay: $1,937.00
+ID: 71-4662726  Name: Ivimey, Isa                Hours Worked:  18  Hourly Pay Rate:  28.23  Gross Pay:$  508.14  Net Pay: $477.65
+ID: 67-0570084  Name: Elleton, Garland           Hours Worked:  40  Hourly Pay Rate:  28.40  Gross Pay:$1,136.00  Net Pay: $1,067.84
+ID: 60-6863650  Name: Franklyn, Conrado          Hours Worked:  36  Hourly Pay Rate:  38.36  Gross Pay:$1,380.96  Net Pay: $1,298.10
+ID: 87-8603616  Name: Turfitt, Elizabet          Hours Worked:  27  Hourly Pay Rate:  27.86  Gross Pay:$  752.22  Net Pay: $707.09
+ID: 20-7341144  Name: Brockbank, Alberta         Hours Worked:  17  Hourly Pay Rate:  48.60  Gross Pay:$  826.20  Net Pay: $776.63
+ID: 43-5468028  Name: Proske, Anselma            Hours Worked:  21  Hourly Pay Rate:  54.73  Gross Pay:$1,149.33  Net Pay: $1,080.37
+ID: 05-2506480  Name: Newsome, Roberto           Hours Worked:  32  Hourly Pay Rate:  46.58  Gross Pay:$1,490.56  Net Pay: $1,401.13
+ID: 73-9470719  Name: Rizzi, Margie              Hours Worked:  27  Hourly Pay Rate:  39.71  Gross Pay:$1,072.17  Net Pay: $1,007.84
+ID: 67-2839055  Name: Cawston, Maegan            Hours Worked:  22  Hourly Pay Rate:  40.86  Gross Pay:$  898.92  Net Pay: $844.98
+ID: 13-4651476  Name: Wards, Matt                Hours Worked:  27  Hourly Pay Rate:  32.75  Gross Pay:$  884.25  Net Pay: $831.19
+ID: 28-7564601  Name: Spaven, Celina             Hours Worked:  15  Hourly Pay Rate:  17.22  Gross Pay:$  258.30  Net Pay: $242.80
+ID: 63-8612803  Name: MacNish, Wynn              Hours Worked:  37  Hourly Pay Rate:  26.27  Gross Pay:$  971.99  Net Pay: $913.67
+ID: 20-8550030  Name: Aitken, Eleonora           Hours Worked:  34  Hourly Pay Rate:  21.80  Gross Pay:$  741.20  Net Pay: $696.73
+ID: 30-0597875  Name: Beert, Ralph               Hours Worked:  17  Hourly Pay Rate:  38.17  Gross Pay:$  648.89  Net Pay: $609.96
+ID: 89-8741765  Name: Bradtke, Agosto            Hours Worked:  36  Hourly Pay Rate:  34.46  Gross Pay:$1,240.56  Net Pay: $1,166.13
+ID: 02-7172982  Name: Hardington, Cassey         Hours Worked:  28  Hourly Pay Rate:  26.48  Gross Pay:$  741.44  Net Pay: $696.95
+ID: 83-5055740  Name: Wildes, Eleonora           Hours Worked:  29  Hourly Pay Rate:  14.34  Gross Pay:$  415.86  Net Pay: $390.91
+ID: 01-2304965  Name: Layton, Hirsch             Hours Worked:  32  Hourly Pay Rate:  14.80  Gross Pay:$  473.60  Net Pay: $445.18
+ID: 39-6673729  Name: Ventom, Shannon            Hours Worked:  35  Hourly Pay Rate:  21.34  Gross Pay:$  746.90  Net Pay: $702.09
+ID: 60-5497478  Name: Lilleycrop, Ty             Hours Worked:  20  Hourly Pay Rate:  14.90  Gross Pay:$  298.00  Net Pay: $280.12
+ID: 36-5149712  Name: Musla, Kynthia             Hours Worked:  16  Hourly Pay Rate:  17.01  Gross Pay:$  272.16  Net Pay: $255.83
+ID: 03-9859481  Name: Bilbey, Sharla             Hours Worked:  23  Hourly Pay Rate:  33.08  Gross Pay:$  760.84  Net Pay: $715.19
+ID: 09-6886167  Name: Shipton, Rhoda             Hours Worked:  38  Hourly Pay Rate:  55.04  Gross Pay:$2,091.52  Net Pay: $1,966.03
+ID: 83-1922262  Name: Maffucci, Shela            Hours Worked:  22  Hourly Pay Rate:  16.04  Gross Pay:$  352.88  Net Pay: $331.71
+ID: 66-1844851  Name: Ricciardi, Magda           Hours Worked:  27  Hourly Pay Rate:  55.56  Gross Pay:$1,500.12  Net Pay: $1,410.11
+ID: 44-3054879  Name: Westmerland, Jewel         Hours Worked:  28  Hourly Pay Rate:  40.80  Gross Pay:$1,142.40  Net Pay: $1,073.86
+ID: 78-5351817  Name: McGrorty, Gottfried        Hours Worked:  18  Hourly Pay Rate:  12.22  Gross Pay:$  219.96  Net Pay: $206.76
+ID: 88-8117990  Name: Di Boldi, Glynn            Hours Worked:  21  Hourly Pay Rate:  35.03  Gross Pay:$  735.63  Net Pay: $691.49
+ID: 64-0923585  Name: McElhinney, Antonius       Hours Worked:  30  Hourly Pay Rate:  12.15  Gross Pay:$  364.50  Net Pay: $342.63
+ID: 40-4410943  Name: Pidgeon, Staffard          Hours Worked:  24  Hourly Pay Rate:  40.70  Gross Pay:$  976.80  Net Pay: $918.19
+ID: 15-6212503  Name: Coupland, Dot              Hours Worked:  23  Hourly Pay Rate:  55.80  Gross Pay:$1,283.40  Net Pay: $1,206.40
+ID: 20-7788746  Name: Maystone, Brigit           Hours Worked:  28  Hourly Pay Rate:  38.96  Gross Pay:$1,090.88  Net Pay: $1,025.43
+ID: 17-2284387  Name: Barley, Jamison            Hours Worked:  18  Hourly Pay Rate:  47.69  Gross Pay:$  858.42  Net Pay: $806.91
+ID: 59-2925180  Name: Richen, Archibold          Hours Worked:  17  Hourly Pay Rate:  12.67  Gross Pay:$  215.39  Net Pay: $202.47
+ID: 62-1911396  Name: Latham, Carrol             Hours Worked:  20  Hourly Pay Rate:  46.92  Gross Pay:$  938.40  Net Pay: $882.10
+ID: 19-3108088  Name: Beevers, Raina             Hours Worked:  16  Hourly Pay Rate:  40.46  Gross Pay:$  647.36  Net Pay: $608.52
+ID: 77-1623132  Name: Bunclark, Debee            Hours Worked:  17  Hourly Pay Rate:  49.17  Gross Pay:$  835.89  Net Pay: $785.74
+ID: 06-4179635  Name: Simoneton, Consuela        Hours Worked:  23  Hourly Pay Rate:  20.16  Gross Pay:$  463.68  Net Pay: $435.86
+ID: 05-7773317  Name: Frudd, Jarrod              Hours Worked:  15  Hourly Pay Rate:  10.74  Gross Pay:$  161.10  Net Pay: $151.43
+ID: 67-0171971  Name: MacAnespie, Bette          Hours Worked:  23  Hourly Pay Rate:  52.67  Gross Pay:$1,211.41  Net Pay: $1,138.73
+ID: 70-4897224  Name: Lockner, Annabel           Hours Worked:  17  Hourly Pay Rate:  16.58  Gross Pay:$  281.86  Net Pay: $264.95
+ID: 61-3593233  Name: Paggitt, Jesus             Hours Worked:  18  Hourly Pay Rate:  36.64  Gross Pay:$  659.52  Net Pay: $619.95
+ID: 59-4844221  Name: Slegg, Rickie              Hours Worked:  33  Hourly Pay Rate:  35.04  Gross Pay:$1,156.32  Net Pay: $1,086.94
+ID: 83-6284351  Name: Ommanney, Erroll           Hours Worked:  35  Hourly Pay Rate:  12.02  Gross Pay:$  420.70  Net Pay: $395.46
+ID: 64-7816015  Name: McMahon, Constantina       Hours Worked:  24  Hourly Pay Rate:  13.80  Gross Pay:$  331.20  Net Pay: $311.33
+ID: 45-7019136  Name: Pottberry, Dixie           Hours Worked:  32  Hourly Pay Rate:  43.82  Gross Pay:$1,402.24  Net Pay: $1,318.11
+ID: 39-7979570  Name: Brise, Roddie              Hours Worked:  22  Hourly Pay Rate:  55.09  Gross Pay:$1,211.98  Net Pay: $1,139.26
+ID: 23-4694573  Name: Lockton, Easter            Hours Worked:  23  Hourly Pay Rate:  15.70  Gross Pay:$  361.10  Net Pay: $339.43
+ID: 19-5258830  Name: Lamboll, Marietta          Hours Worked:  15  Hourly Pay Rate:  31.70  Gross Pay:$  475.50  Net Pay: $446.97
+ID: 65-6071908  Name: Kenwright, Ira             Hours Worked:  26  Hourly Pay Rate:  15.65  Gross Pay:$  406.90  Net Pay: $382.49
+ID: 63-5041247  Name: Brennans, Yalonda          Hours Worked:  20  Hourly Pay Rate:  50.38  Gross Pay:$1,007.60  Net Pay: $947.14
+ID: 51-6875738  Name: Crosthwaite, Kellen        Hours Worked:  26  Hourly Pay Rate:  12.45  Gross Pay:$  323.70  Net Pay: $304.28
+ID: 46-1139433  Name: Dunbobin, Chantal          Hours Worked:  29  Hourly Pay Rate:  26.94  Gross Pay:$  781.26  Net Pay: $734.38
+ID: 34-3389257  Name: McLaughlin, Cinderella     Hours Worked:  30  Hourly Pay Rate:  25.63  Gross Pay:$  768.90  Net Pay: $722.77
+ID: 85-7359602  Name: Ravenscroft, Willi         Hours Worked:  27  Hourly Pay Rate:  12.22  Gross Pay:$  329.94  Net Pay: $310.14
+ID: 45-2502125  Name: Loghan, Stafford           Hours Worked:  21  Hourly Pay Rate:  57.62  Gross Pay:$1,210.02  Net Pay: $1,137.42
+ID: 74-7050462  Name: Sawday, Cristabel          Hours Worked:  20  Hourly Pay Rate:  46.02  Gross Pay:$  920.40  Net Pay: $865.18
+ID: 84-0599056  Name: Fillan, Joye               Hours Worked:  36  Hourly Pay Rate:  46.30  Gross Pay:$1,666.80  Net Pay: $1,566.79
+ID: 85-0816822  Name: Blanchet, Tedman           Hours Worked:  31  Hourly Pay Rate:  58.57  Gross Pay:$1,815.67  Net Pay: $1,706.73
+ID: 44-1546105  Name: Acory, Angeline            Hours Worked:  27  Hourly Pay Rate:  51.82  Gross Pay:$1,399.14  Net Pay: $1,315.19
+ID: 80-6871865  Name: Charman, Abagael           Hours Worked:  27  Hourly Pay Rate:  32.82  Gross Pay:$  886.14  Net Pay: $832.97
+ID: 77-9572878  Name: Sinderson, Colver          Hours Worked:  24  Hourly Pay Rate:  39.06  Gross Pay:$  937.44  Net Pay: $881.19
+ID: 03-4514714  Name: Lawford, Myra              Hours Worked:  23  Hourly Pay Rate:  41.12  Gross Pay:$  945.76  Net Pay: $889.01
+ID: 77-4897934  Name: Vaggers, Caryl             Hours Worked:  39  Hourly Pay Rate:  31.17  Gross Pay:$1,215.63  Net Pay: $1,142.69
+ID: 16-3847634  Name: Dillicate, Dell            Hours Worked:  18  Hourly Pay Rate:  11.12  Gross Pay:$  200.16  Net Pay: $188.15
+ID: 18-6452671  Name: Dulin, Mag                 Hours Worked:  30  Hourly Pay Rate:  21.43  Gross Pay:$  642.90  Net Pay: $604.33
+ID: 04-5284640  Name: Consterdine, Audie         Hours Worked:  26  Hourly Pay Rate:  13.22  Gross Pay:$  343.72  Net Pay: $323.10
+ID: 14-5619220  Name: Jess, Newton               Hours Worked:  19  Hourly Pay Rate:  58.03  Gross Pay:$1,102.57  Net Pay: $1,036.42
+ID: 70-4215074  Name: Bendon, Adelaide           Hours Worked:  31  Hourly Pay Rate:  29.71  Gross Pay:$  921.01  Net Pay: $865.75
+ID: 51-0781642  Name: McJerrow, Micky            Hours Worked:  20  Hourly Pay Rate:  30.35  Gross Pay:$  607.00  Net Pay: $570.58
+ID: 31-7047465  Name: Sutherby, Melony           Hours Worked:  38  Hourly Pay Rate:  33.97  Gross Pay:$1,290.86  Net Pay: $1,213.41
+ID: 64-9126736  Name: Dearman, Blondy            Hours Worked:  40  Hourly Pay Rate:  47.32  Gross Pay:$1,892.80  Net Pay: $1,779.23
+ID: 52-8627342  Name: Mullender, Lacy            Hours Worked:  18  Hourly Pay Rate:  53.42  Gross Pay:$  961.56  Net Pay: $903.87
+ID: 66-7267408  Name: Gounod, Claus              Hours Worked:  17  Hourly Pay Rate:  10.37  Gross Pay:$  176.29  Net Pay: $165.71
+ID: 93-6327454  Name: Raoul, Si                  Hours Worked:  30  Hourly Pay Rate:  53.65  Gross Pay:$1,609.50  Net Pay: $1,512.93
+ID: 59-4976488  Name: Leidecker, Rance           Hours Worked:  17  Hourly Pay Rate:  42.39  Gross Pay:$  720.63  Net Pay: $677.39
+ID: 40-4296462  Name: Bellworthy, Jordanna       Hours Worked:  28  Hourly Pay Rate:  56.70  Gross Pay:$1,587.60  Net Pay: $1,492.34
+ID: 76-2695534  Name: Haigh, Auguste             Hours Worked:  30  Hourly Pay Rate:  32.60  Gross Pay:$  978.00  Net Pay: $919.32
+ID: 88-2010440  Name: Fried, Carina              Hours Worked:  36  Hourly Pay Rate:  47.76  Gross Pay:$1,719.36  Net Pay: $1,616.20
+ID: 23-5109828  Name: Schechter, Madelene        Hours Worked:  19  Hourly Pay Rate:  24.54  Gross Pay:$  466.26  Net Pay: $438.28
+ID: 44-1663795  Name: Behrendsen, Uta            Hours Worked:  29  Hourly Pay Rate:  18.39  Gross Pay:$  533.31  Net Pay: $501.31
+ID: 69-7262377  Name: O' Timony, Aurilia         Hours Worked:  26  Hourly Pay Rate:  49.58  Gross Pay:$1,289.08  Net Pay: $1,211.74
+ID: 54-2895458  Name: Alston, Rossie             Hours Worked:  28  Hourly Pay Rate:  38.06  Gross Pay:$1,065.68  Net Pay: $1,001.74
+ID: 69-4609957  Name: Schafer, Ellsworth         Hours Worked:  22  Hourly Pay Rate:  41.45  Gross Pay:$  911.90  Net Pay: $857.19
+ID: 04-2706633  Name: Attwoul, Samara            Hours Worked:  16  Hourly Pay Rate:  28.55  Gross Pay:$  456.80  Net Pay: $429.39
+ID: 32-7506780  Name: Creavin, Phillie           Hours Worked:  38  Hourly Pay Rate:  53.09  Gross Pay:$2,017.42  Net Pay: $1,896.37
+ID: 03-5192534  Name: Forri, Elena               Hours Worked:  38  Hourly Pay Rate:  44.46  Gross Pay:$1,689.48  Net Pay: $1,588.11
+ID: 44-2815040  Name: Izacenko, Beauregard       Hours Worked:  36  Hourly Pay Rate:  37.14  Gross Pay:$1,337.04  Net Pay: $1,256.82
+ID: 66-3147770  Name: Mablestone, Kimmy          Hours Worked:  38  Hourly Pay Rate:  21.66  Gross Pay:$  823.08  Net Pay: $773.70
+ID: 00-7902240  Name: Obern, Mandel              Hours Worked:  39  Hourly Pay Rate:  59.13  Gross Pay:$2,306.07  Net Pay: $2,167.71
+ID: 19-5957496  Name: Furniss, Jaquenetta        Hours Worked:  17  Hourly Pay Rate:  12.21  Gross Pay:$  207.57  Net Pay: $195.12
+ID: 09-5860251  Name: BoHlingolsen, Terza        Hours Worked:  31  Hourly Pay Rate:  16.36  Gross Pay:$  507.16  Net Pay: $476.73
+ID: 95-1050215  Name: Blanchard, Jory            Hours Worked:  18  Hourly Pay Rate:  17.71  Gross Pay:$  318.78  Net Pay: $299.65
+ID: 04-9919489  Name: Jeannequin, Kitty          Hours Worked:  16  Hourly Pay Rate:  56.25  Gross Pay:$  900.00  Net Pay: $846.00
+ID: 53-2538912  Name: Pentycost, Francoise       Hours Worked:  27  Hourly Pay Rate:  49.77  Gross Pay:$1,343.79  Net Pay: $1,263.16
+ID: 09-1532278  Name: Hilary, Uriel              Hours Worked:  16  Hourly Pay Rate:  30.06  Gross Pay:$  480.96  Net Pay: $452.10
+ID: 26-3641692  Name: Mattiussi, Morey           Hours Worked:  23  Hourly Pay Rate:  50.05  Gross Pay:$1,151.15  Net Pay: $1,082.08
+ID: 48-7463704  Name: Iveans, Beck               Hours Worked:  29  Hourly Pay Rate:  44.13  Gross Pay:$1,279.77  Net Pay: $1,202.98
+ID: 89-5191040  Name: Dablin, Reg                Hours Worked:  22  Hourly Pay Rate:  16.33  Gross Pay:$  359.26  Net Pay: $337.70
+ID: 31-2756790  Name: Land, Brandie              Hours Worked:  39  Hourly Pay Rate:  22.90  Gross Pay:$  893.10  Net Pay: $839.51
+ID: 41-0857709  Name: Eagan, Karna               Hours Worked:  25  Hourly Pay Rate:  12.77  Gross Pay:$  319.25  Net Pay: $300.09
+ID: 82-2633010  Name: Rhule, Hobey               Hours Worked:  28  Hourly Pay Rate:  29.35  Gross Pay:$  821.80  Net Pay: $772.49
+ID: 70-9611635  Name: Scalera, Michelle          Hours Worked:  22  Hourly Pay Rate:  55.01  Gross Pay:$1,210.22  Net Pay: $1,137.61
+ID: 03-5233180  Name: Elsmor, Melitta            Hours Worked:  25  Hourly Pay Rate:  31.85  Gross Pay:$  796.25  Net Pay: $748.47
+ID: 61-1482696  Name: Fagge, Gena                Hours Worked:  40  Hourly Pay Rate:  11.56  Gross Pay:$  462.40  Net Pay: $434.66
+ID: 78-8607810  Name: Surmon, Margalo            Hours Worked:  29  Hourly Pay Rate:  23.27  Gross Pay:$  674.83  Net Pay: $634.34
+ID: 52-9836132  Name: Draayer, Jonas             Hours Worked:  16  Hourly Pay Rate:  10.72  Gross Pay:$  171.52  Net Pay: $161.23
+ID: 35-9357137  Name: Blaver, Rudy               Hours Worked:  28  Hourly Pay Rate:  24.24  Gross Pay:$  678.72  Net Pay: $638.00
+ID: 90-2607114  Name: Bamling, Maryanna          Hours Worked:  21  Hourly Pay Rate:  39.02  Gross Pay:$  819.42  Net Pay: $770.25
+ID: 18-9560155  Name: Hold, Stinky               Hours Worked:  17  Hourly Pay Rate:  35.94  Gross Pay:$  610.98  Net Pay: $574.32
+ID: 58-4977653  Name: Gretham, Nikola            Hours Worked:  34  Hourly Pay Rate:  32.09  Gross Pay:$1,091.06  Net Pay: $1,025.60
+ID: 05-4025853  Name: Giovanardi, Harri          Hours Worked:  32  Hourly Pay Rate:  23.01  Gross Pay:$  736.32  Net Pay: $692.14
+ID: 81-9516717  Name: Provis, Sara-ann           Hours Worked:  37  Hourly Pay Rate:  38.24  Gross Pay:$1,414.88  Net Pay: $1,329.99
+ID: 74-6899796  Name: Gove, Mitchell             Hours Worked:  31  Hourly Pay Rate:  41.49  Gross Pay:$1,286.19  Net Pay: $1,209.02
+ID: 08-6039425  Name: Balch, Brianna             Hours Worked:  35  Hourly Pay Rate:  56.43  Gross Pay:$1,975.05  Net Pay: $1,856.55
+ID: 49-6176298  Name: Jakobssen, Sayers          Hours Worked:  27  Hourly Pay Rate:  47.50  Gross Pay:$1,282.50  Net Pay: $1,205.55
+ID: 96-1125379  Name: Renney, Rube               Hours Worked:  36  Hourly Pay Rate:  42.65  Gross Pay:$1,535.40  Net Pay: $1,443.28
+ID: 16-3578609  Name: Turpey, Finlay             Hours Worked:  31  Hourly Pay Rate:  29.63  Gross Pay:$  918.53  Net Pay: $863.42
+ID: 50-1771522  Name: Breewood, Davida           Hours Worked:  33  Hourly Pay Rate:  56.34  Gross Pay:$1,859.22  Net Pay: $1,747.67
+ID: 55-6886095  Name: Bruff, Brice               Hours Worked:  34  Hourly Pay Rate:  45.25  Gross Pay:$1,538.50  Net Pay: $1,446.19
+ID: 46-6647907  Name: Robbie, Fionnula           Hours Worked:  32  Hourly Pay Rate:  11.53  Gross Pay:$  368.96  Net Pay: $346.82
+ID: 76-0061194  Name: Alwell, Dix                Hours Worked:  33  Hourly Pay Rate:  44.42  Gross Pay:$1,465.86  Net Pay: $1,377.91
+ID: 77-1218700  Name: Greenwell, Milty           Hours Worked:  36  Hourly Pay Rate:  19.10  Gross Pay:$  687.60  Net Pay: $646.34
+ID: 40-8004987  Name: Hindmore, Kele             Hours Worked:  23  Hourly Pay Rate:  30.20  Gross Pay:$  694.60  Net Pay: $652.92
+ID: 66-3651285  Name: Kiddie, Malorie            Hours Worked:  24  Hourly Pay Rate:  19.09  Gross Pay:$  458.16  Net Pay: $430.67
+ID: 11-4308682  Name: Newis, Lana                Hours Worked:  15  Hourly Pay Rate:  51.31  Gross Pay:$  769.65  Net Pay: $723.47
+ID: 77-3028138  Name: Beausang, Judye            Hours Worked:  38  Hourly Pay Rate:  31.89  Gross Pay:$1,211.82  Net Pay: $1,139.11
+ID: 03-2959409  Name: Behneke, Norby             Hours Worked:  26  Hourly Pay Rate:  30.47  Gross Pay:$  792.22  Net Pay: $744.69
+ID: 26-3830002  Name: Pottage, Gabrila           Hours Worked:  40  Hourly Pay Rate:  30.97  Gross Pay:$1,238.80  Net Pay: $1,164.47
+ID: 85-3529962  Name: Robart, Malina             Hours Worked:  25  Hourly Pay Rate:  16.92  Gross Pay:$  423.00  Net Pay: $397.62
+ID: 23-5412580  Name: Rozec, Perren              Hours Worked:  24  Hourly Pay Rate:  31.22  Gross Pay:$  749.28  Net Pay: $704.32
+ID: 45-6859511  Name: Hanwell, Esmaria           Hours Worked:  21  Hourly Pay Rate:  58.85  Gross Pay:$1,235.85  Net Pay: $1,161.70
+ID: 67-8332158  Name: Sirkett, Quillan           Hours Worked:  28  Hourly Pay Rate:  44.30  Gross Pay:$1,240.40  Net Pay: $1,165.98
+ID: 44-7179944  Name: Callender, Klement         Hours Worked:  20  Hourly Pay Rate:  34.89  Gross Pay:$  697.80  Net Pay: $655.93
+ID: 17-4220479  Name: Sherewood, Nichole         Hours Worked:  17  Hourly Pay Rate:  14.72  Gross Pay:$  250.24  Net Pay: $235.23
+ID: 53-0188354  Name: Btham, Maybelle            Hours Worked:  25  Hourly Pay Rate:  23.82  Gross Pay:$  595.50  Net Pay: $559.77
+ID: 26-5456333  Name: Dimmick, Ibrahim           Hours Worked:  36  Hourly Pay Rate:  14.54  Gross Pay:$  523.44  Net Pay: $492.03
+ID: 22-8146586  Name: Stronack, Ashlen           Hours Worked:  30  Hourly Pay Rate:  50.08  Gross Pay:$1,502.40  Net Pay: $1,412.26
+ID: 46-6047292  Name: Byng, Ruthy                Hours Worked:  18  Hourly Pay Rate:  22.10  Gross Pay:$  397.80  Net Pay: $373.93
+ID: 46-8736751  Name: Wickendon, Eldon           Hours Worked:  17  Hourly Pay Rate:  31.19  Gross Pay:$  530.23  Net Pay: $498.42
+ID: 73-1498595  Name: Spiteri, Cherice           Hours Worked:  27  Hourly Pay Rate:  40.17  Gross Pay:$1,084.59  Net Pay: $1,019.51
+ID: 34-7494485  Name: Petrik, Ricardo            Hours Worked:  35  Hourly Pay Rate:  32.91  Gross Pay:$1,151.85  Net Pay: $1,082.74
+ID: 81-2084115  Name: Bondesen, Maitilde         Hours Worked:  26  Hourly Pay Rate:  57.96  Gross Pay:$1,506.96  Net Pay: $1,416.54
+ID: 93-7990821  Name: Meininger, Sharline        Hours Worked:  22  Hourly Pay Rate:  50.77  Gross Pay:$1,116.94  Net Pay: $1,049.92
+ID: 91-6098152  Name: Kob, Aeriel                Hours Worked:  40  Hourly Pay Rate:  54.68  Gross Pay:$2,187.20  Net Pay: $2,055.97
+ID: 64-4179591  Name: Kuhnke, Horacio            Hours Worked:  38  Hourly Pay Rate:  38.95  Gross Pay:$1,480.10  Net Pay: $1,391.29
+ID: 76-3408462  Name: Seville, Susie             Hours Worked:  31  Hourly Pay Rate:  24.90  Gross Pay:$  771.90  Net Pay: $725.59
+ID: 65-1516842  Name: Switsur, Chaddie           Hours Worked:  23  Hourly Pay Rate:  48.42  Gross Pay:$1,113.66  Net Pay: $1,046.84
+ID: 85-2478173  Name: Franklen, Barbi            Hours Worked:  25  Hourly Pay Rate:  45.18  Gross Pay:$1,129.50  Net Pay: $1,061.73
+ID: 94-7512079  Name: Headech, Etty              Hours Worked:  19  Hourly Pay Rate:  55.24  Gross Pay:$1,049.56  Net Pay: $986.59
+ID: 90-9632862  Name: Jaze, Sheena               Hours Worked:  21  Hourly Pay Rate:  38.42  Gross Pay:$  806.82  Net Pay: $758.41
+ID: 96-7893918  Name: Dagger, Archaimbaud        Hours Worked:  32  Hourly Pay Rate:  31.22  Gross Pay:$  999.04  Net Pay: $939.10
+ID: 08-7852046  Name: Romao, Filia               Hours Worked:  20  Hourly Pay Rate:  10.95  Gross Pay:$  219.00  Net Pay: $205.86
+ID: 88-9901084  Name: Vanlint, Pauli             Hours Worked:  25  Hourly Pay Rate:  18.73  Gross Pay:$  468.25  Net Pay: $440.16
+ID: 02-7790124  Name: Sayton, Florencia          Hours Worked:  33  Hourly Pay Rate:  27.26  Gross Pay:$  899.58  Net Pay: $845.61
+ID: 87-8435703  Name: Torrecilla, Haley          Hours Worked:  29  Hourly Pay Rate:  39.77  Gross Pay:$1,153.33  Net Pay: $1,084.13
+ID: 99-7162140  Name: Punchard, Abigail          Hours Worked:  30  Hourly Pay Rate:  10.70  Gross Pay:$  321.00  Net Pay: $301.74
+ID: 33-4897725  Name: Connett, Blanca            Hours Worked:  19  Hourly Pay Rate:  22.36  Gross Pay:$  424.84  Net Pay: $399.35
+ID: 22-3897106  Name: Jiggins, Harvey            Hours Worked:  31  Hourly Pay Rate:  35.46  Gross Pay:$1,099.26  Net Pay: $1,033.30
+ID: 26-9316225  Name: Farnes, Rozanna            Hours Worked:  26  Hourly Pay Rate:  54.36  Gross Pay:$1,413.36  Net Pay: $1,328.56
+ID: 60-7918906  Name: Garretson, Arabelle        Hours Worked:  34  Hourly Pay Rate:  20.09  Gross Pay:$  683.06  Net Pay: $642.08
+ID: 04-2618272  Name: Fitzharris, Lulu           Hours Worked:  26  Hourly Pay Rate:  37.73  Gross Pay:$  980.98  Net Pay: $922.12
+ID: 46-1582269  Name: Matthews, Derril           Hours Worked:  32  Hourly Pay Rate:  28.90  Gross Pay:$  924.80  Net Pay: $869.31
+ID: 58-4036289  Name: Vere, Jamey                Hours Worked:  20  Hourly Pay Rate:  48.85  Gross Pay:$  977.00  Net Pay: $918.38
+ID: 40-2125953  Name: Adshead, Mitzi             Hours Worked:  37  Hourly Pay Rate:  15.00  Gross Pay:$  555.00  Net Pay: $521.70
+ID: 75-7691926  Name: Scrannage, Corbie          Hours Worked:  17  Hourly Pay Rate:  15.25  Gross Pay:$  259.25  Net Pay: $243.70
+ID: 76-2131794  Name: Kingett, Maybelle          Hours Worked:  33  Hourly Pay Rate:  39.04  Gross Pay:$1,288.32  Net Pay: $1,211.02
+ID: 97-1609113  Name: Ivanilov, Lorraine         Hours Worked:  21  Hourly Pay Rate:  25.75  Gross Pay:$  540.75  Net Pay: $508.30
+ID: 22-2676243  Name: Noddles, Winnie            Hours Worked:  27  Hourly Pay Rate:  43.00  Gross Pay:$1,161.00  Net Pay: $1,091.34
+ID: 00-5695219  Name: Luke, Levey                Hours Worked:  26  Hourly Pay Rate:  34.67  Gross Pay:$  901.42  Net Pay: $847.33
+ID: 44-1638520  Name: Evans, Wynnie              Hours Worked:  30  Hourly Pay Rate:  14.24  Gross Pay:$  427.20  Net Pay: $401.57
+ID: 09-5548000  Name: Jacmard, Sara-ann          Hours Worked:  27  Hourly Pay Rate:  28.48  Gross Pay:$  768.96  Net Pay: $722.82
+ID: 30-0604932  Name: Ren, Ilka                  Hours Worked:  34  Hourly Pay Rate:  28.74  Gross Pay:$  977.16  Net Pay: $918.53
+ID: 99-0007621  Name: Gravenor, Riane            Hours Worked:  38  Hourly Pay Rate:  30.18  Gross Pay:$1,146.84  Net Pay: $1,078.03
+ID: 99-1907076  Name: Voyce, Hasheem             Hours Worked:  28  Hourly Pay Rate:  20.70  Gross Pay:$  579.60  Net Pay: $544.82
+ID: 10-8990046  Name: Openshaw, Ludvig           Hours Worked:  40  Hourly Pay Rate:  43.64  Gross Pay:$1,745.60  Net Pay: $1,640.86
+ID: 13-2465907  Name: Muckle, Doyle              Hours Worked:  27  Hourly Pay Rate:  58.53  Gross Pay:$1,580.31  Net Pay: $1,485.49
+ID: 38-8946930  Name: Kelling, Trudi             Hours Worked:  31  Hourly Pay Rate:  11.79  Gross Pay:$  365.49  Net Pay: $343.56
+ID: 84-7944626  Name: Otley, Paxon               Hours Worked:  21  Hourly Pay Rate:  20.15  Gross Pay:$  423.15  Net Pay: $397.76
+ID: 49-5415006  Name: Sawkins, Griswold          Hours Worked:  20  Hourly Pay Rate:  11.10  Gross Pay:$  222.00  Net Pay: $208.68
+ID: 02-1415773  Name: Bourchier, Wat             Hours Worked:  38  Hourly Pay Rate:  20.97  Gross Pay:$  796.86  Net Pay: $749.05
+ID: 01-5889563  Name: Nowick, Vivia              Hours Worked:  36  Hourly Pay Rate:  55.84  Gross Pay:$2,010.24  Net Pay: $1,889.63
+ID: 24-4427203  Name: Huntingdon, Nerita         Hours Worked:  29  Hourly Pay Rate:  41.18  Gross Pay:$1,194.22  Net Pay: $1,122.57
+ID: 92-7829125  Name: Tire, Cheslie              Hours Worked:  39  Hourly Pay Rate:  25.46  Gross Pay:$  992.94  Net Pay: $933.36
+ID: 43-2372510  Name: Nekrews, Rafferty          Hours Worked:  34  Hourly Pay Rate:  26.87  Gross Pay:$  913.58  Net Pay: $858.77
+ID: 77-3934003  Name: Chaudrelle, Antonio        Hours Worked:  21  Hourly Pay Rate:  33.32  Gross Pay:$  699.72  Net Pay: $657.74
+ID: 29-8126888  Name: Donaway, Shandeigh         Hours Worked:  39  Hourly Pay Rate:  24.19  Gross Pay:$  943.41  Net Pay: $886.81
+ID: 96-3695765  Name: Pring, Fields              Hours Worked:  30  Hourly Pay Rate:  23.59  Gross Pay:$  707.70  Net Pay: $665.24
+ID: 22-6298839  Name: Leggett, Frederigo         Hours Worked:  37  Hourly Pay Rate:  33.70  Gross Pay:$1,246.90  Net Pay: $1,172.09
+ID: 16-4645452  Name: Knottley, Horton           Hours Worked:  26  Hourly Pay Rate:  49.64  Gross Pay:$1,290.64  Net Pay: $1,213.20
+ID: 92-0816748  Name: Caldecutt, Arluene         Hours Worked:  15  Hourly Pay Rate:  25.04  Gross Pay:$  375.60  Net Pay: $353.06
+ID: 17-8669353  Name: Madoc-Jones, Irma          Hours Worked:  33  Hourly Pay Rate:  47.81  Gross Pay:$1,577.73  Net Pay: $1,483.07
+ID: 11-4872336  Name: Redhouse, Michal           Hours Worked:  19  Hourly Pay Rate:  49.66  Gross Pay:$  943.54  Net Pay: $886.93
+ID: 39-2867793  Name: Bastie, Astrix             Hours Worked:  16  Hourly Pay Rate:  18.98  Gross Pay:$  303.68  Net Pay: $285.46
+ID: 41-5927330  Name: Haslock, Annamaria         Hours Worked:  23  Hourly Pay Rate:  56.61  Gross Pay:$1,302.03  Net Pay: $1,223.91
+ID: 56-0339041  Name: Dumingos, Tandy            Hours Worked:  27  Hourly Pay Rate:  43.15  Gross Pay:$1,165.05  Net Pay: $1,095.15
+ID: 57-4710514  Name: Tampin, Blancha            Hours Worked:  35  Hourly Pay Rate:  22.79  Gross Pay:$  797.65  Net Pay: $749.79
+ID: 05-0137870  Name: Izon, Darell               Hours Worked:  36  Hourly Pay Rate:  50.66  Gross Pay:$1,823.76  Net Pay: $1,714.33
+ID: 45-4054488  Name: Melchior, Neill            Hours Worked:  16  Hourly Pay Rate:  52.63  Gross Pay:$  842.08  Net Pay: $791.56
+ID: 53-1485925  Name: Dwine, Lannie              Hours Worked:  39  Hourly Pay Rate:  25.14  Gross Pay:$  980.46  Net Pay: $921.63
+ID: 25-3788184  Name: Wanstall, Georgine         Hours Worked:  18  Hourly Pay Rate:  49.24  Gross Pay:$  886.32  Net Pay: $833.14
+ID: 32-5108421  Name: Towlson, Anna              Hours Worked:  31  Hourly Pay Rate:  11.87  Gross Pay:$  367.97  Net Pay: $345.89
+ID: 95-5108325  Name: Lancashire, Lenee          Hours Worked:  16  Hourly Pay Rate:  52.79  Gross Pay:$  844.64  Net Pay: $793.96
+ID: 41-3558108  Name: Sirl, Lacey                Hours Worked:  32  Hourly Pay Rate:  52.02  Gross Pay:$1,664.64  Net Pay: $1,564.76
+ID: 51-6521201  Name: Delouch, Brocky            Hours Worked:  24  Hourly Pay Rate:  19.62  Gross Pay:$  470.88  Net Pay: $442.63
+ID: 02-3828448  Name: Cayette, Arny              Hours Worked:  28  Hourly Pay Rate:  53.47  Gross Pay:$1,497.16  Net Pay: $1,407.33
+ID: 18-9481198  Name: Gerb, Tallulah             Hours Worked:  39  Hourly Pay Rate:  49.36  Gross Pay:$1,925.04  Net Pay: $1,809.54
+ID: 51-3611095  Name: Tellwright, Annie          Hours Worked:  20  Hourly Pay Rate:  47.84  Gross Pay:$  956.80  Net Pay: $899.39
+ID: 18-6922781  Name: Bonavia, Yul               Hours Worked:  38  Hourly Pay Rate:  41.43  Gross Pay:$1,574.34  Net Pay: $1,479.88
+ID: 52-1361689  Name: Canet, Ransom              Hours Worked:  20  Hourly Pay Rate:  27.32  Gross Pay:$  546.40  Net Pay: $513.62
+ID: 16-7130674  Name: Bichard, Iosep             Hours Worked:  37  Hourly Pay Rate:  23.13  Gross Pay:$  855.81  Net Pay: $804.46
+ID: 02-3144111  Name: Dickie, Alena              Hours Worked:  36  Hourly Pay Rate:  43.38  Gross Pay:$1,561.68  Net Pay: $1,467.98
+ID: 13-5221773  Name: Hughill, Michael           Hours Worked:  21  Hourly Pay Rate:  44.94  Gross Pay:$  943.74  Net Pay: $887.12
+ID: 75-0055988  Name: Courtonne, Jephthah        Hours Worked:  24  Hourly Pay Rate:  11.20  Gross Pay:$  268.80  Net Pay: $252.67
+ID: 79-2570474  Name: Berryann, Karissa          Hours Worked:  19  Hourly Pay Rate:  54.86  Gross Pay:$1,042.34  Net Pay: $979.80
+ID: 43-7061673  Name: Turbat, Paulita            Hours Worked:  27  Hourly Pay Rate:  24.01  Gross Pay:$  648.27  Net Pay: $609.37
+ID: 90-7015155  Name: Pluck, Lukas               Hours Worked:  15  Hourly Pay Rate:  28.91  Gross Pay:$  433.65  Net Pay: $407.63
+ID: 23-1503159  Name: Lewis, Haskel              Hours Worked:  18  Hourly Pay Rate:  33.26  Gross Pay:$  598.68  Net Pay: $562.76
+ID: 84-7237763  Name: Heads, Ileane              Hours Worked:  19  Hourly Pay Rate:  38.65  Gross Pay:$  734.35  Net Pay: $690.29
+ID: 28-2527333  Name: Bussetti, Meridith         Hours Worked:  18  Hourly Pay Rate:  18.19  Gross Pay:$  327.42  Net Pay: $307.77
+ID: 39-6290138  Name: Awdry, Ophelie             Hours Worked:  36  Hourly Pay Rate:  17.23  Gross Pay:$  620.28  Net Pay: $583.06
+ID: 77-8864279  Name: Ettritch, Merrili          Hours Worked:  39  Hourly Pay Rate:  50.80  Gross Pay:$1,981.20  Net Pay: $1,862.33
+ID: 91-6066846  Name: Gouldbourn, Gray           Hours Worked:  18  Hourly Pay Rate:  18.44  Gross Pay:$  331.92  Net Pay: $312.00
+ID: 95-1593290  Name: Bonder, Leonie             Hours Worked:  17  Hourly Pay Rate:  21.01  Gross Pay:$  357.17  Net Pay: $335.74
+ID: 89-7641313  Name: Kighly, Vin                Hours Worked:  30  Hourly Pay Rate:  33.77  Gross Pay:$1,013.10  Net Pay: $952.31
+ID: 22-9323586  Name: Brade, Cullen              Hours Worked:  19  Hourly Pay Rate:  21.00  Gross Pay:$  399.00  Net Pay: $375.06
+ID: 45-7790511  Name: Nutley, Bernardina         Hours Worked:  29  Hourly Pay Rate:  50.50  Gross Pay:$1,464.50  Net Pay: $1,376.63
+ID: 44-5469394  Name: Lemar, Fayre               Hours Worked:  21  Hourly Pay Rate:  37.06  Gross Pay:$  778.26  Net Pay: $731.56
+ID: 52-1580561  Name: Flockhart, Essie           Hours Worked:  37  Hourly Pay Rate:  23.09  Gross Pay:$  854.33  Net Pay: $803.07
+ID: 22-8238890  Name: Bullene, Mike              Hours Worked:  39  Hourly Pay Rate:  16.90  Gross Pay:$  659.10  Net Pay: $619.55
+ID: 02-0370316  Name: Donahue, Vivie             Hours Worked:  21  Hourly Pay Rate:  46.11  Gross Pay:$  968.31  Net Pay: $910.21
+ID: 85-8848687  Name: Idenden, Fields            Hours Worked:  24  Hourly Pay Rate:  11.18  Gross Pay:$  268.32  Net Pay: $252.22
+ID: 33-1026121  Name: Shaudfurth, Bendicty       Hours Worked:  24  Hourly Pay Rate:  10.22  Gross Pay:$  245.28  Net Pay: $230.56
+ID: 11-1194240  Name: Kliment, Kelsey            Hours Worked:  17  Hourly Pay Rate:  59.64  Gross Pay:$1,013.88  Net Pay: $953.05
+ID: 27-2397085  Name: Pahlsson, Mariel           Hours Worked:  29  Hourly Pay Rate:  16.89  Gross Pay:$  489.81  Net Pay: $460.42
+ID: 84-3000783  Name: McAnellye, Barron          Hours Worked:  29  Hourly Pay Rate:  20.77  Gross Pay:$  602.33  Net Pay: $566.19
+ID: 55-4612597  Name: Dog, Eugenia               Hours Worked:  21  Hourly Pay Rate:  36.35  Gross Pay:$  763.35  Net Pay: $717.55
+ID: 63-1281106  Name: Cauldwell, Vonny           Hours Worked:  35  Hourly Pay Rate:  56.57  Gross Pay:$1,979.95  Net Pay: $1,861.15
+ID: 92-4958479  Name: Tonner, Margi              Hours Worked:  20  Hourly Pay Rate:  54.31  Gross Pay:$1,086.20  Net Pay: $1,021.03
+ID: 48-9478728  Name: Ferronier, Dina            Hours Worked:  15  Hourly Pay Rate:  18.77  Gross Pay:$  281.55  Net Pay: $264.66
+ID: 55-2044549  Name: Fields, Nichol             Hours Worked:  23  Hourly Pay Rate:  22.11  Gross Pay:$  508.53  Net Pay: $478.02
+ID: 99-5995871  Name: Bolderoe, Lorie            Hours Worked:  36  Hourly Pay Rate:  26.08  Gross Pay:$  938.88  Net Pay: $882.55
+ID: 97-6566644  Name: Desseine, Kial             Hours Worked:  36  Hourly Pay Rate:  21.31  Gross Pay:$  767.16  Net Pay: $721.13
+ID: 58-1098199  Name: Fotitt, Zoe                Hours Worked:  23  Hourly Pay Rate:  22.23  Gross Pay:$  511.29  Net Pay: $480.61
+ID: 58-1993733  Name: Siflet, Sharity            Hours Worked:  38  Hourly Pay Rate:  56.84  Gross Pay:$2,159.92  Net Pay: $2,030.32
+ID: 34-1570251  Name: Poxson, Dominik            Hours Worked:  16  Hourly Pay Rate:  49.39  Gross Pay:$  790.24  Net Pay: $742.83
+ID: 26-8960258  Name: Jelphs, Gussi              Hours Worked:  18  Hourly Pay Rate:  48.21  Gross Pay:$  867.78  Net Pay: $815.71
+ID: 78-6217489  Name: Uc, Merna                  Hours Worked:  15  Hourly Pay Rate:  21.67  Gross Pay:$  325.05  Net Pay: $305.55
+ID: 00-4624874  Name: Kynett, Julita             Hours Worked:  37  Hourly Pay Rate:  36.37  Gross Pay:$1,345.69  Net Pay: $1,264.95
+ID: 71-6307038  Name: Odam, Alysa                Hours Worked:  27  Hourly Pay Rate:  28.72  Gross Pay:$  775.44  Net Pay: $728.91
+ID: 05-3562117  Name: O'Regan, Shandie           Hours Worked:  38  Hourly Pay Rate:  16.95  Gross Pay:$  644.10  Net Pay: $605.45
+ID: 06-3484779  Name: Fenelon, Westley           Hours Worked:  32  Hourly Pay Rate:  10.95  Gross Pay:$  350.40  Net Pay: $329.38
+ID: 57-4886998  Name: Spire, Lonny               Hours Worked:  33  Hourly Pay Rate:  36.85  Gross Pay:$1,216.05  Net Pay: $1,143.09
+ID: 81-7885718  Name: Kidner, Isidro             Hours Worked:  38  Hourly Pay Rate:  24.98  Gross Pay:$  949.24  Net Pay: $892.29
+ID: 27-0392265  Name: Iannello, Ilyssa           Hours Worked:  17  Hourly Pay Rate:  31.19  Gross Pay:$  530.23  Net Pay: $498.42
+ID: 41-8513463  Name: Solloway, Gare             Hours Worked:  38  Hourly Pay Rate:  15.21  Gross Pay:$  577.98  Net Pay: $543.30
+ID: 51-9913075  Name: Lilian, Padraig            Hours Worked:  31  Hourly Pay Rate:  44.96  Gross Pay:$1,393.76  Net Pay: $1,310.13
+ID: 18-4880741  Name: McDougle, Agnella          Hours Worked:  15  Hourly Pay Rate:  53.02  Gross Pay:$  795.30  Net Pay: $747.58
+ID: 04-8528213  Name: Moriarty, Hedy             Hours Worked:  19  Hourly Pay Rate:  18.87  Gross Pay:$  358.53  Net Pay: $337.02
+ID: 14-5245692  Name: Blum, Maris                Hours Worked:  36  Hourly Pay Rate:  20.62  Gross Pay:$  742.32  Net Pay: $697.78
+ID: 20-0142744  Name: Lunck, Reube               Hours Worked:  32  Hourly Pay Rate:  50.99  Gross Pay:$1,631.68  Net Pay: $1,533.78
+ID: 93-8308778  Name: Phythian, Lola             Hours Worked:  28  Hourly Pay Rate:  49.76  Gross Pay:$1,393.28  Net Pay: $1,309.68
+ID: 66-8911154  Name: Meade, Erv                 Hours Worked:  34  Hourly Pay Rate:  35.99  Gross Pay:$1,223.66  Net Pay: $1,150.24
+ID: 13-3365473  Name: Tudgay, Jordan             Hours Worked:  37  Hourly Pay Rate:  11.69  Gross Pay:$  432.53  Net Pay: $406.58
+ID: 21-1110983  Name: Blanket, Simonne           Hours Worked:  26  Hourly Pay Rate:  41.02  Gross Pay:$1,066.52  Net Pay: $1,002.53
+ID: 92-9179758  Name: Hales, Magdaia             Hours Worked:  21  Hourly Pay Rate:  57.14  Gross Pay:$1,199.94  Net Pay: $1,127.94
+ID: 86-1698873  Name: Peinton, Ozzie             Hours Worked:  28  Hourly Pay Rate:  48.47  Gross Pay:$1,357.16  Net Pay: $1,275.73
+ID: 37-1504147  Name: Woodrow, Michaella         Hours Worked:  32  Hourly Pay Rate:  35.25  Gross Pay:$1,128.00  Net Pay: $1,060.32
+ID: 57-4159555  Name: Stithe, Wendye             Hours Worked:  20  Hourly Pay Rate:  11.96  Gross Pay:$  239.20  Net Pay: $224.85
+ID: 12-7522026  Name: Nind, Kiel                 Hours Worked:  32  Hourly Pay Rate:  13.12  Gross Pay:$  419.84  Net Pay: $394.65
+ID: 53-7449482  Name: Goomes, Robbin             Hours Worked:  37  Hourly Pay Rate:  51.86  Gross Pay:$1,918.82  Net Pay: $1,803.69
+ID: 71-0476433  Name: Middleweek, Tremaine       Hours Worked:  34  Hourly Pay Rate:  44.73  Gross Pay:$1,520.82  Net Pay: $1,429.57
+ID: 46-9438781  Name: Mathouse, Nance            Hours Worked:  29  Hourly Pay Rate:  45.56  Gross Pay:$1,321.24  Net Pay: $1,241.97
+ID: 40-6031449  Name: Murphey, Barbee            Hours Worked:  23  Hourly Pay Rate:  14.67  Gross Pay:$  337.41  Net Pay: $317.17
+ID: 78-2630730  Name: Hugh, Thaxter              Hours Worked:  15  Hourly Pay Rate:  31.95  Gross Pay:$  479.25  Net Pay: $450.49
+ID: 21-6018408  Name: Tankin, Reider             Hours Worked:  30  Hourly Pay Rate:  36.64  Gross Pay:$1,099.20  Net Pay: $1,033.25
+ID: 39-8977282  Name: Jadczak, Correy            Hours Worked:  26  Hourly Pay Rate:  49.69  Gross Pay:$1,291.94  Net Pay: $1,214.42
+ID: 18-6150312  Name: Skerrett, Barron           Hours Worked:  40  Hourly Pay Rate:  59.82  Gross Pay:$2,392.80  Net Pay: $2,249.23
+ID: 81-0847495  Name: Lavarack, Janeczka         Hours Worked:  18  Hourly Pay Rate:  41.97  Gross Pay:$  755.46  Net Pay: $710.13
+ID: 55-6991266  Name: Stockman, Graeme           Hours Worked:  16  Hourly Pay Rate:  19.62  Gross Pay:$  313.92  Net Pay: $295.08
+ID: 38-7399398  Name: Cornhill, Kelby            Hours Worked:  35  Hourly Pay Rate:  19.09  Gross Pay:$  668.15  Net Pay: $628.06
+ID: 31-7550239  Name: Pilsworth, Benedikta       Hours Worked:  27  Hourly Pay Rate:  24.47  Gross Pay:$  660.69  Net Pay: $621.05
+ID: 12-8463999  Name: Lassey, Rees               Hours Worked:  27  Hourly Pay Rate:  32.85  Gross Pay:$  886.95  Net Pay: $833.73
+ID: 22-1289947  Name: Le Fevre, Ilka             Hours Worked:  36  Hourly Pay Rate:  49.60  Gross Pay:$1,785.60  Net Pay: $1,678.46
+ID: 66-0519762  Name: Emslie, Harwell            Hours Worked:  21  Hourly Pay Rate:  22.47  Gross Pay:$  471.87  Net Pay: $443.56
+ID: 77-0449138  Name: Lawty, Ode                 Hours Worked:  18  Hourly Pay Rate:  40.35  Gross Pay:$  726.30  Net Pay: $682.72
+ID: 14-6170890  Name: Barnes, Laird              Hours Worked:  28  Hourly Pay Rate:  43.17  Gross Pay:$1,208.76  Net Pay: $1,136.23
+ID: 86-3512511  Name: Becaris, Alayne            Hours Worked:  29  Hourly Pay Rate:  12.24  Gross Pay:$  354.96  Net Pay: $333.66
+ID: 76-2883693  Name: Avison, Donna              Hours Worked:  24  Hourly Pay Rate:  32.05  Gross Pay:$  769.20  Net Pay: $723.05
+ID: 48-4975039  Name: Thombleson, Meggy          Hours Worked:  20  Hourly Pay Rate:  18.92  Gross Pay:$  378.40  Net Pay: $355.70
+ID: 74-7320186  Name: Sellers, Arvy              Hours Worked:  20  Hourly Pay Rate:  17.55  Gross Pay:$  351.00  Net Pay: $329.94
+ID: 92-5479275  Name: Peasee, Duffy              Hours Worked:  24  Hourly Pay Rate:  51.11  Gross Pay:$1,226.64  Net Pay: $1,153.04
+ID: 22-9550328  Name: Sowrah, Jedediah           Hours Worked:  30  Hourly Pay Rate:  28.80  Gross Pay:$  864.00  Net Pay: $812.16
+ID: 98-2831539  Name: Caret, Derrick             Hours Worked:  31  Hourly Pay Rate:  21.57  Gross Pay:$  668.67  Net Pay: $628.55
+ID: 18-8754993  Name: Charer, Melloney           Hours Worked:  35  Hourly Pay Rate:  23.96  Gross Pay:$  838.60  Net Pay: $788.28
+ID: 72-3760295  Name: Lonnon, Sarge              Hours Worked:  34  Hourly Pay Rate:  59.55  Gross Pay:$2,024.70  Net Pay: $1,903.22
+ID: 16-9035116  Name: Buret, Angeli              Hours Worked:  26  Hourly Pay Rate:  55.35  Gross Pay:$1,439.10  Net Pay: $1,352.75
+ID: 37-8603739  Name: Van Geffen, Joannes        Hours Worked:  37  Hourly Pay Rate:  57.23  Gross Pay:$2,117.51  Net Pay: $1,990.46
+ID: 05-1941993  Name: Branch, Dominga            Hours Worked:  22  Hourly Pay Rate:  36.47  Gross Pay:$  802.34  Net Pay: $754.20
+ID: 31-3337150  Name: Piddocke, Pansy            Hours Worked:  33  Hourly Pay Rate:  16.85  Gross Pay:$  556.05  Net Pay: $522.69
+ID: 94-5360128  Name: Ferrick, Jermayne          Hours Worked:  40  Hourly Pay Rate:  15.59  Gross Pay:$  623.60  Net Pay: $586.18
+ID: 86-6838921  Name: Metson, Ursola             Hours Worked:  28  Hourly Pay Rate:  59.08  Gross Pay:$1,654.24  Net Pay: $1,554.99
+ID: 41-9573741  Name: Skittles, Carlo            Hours Worked:  23  Hourly Pay Rate:  44.14  Gross Pay:$1,015.22  Net Pay: $954.31
+ID: 97-9202867  Name: Benallack, Fara            Hours Worked:  28  Hourly Pay Rate:  32.60  Gross Pay:$  912.80  Net Pay: $858.03
+ID: 28-9230907  Name: Weepers, Carri             Hours Worked:  31  Hourly Pay Rate:  23.52  Gross Pay:$  729.12  Net Pay: $685.37
+ID: 73-7159106  Name: Hendrickx, Tomi            Hours Worked:  40  Hourly Pay Rate:  14.67  Gross Pay:$  586.80  Net Pay: $551.59
+ID: 31-5546406  Name: Edeler, Frasquito          Hours Worked:  24  Hourly Pay Rate:  38.40  Gross Pay:$  921.60  Net Pay: $866.30
+ID: 62-8037098  Name: Allatt, Greggory           Hours Worked:  16  Hourly Pay Rate:  37.01  Gross Pay:$  592.16  Net Pay: $556.63
+ID: 25-7632564  Name: Gile, Dallis               Hours Worked:  18  Hourly Pay Rate:  11.30  Gross Pay:$  203.40  Net Pay: $191.20
+ID: 03-0683308  Name: Edworthye, Carolyn         Hours Worked:  29  Hourly Pay Rate:  11.37  Gross Pay:$  329.73  Net Pay: $309.95
+ID: 31-3760886  Name: Keats, Bibby               Hours Worked:  33  Hourly Pay Rate:  44.84  Gross Pay:$1,479.72  Net Pay: $1,390.94
+ID: 98-4469064  Name: Siddall, Bob               Hours Worked:  35  Hourly Pay Rate:  33.53  Gross Pay:$1,173.55  Net Pay: $1,103.14
+ID: 15-7907984  Name: Dulanty, Amie              Hours Worked:  25  Hourly Pay Rate:  36.06  Gross Pay:$  901.50  Net Pay: $847.41
+ID: 54-8066888  Name: Doumerque, Nicholle        Hours Worked:  23  Hourly Pay Rate:  27.57  Gross Pay:$  634.11  Net Pay: $596.06
+ID: 90-3993784  Name: Scini, Rosaline            Hours Worked:  33  Hourly Pay Rate:  26.48  Gross Pay:$  873.84  Net Pay: $821.41
+ID: 42-8545316  Name: Wroath, Nariko             Hours Worked:  29  Hourly Pay Rate:  47.42  Gross Pay:$1,375.18  Net Pay: $1,292.67
+ID: 27-4615394  Name: Ert, Esteban               Hours Worked:  32  Hourly Pay Rate:  33.04  Gross Pay:$1,057.28  Net Pay: $993.84
+ID: 47-3724136  Name: Milmore, Margarete         Hours Worked:  38  Hourly Pay Rate:  25.14  Gross Pay:$  955.32  Net Pay: $898.00
+ID: 37-2835464  Name: Aggett, Whitney            Hours Worked:  21  Hourly Pay Rate:  58.34  Gross Pay:$1,225.14  Net Pay: $1,151.63
+ID: 62-3124667  Name: Vinau, Mala                Hours Worked:  18  Hourly Pay Rate:  23.19  Gross Pay:$  417.42  Net Pay: $392.37
+ID: 93-6432742  Name: Schutte, Novelia           Hours Worked:  21  Hourly Pay Rate:  24.68  Gross Pay:$  518.28  Net Pay: $487.18
+ID: 47-9444792  Name: Munsey, Martha             Hours Worked:  20  Hourly Pay Rate:  35.67  Gross Pay:$  713.40  Net Pay: $670.60
+ID: 00-9814917  Name: Edbrooke, Fionnula         Hours Worked:  35  Hourly Pay Rate:  27.24  Gross Pay:$  953.40  Net Pay: $896.20
+ID: 93-7077864  Name: Morad, Garvy               Hours Worked:  18  Hourly Pay Rate:  33.15  Gross Pay:$  596.70  Net Pay: $560.90
+ID: 93-2642220  Name: Phizackerly, Dionis        Hours Worked:  19  Hourly Pay Rate:  12.89  Gross Pay:$  244.91  Net Pay: $230.22
+ID: 17-1623083  Name: Marr, Amory                Hours Worked:  38  Hourly Pay Rate:  59.66  Gross Pay:$2,267.08  Net Pay: $2,131.06
+ID: 79-6267491  Name: Biset, Clarice             Hours Worked:  37  Hourly Pay Rate:  19.62  Gross Pay:$  725.94  Net Pay: $682.38
+ID: 81-5945835  Name: Fores, Lynnett             Hours Worked:  21  Hourly Pay Rate:  46.55  Gross Pay:$  977.55  Net Pay: $918.90
+ID: 36-4514935  Name: Stihl, Reggie              Hours Worked:  18  Hourly Pay Rate:  37.82  Gross Pay:$  680.76  Net Pay: $639.91
+ID: 05-7838208  Name: Josofovitz, Larissa        Hours Worked:  20  Hourly Pay Rate:  56.77  Gross Pay:$1,135.40  Net Pay: $1,067.28
+ID: 59-9878253  Name: Bussons, Louise            Hours Worked:  35  Hourly Pay Rate:  40.80  Gross Pay:$1,428.00  Net Pay: $1,342.32
+ID: 52-0413485  Name: Barnwill, Peria            Hours Worked:  35  Hourly Pay Rate:  41.36  Gross Pay:$1,447.60  Net Pay: $1,360.74
+ID: 35-8841116  Name: Spear, Robinet             Hours Worked:  25  Hourly Pay Rate:  59.67  Gross Pay:$1,491.75  Net Pay: $1,402.25
+ID: 94-4952781  Name: Pechet, Lena               Hours Worked:  38  Hourly Pay Rate:  10.76  Gross Pay:$  408.88  Net Pay: $384.35
+ID: 00-3879983  Name: Vasile, Annette            Hours Worked:  31  Hourly Pay Rate:  21.03  Gross Pay:$  651.93  Net Pay: $612.81
+ID: 58-6032772  Name: Newbatt, Berti             Hours Worked:  16  Hourly Pay Rate:  16.21  Gross Pay:$  259.36  Net Pay: $243.80
+ID: 55-3490747  Name: Escalera, Zedekiah         Hours Worked:  36  Hourly Pay Rate:  51.77  Gross Pay:$1,863.72  Net Pay: $1,751.90
+ID: 86-2296687  Name: Matura, Alfredo            Hours Worked:  25  Hourly Pay Rate:  59.11  Gross Pay:$1,477.75  Net Pay: $1,389.08
+ID: 48-1239676  Name: Benns, Amata               Hours Worked:  25  Hourly Pay Rate:  49.91  Gross Pay:$1,247.75  Net Pay: $1,172.89
+ID: 62-0898896  Name: Le Pruvost, Arte           Hours Worked:  30  Hourly Pay Rate:  37.50  Gross Pay:$1,125.00  Net Pay: $1,057.50
+ID: 85-8073843  Name: Surpliss, Delores          Hours Worked:  31  Hourly Pay Rate:  12.11  Gross Pay:$  375.41  Net Pay: $352.89
+ID: 69-1474497  Name: Echelle, Catherin          Hours Worked:  25  Hourly Pay Rate:  21.31  Gross Pay:$  532.75  Net Pay: $500.78
+ID: 07-1726337  Name: Eixenberger, Kalindi       Hours Worked:  17  Hourly Pay Rate:  34.78  Gross Pay:$  591.26  Net Pay: $555.78
+ID: 38-3176794  Name: Drysdall, Meriel           Hours Worked:  18  Hourly Pay Rate:  51.78  Gross Pay:$  932.04  Net Pay: $876.12
+ID: 30-6307032  Name: Lavallin, Estell           Hours Worked:  19  Hourly Pay Rate:  50.05  Gross Pay:$  950.95  Net Pay: $893.89
+ID: 95-1877859  Name: Artindale, Franchot        Hours Worked:  24  Hourly Pay Rate:  53.54  Gross Pay:$1,284.96  Net Pay: $1,207.86
+ID: 04-9449122  Name: Hellings, Debby            Hours Worked:  21  Hourly Pay Rate:  37.69  Gross Pay:$  791.49  Net Pay: $744.00
+ID: 22-3286617  Name: Kensington, Velvet         Hours Worked:  31  Hourly Pay Rate:  19.60  Gross Pay:$  607.60  Net Pay: $571.14
+ID: 23-5323883  Name: Bearcock, Tobe             Hours Worked:  29  Hourly Pay Rate:  30.31  Gross Pay:$  878.99  Net Pay: $826.25
+ID: 93-1058768  Name: Claringbold, Christyna     Hours Worked:  27  Hourly Pay Rate:  37.47  Gross Pay:$1,011.69  Net Pay: $950.99
+ID: 49-8245772  Name: Hanscombe, Trixy           Hours Worked:  16  Hourly Pay Rate:  17.55  Gross Pay:$  280.80  Net Pay: $263.95
+ID: 24-7599660  Name: Eagger, Darrel             Hours Worked:  22  Hourly Pay Rate:  32.36  Gross Pay:$  711.92  Net Pay: $669.20
+ID: 52-3392735  Name: Haet, Lanie                Hours Worked:  21  Hourly Pay Rate:  50.15  Gross Pay:$1,053.15  Net Pay: $989.96
+ID: 40-0059409  Name: Instrell, Phelia           Hours Worked:  36  Hourly Pay Rate:  42.70  Gross Pay:$1,537.20  Net Pay: $1,444.97
+ID: 14-2014183  Name: Bretherton, Collen         Hours Worked:  31  Hourly Pay Rate:  18.30  Gross Pay:$  567.30  Net Pay: $533.26
+ID: 06-5974219  Name: Malecky, Ester             Hours Worked:  40  Hourly Pay Rate:  51.10  Gross Pay:$2,044.00  Net Pay: $1,921.36
+ID: 72-8422378  Name: Brandolini, Josiah         Hours Worked:  26  Hourly Pay Rate:  48.91  Gross Pay:$1,271.66  Net Pay: $1,195.36
+ID: 21-0519960  Name: Kearton, Joelle            Hours Worked:  21  Hourly Pay Rate:  21.10  Gross Pay:$  443.10  Net Pay: $416.51
+ID: 71-6640184  Name: Peirson, Micaela           Hours Worked:  38  Hourly Pay Rate:  32.04  Gross Pay:$1,217.52  Net Pay: $1,144.47
+ID: 40-0136230  Name: Spafford, Agna             Hours Worked:  36  Hourly Pay Rate:  55.80  Gross Pay:$2,008.80  Net Pay: $1,888.27
+ID: 16-7030294  Name: Rulton, Marlyn             Hours Worked:  17  Hourly Pay Rate:  10.09  Gross Pay:$  171.53  Net Pay: $161.24
+ID: 34-6732951  Name: Cayser, Ruby               Hours Worked:  18  Hourly Pay Rate:  20.50  Gross Pay:$  369.00  Net Pay: $346.86
+ID: 13-4943907  Name: Gogan, Caprice             Hours Worked:  23  Hourly Pay Rate:  46.40  Gross Pay:$1,067.20  Net Pay: $1,003.17
+ID: 49-2049739  Name: Woolmer, Caleb             Hours Worked:  23  Hourly Pay Rate:  22.35  Gross Pay:$  514.05  Net Pay: $483.21
+ID: 69-2151853  Name: Gheraldi, Dorian           Hours Worked:  31  Hourly Pay Rate:  12.35  Gross Pay:$  382.85  Net Pay: $359.88
+ID: 33-0905057  Name: McPherson, Bailie          Hours Worked:  24  Hourly Pay Rate:  54.59  Gross Pay:$1,310.16  Net Pay: $1,231.55
+ID: 24-1818837  Name: Leatherborrow, Joe         Hours Worked:  26  Hourly Pay Rate:  46.35  Gross Pay:$1,205.10  Net Pay: $1,132.79
+ID: 73-9822819  Name: Endle, Dolley              Hours Worked:  19  Hourly Pay Rate:  37.19  Gross Pay:$  706.61  Net Pay: $664.21
+ID: 82-2660479  Name: Seymark, Miguela           Hours Worked:  37  Hourly Pay Rate:  14.07  Gross Pay:$  520.59  Net Pay: $489.35
+ID: 17-5735854  Name: Cesconi, Nancee            Hours Worked:  35  Hourly Pay Rate:  21.38  Gross Pay:$  748.30  Net Pay: $703.40
+ID: 84-0576363  Name: Isack, Kim                 Hours Worked:  23  Hourly Pay Rate:  42.75  Gross Pay:$  983.25  Net Pay: $924.26
+ID: 11-0111796  Name: Roebottom, Riannon         Hours Worked:  35  Hourly Pay Rate:  45.46  Gross Pay:$1,591.10  Net Pay: $1,495.63
+ID: 78-3946040  Name: Choat, Florri              Hours Worked:  17  Hourly Pay Rate:  29.26  Gross Pay:$  497.42  Net Pay: $467.57
+ID: 77-9446497  Name: Dallman, Nicolette         Hours Worked:  31  Hourly Pay Rate:  27.73  Gross Pay:$  859.63  Net Pay: $808.05
+ID: 17-9821918  Name: Cream, Ty                  Hours Worked:  30  Hourly Pay Rate:  34.13  Gross Pay:$1,023.90  Net Pay: $962.47
+ID: 34-7338764  Name: Gummer, Karola             Hours Worked:  17  Hourly Pay Rate:  44.94  Gross Pay:$  763.98  Net Pay: $718.14
+ID: 67-5662772  Name: Mort, Natty                Hours Worked:  15  Hourly Pay Rate:  43.30  Gross Pay:$  649.50  Net Pay: $610.53
+ID: 69-8676801  Name: Tarborn, Roze              Hours Worked:  34  Hourly Pay Rate:  44.76  Gross Pay:$1,521.84  Net Pay: $1,430.53
+ID: 55-5976249  Name: MacAllaster, Justinn       Hours Worked:  28  Hourly Pay Rate:  55.01  Gross Pay:$1,540.28  Net Pay: $1,447.86
+ID: 16-1568533  Name: Duligal, Celestyna         Hours Worked:  27  Hourly Pay Rate:  15.28  Gross Pay:$  412.56  Net Pay: $387.81
+ID: 44-6966882  Name: Physick, Morgun            Hours Worked:  23  Hourly Pay Rate:  11.21  Gross Pay:$  257.83  Net Pay: $242.36
+ID: 70-4184907  Name: Bukowski, Barris           Hours Worked:  31  Hourly Pay Rate:  14.71  Gross Pay:$  456.01  Net Pay: $428.65
+ID: 42-4983698  Name: Urridge, Myrle             Hours Worked:  39  Hourly Pay Rate:  26.84  Gross Pay:$1,046.76  Net Pay: $983.95
+ID: 92-3851120  Name: Espasa, Joni               Hours Worked:  15  Hourly Pay Rate:  10.39  Gross Pay:$  155.85  Net Pay: $146.50
+ID: 90-6311313  Name: Brabham, Ethelbert         Hours Worked:  28  Hourly Pay Rate:  39.58  Gross Pay:$1,108.24  Net Pay: $1,041.75
+ID: 93-6218631  Name: Farish, Courtnay           Hours Worked:  40  Hourly Pay Rate:  28.10  Gross Pay:$1,124.00  Net Pay: $1,056.56
+ID: 45-0685171  Name: Skouling, Felicia          Hours Worked:  29  Hourly Pay Rate:  38.37  Gross Pay:$1,112.73  Net Pay: $1,045.97
+ID: 40-7874787  Name: Tomkies, Maurise           Hours Worked:  23  Hourly Pay Rate:  31.62  Gross Pay:$  727.26  Net Pay: $683.62
+ID: 23-1865890  Name: Garey, Ursuline            Hours Worked:  27  Hourly Pay Rate:  12.36  Gross Pay:$  333.72  Net Pay: $313.70
+ID: 91-7803984  Name: Tompkinson, Tiffie         Hours Worked:  22  Hourly Pay Rate:  17.51  Gross Pay:$  385.22  Net Pay: $362.11
+ID: 84-1534986  Name: de Vaen, Libbi             Hours Worked:  29  Hourly Pay Rate:  27.38  Gross Pay:$  794.02  Net Pay: $746.38
+ID: 95-5329496  Name: Gilbart, Deana             Hours Worked:  38  Hourly Pay Rate:  56.34  Gross Pay:$2,140.92  Net Pay: $2,012.46
+ID: 58-6261254  Name: Royle, Nissa               Hours Worked:  33  Hourly Pay Rate:  39.14  Gross Pay:$1,291.62  Net Pay: $1,214.12
+ID: 26-8141252  Name: Goretti, Minette           Hours Worked:  39  Hourly Pay Rate:  58.04  Gross Pay:$2,263.56  Net Pay: $2,127.75
+ID: 38-7061788  Name: Habbema, Finn              Hours Worked:  22  Hourly Pay Rate:  36.34  Gross Pay:$  799.48  Net Pay: $751.51
+ID: 23-9304108  Name: Dendle, Eryn               Hours Worked:  40  Hourly Pay Rate:  11.23  Gross Pay:$  449.20  Net Pay: $422.25
+ID: 33-6843685  Name: Jamme, Mitchel             Hours Worked:  40  Hourly Pay Rate:  22.66  Gross Pay:$  906.40  Net Pay: $852.02
+ID: 72-9563664  Name: Garham, Gallard            Hours Worked:  37  Hourly Pay Rate:  17.87  Gross Pay:$  661.19  Net Pay: $621.52
+ID: 71-2747971  Name: Leisman, Andie             Hours Worked:  33  Hourly Pay Rate:  26.53  Gross Pay:$  875.49  Net Pay: $822.96
+ID: 07-8056358  Name: Annett, Hamilton           Hours Worked:  18  Hourly Pay Rate:  56.46  Gross Pay:$1,016.28  Net Pay: $955.30
+ID: 88-3948017  Name: Cancellor, Roley           Hours Worked:  16  Hourly Pay Rate:  39.33  Gross Pay:$  629.28  Net Pay: $591.52
+ID: 97-8802806  Name: Whitby, Eldridge           Hours Worked:  40  Hourly Pay Rate:  18.21  Gross Pay:$  728.40  Net Pay: $684.70
+ID: 68-0716613  Name: Stockle, Ivor              Hours Worked:  30  Hourly Pay Rate:  36.08  Gross Pay:$1,082.40  Net Pay: $1,017.46
+ID: 10-9225075  Name: Toombs, Port               Hours Worked:  26  Hourly Pay Rate:  46.14  Gross Pay:$1,199.64  Net Pay: $1,127.66
+ID: 15-2720099  Name: Tole, Tamara               Hours Worked:  33  Hourly Pay Rate:  16.91  Gross Pay:$  558.03  Net Pay: $524.55
+ID: 13-1994391  Name: Trayes, Simone             Hours Worked:  37  Hourly Pay Rate:  26.49  Gross Pay:$  980.13  Net Pay: $921.32
+ID: 39-1433035  Name: McGuane, Leonora           Hours Worked:  36  Hourly Pay Rate:  38.93  Gross Pay:$1,401.48  Net Pay: $1,317.39
+ID: 11-3210635  Name: Hugett, Veda               Hours Worked:  19  Hourly Pay Rate:  14.88  Gross Pay:$  282.72  Net Pay: $265.76
+ID: 25-1518764  Name: Bonifas, Basilius          Hours Worked:  34  Hourly Pay Rate:  55.83  Gross Pay:$1,898.22  Net Pay: $1,784.33
+ID: 38-5192400  Name: Till, Haskel               Hours Worked:  38  Hourly Pay Rate:  43.70  Gross Pay:$1,660.60  Net Pay: $1,560.96
+ID: 48-8500503  Name: Pailin, Bealle             Hours Worked:  26  Hourly Pay Rate:  15.98  Gross Pay:$  415.48  Net Pay: $390.55
+ID: 48-3462105  Name: Edmundson, Russell         Hours Worked:  36  Hourly Pay Rate:  44.51  Gross Pay:$1,602.36  Net Pay: $1,506.22
+ID: 63-9729969  Name: Grimsell, Clemmy           Hours Worked:  35  Hourly Pay Rate:  30.76  Gross Pay:$1,076.60  Net Pay: $1,012.00
+ID: 74-2982055  Name: Bosdet, Brook              Hours Worked:  22  Hourly Pay Rate:  33.00  Gross Pay:$  726.00  Net Pay: $682.44
+ID: 78-2179272  Name: Poynor, Kahlil             Hours Worked:  33  Hourly Pay Rate:  44.85  Gross Pay:$1,480.05  Net Pay: $1,391.25
+ID: 18-2418144  Name: Duplan, Shelton            Hours Worked:  33  Hourly Pay Rate:  47.93  Gross Pay:$1,581.69  Net Pay: $1,486.79
+ID: 73-6777091  Name: Ollivierre, Kev            Hours Worked:  15  Hourly Pay Rate:  35.82  Gross Pay:$  537.30  Net Pay: $505.06
+ID: 73-6084361  Name: Santello, Jacques          Hours Worked:  21  Hourly Pay Rate:  42.60  Gross Pay:$  894.60  Net Pay: $840.92
+ID: 40-2571353  Name: Kamena, Rhodie             Hours Worked:  25  Hourly Pay Rate:  40.56  Gross Pay:$1,014.00  Net Pay: $953.16
+ID: 32-8451862  Name: Turton, De                 Hours Worked:  34  Hourly Pay Rate:  51.43  Gross Pay:$1,748.62  Net Pay: $1,643.70
+ID: 97-0167381  Name: Saville, Burtie            Hours Worked:  17  Hourly Pay Rate:  31.27  Gross Pay:$  531.59  Net Pay: $499.69
+ID: 66-2844742  Name: Pooke, Junie               Hours Worked:  23  Hourly Pay Rate:  13.04  Gross Pay:$  299.92  Net Pay: $281.92
+ID: 30-8724403  Name: Caine, Jaquenette          Hours Worked:  28  Hourly Pay Rate:  35.83  Gross Pay:$1,003.24  Net Pay: $943.05
+ID: 30-8239146  Name: Beri, Lanae                Hours Worked:  30  Hourly Pay Rate:  40.36  Gross Pay:$1,210.80  Net Pay: $1,138.15
+ID: 12-8927074  Name: Deehan, Shep               Hours Worked:  30  Hourly Pay Rate:  17.44  Gross Pay:$  523.20  Net Pay: $491.81
+ID: 26-1024904  Name: Southon, Emile             Hours Worked:  26  Hourly Pay Rate:  37.85  Gross Pay:$  984.10  Net Pay: $925.05
+ID: 29-7143093  Name: Jonathon, Damiano          Hours Worked:  37  Hourly Pay Rate:  49.44  Gross Pay:$1,829.28  Net Pay: $1,719.52
+ID: 35-1303530  Name: Jarrel, Katheryn           Hours Worked:  27  Hourly Pay Rate:  32.31  Gross Pay:$  872.37  Net Pay: $820.03
+ID: 21-2534372  Name: Clulow, Bay                Hours Worked:  25  Hourly Pay Rate:  25.53  Gross Pay:$  638.25  Net Pay: $599.95
