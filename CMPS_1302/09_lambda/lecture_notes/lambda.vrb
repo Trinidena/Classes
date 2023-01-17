@@ -1,0 +1,13 @@
+
+    \frametitle{In-Class Problem}
+
+    Write a program that reads the data from the file name\_company\_data.csv into a \mil{HashMap}.  Use lambda expressions to do the following in order:
+
+    \begin{itemize}
+
+        \item Remove all information of people who have a lowercase a or e in their name.
+        \item Capitalize the following letters in company names: i, o, u, and y.
+        \item Print the resulting map.
+
+    \end{itemize}
+

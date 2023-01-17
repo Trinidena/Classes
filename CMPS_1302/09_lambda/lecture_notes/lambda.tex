@@ -1,0 +1,233 @@
+\documentclass{beamer}
+
+\usepackage[english]{babel}
+\usepackage{minted}
+\newcommand{\mil}[1]{\mintinline{java}{#1}}
+\usepackage{upquote}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usetikzlibrary{matrix,backgrounds}
+\usepackage{hyperref}
+
+\title[Lambda Expressions and Functional Programming]{Java}
+\subtitle{Lambda Expressions and Functional Programming} % (optional)
+
+\author[]{Dalton State College} 
+
+%\institute[Dalton State College]
+
+\date[T. Gonzalez]{T. Gonzalez}
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command: 
+
+%\beamerdefaultoverlayspecification{<+->}
+
+
+\begin{document}
+
+\begin{frame}
+
+	\titlepage
+	
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{Lambda Expressions}
+    
+    A lambda expression is an anonymous method, that is, a method without a name.
+    
+\end{frame}
+
+\begin{frame}[fragile]
+    
+    \frametitle{Lambda Expression Syntax}
+    
+        A lambda expression consists of:
+        
+        \begin{enumerate}
+        
+            \item A comma-separated list of formal parameters enclosed in parentheses.
+                \begin{itemize}
+                    \item The types of the parameters can be omitted.
+                    \item The parentheses can be omitted if there is only one parameter.
+                \end{itemize}
+            \bigskip    
+            \item The arrrow token. \mil{->}
+            \bigskip            
+            \item A body, which consists of a single expression or a statement block.
+                \begin{itemize}
+                    \item If the body consists a single expression, the expression is evaluated and the result is returned.
+                    \item If the body uses statements, then the statements must be enclosed in curly braces.
+                    \item Method calls do not have to be enclosed in braces.
+                \end{itemize}
+            
+        \end{enumerate} 
+\end{frame}
+
+\begin{frame}[fragile]
+    
+    \frametitle{Lambda Expression Examples}
+    
+    \mil{n -> 3 * n + 2}
+    
+    \bigskip
+    
+    \mil{(x, y) -> x > y}
+
+    \bigskip
+        
+    \mil{z -> System.out.println(z)}
+    
+    \bigskip
+
+\begin{minted}[fontsize=\footnotesize]{java}
+x -> {if(1 < x && x < 5)
+          return true;
+      else if(x == 2)
+          return false;
+      else
+          return true;}
+\end{minted}
+
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{Using Lambda Expressions to Process Lists and Maps}
+    
+    Lists such as an \mil{ArrayList}s can be used processed using lambda expressions.
+    
+    \bigskip
+    
+    Lambda expressions can be used in conjunction with the following methods:
+    
+    \bigskip
+    
+        \begin{itemize}
+        
+            \item \mil{replaceAll()}
+            
+            \item \mil{removeIf()}
+            
+            \item \mil{forEach()}
+        
+        \end{itemize}
+     
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{The \mil{replaceAll()} Method}
+    
+    Given a \mil{List} named \mil{list} and a lambda expression \mil{lambda} the statement \mil{list.replaceAll(lambda);} calls the lambda expression once for every item in the list and then stores the result back in the list.
+    
+    \bigskip
+    
+    The value returned by the lambda expression must be the same type as the type of the list.
+    
+    \bigskip
+    
+    See ReplaceAllDemo.java.
+       
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{The \mil{removeIf()} Method}
+    
+    Given a \mil{List} named \mil{list} and a lambda expression \mil{lambda} the statement \mil{list.removeIf(lambda);} calls the lambda expression once for every item in the list and then removes the item when the result of the lambda expression is \mil{true}.
+    
+    \bigskip
+    
+    See RemoveIfDemo.java.
+       
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{Method References}
+
+    Method references are compact, easy-to-read lambda expressions for methods that already have a name.
+    
+    \bigskip
+    
+    Lambda expression:  \mil{x -> System.out.println(x)}
+    
+    \bigskip
+    
+    Method reference:  \mil{System.out::println}
+    
+    \bigskip
+    
+    There are four types of method references:
+    
+    \bigskip
+    
+\scriptsize{    
+\begin{tabular}{p{1.5in}l}
+Reference to a static method &	ContainingClass::staticMethodName\\
+ & \\
+Reference to an instance method of a particular object &	containingObject::instanceMethodName\\
+ & \\
+Reference to an instance method of an arbitrary object of a particular type	& ContainingType::methodName\\
+ & \\
+Reference to a constructor	& ClassName::new 
+\end{tabular}   }
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{The \mil{forEach()} Method}
+    
+    Given a \mil{List} named \mil{list} and a lambda expression \mil{lambda} the statement \mil{list.forEach(lambda);} calls the lambda expression once for every item in the list.
+    
+    \bigskip
+    
+    See ForEachDemo.java.
+       
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{In-Class Problem}
+    
+    Write a program that declares and initializes an \mil{List} of \mil{Integer}s with at least five elements.  Use a lambda expression to replace all of the elements in the list with the length of the list.
+    
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{In-Class Problem}
+    
+    Write a program that declares and initializes a \mil{List} of \mil{Integer}s.  Use a lambda expression to remove all odd multiples of three from the list.
+    
+\end{frame}
+
+\begin{frame}
+
+    \frametitle{In-Class Problem}
+    
+    Write a program that declares and initializes a \mil{List} of \mil{OrderedPair} objects.  Use a lambda expression to call the \mil{updateY()} method in each of the objects in the list.
+    
+\end{frame}
+
+\begin{frame}[fragile]
+    
+    \frametitle{In-Class Problem}
+    
+    Write a program that reads the data from the file name\_company\_data.csv into a \mil{HashMap}.  Use lambda expressions to do the following in order:
+    
+    \begin{itemize}
+    
+        \item Remove all information of people who have a lowercase a or e in their name.
+        \item Capitalize the following letters in company names: i, o, u, and y.
+        \item Print the resulting map.
+  
+    \end{itemize}
+    
+\end{frame}
+
+\end{document}

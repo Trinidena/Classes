@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="242.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField fx:id="listBox" layoutX="71.0" layoutY="51.0" prefHeight="25.0" prefWidth="458.0" />
+      <Label layoutX="37.0" layoutY="55.0" text="List" />
+      <Label layoutX="32.0" layoutY="113.0" text="Add" />
+      <TextField fx:id="addBox" layoutX="71.0" layoutY="109.0" onAction="#handleAddBox" prefHeight="25.0" prefWidth="67.0" />
+      <TextField fx:id="removeBox" layoutX="71.0" layoutY="166.0" onAction="#handleRemoveBox" prefHeight="25.0" prefWidth="67.0" />
+      <Label layoutX="21.0" layoutY="170.0" text="Remove" />
+      <Button fx:id="doubleButton" layoutX="256.0" layoutY="109.0" mnemonicParsing="false" onAction="#handleDoubleButton" text="Double" />
+      <Button fx:id="squareButton" layoutX="257.0" layoutY="166.0" mnemonicParsing="false" onAction="#handleSquareButton" text="Square" />
+      <Button fx:id="reverseButton" layoutX="422.0" layoutY="109.0" mnemonicParsing="false" onAction="#handleReverseButton" text="Reverse" />
+      <Button fx:id="clearButton" layoutX="429.0" layoutY="166.0" mnemonicParsing="false" onAction="#handleClearButton" text="Clear" />
+   </children>
+</Pane>
