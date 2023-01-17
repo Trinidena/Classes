@@ -5,6 +5,7 @@ import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import java.util.*;
 import java.math.BigInteger;
+import java.lang.StringBuilder;
 
 public class PrimeNumberCheckerController {
 
@@ -23,13 +24,32 @@ public class PrimeNumberCheckerController {
     @FXML
     void handleButton(ActionEvent event) 
     {
+      primeChecker();
+    }
+
+    @FXML
+    void handleFromTextField(ActionEvent event) 
+    {
+      primeChecker();
+    }
+
+    @FXML
+    void handleToTextField(ActionEvent event) 
+    {
+      primeChecker();
+    }
+    
+    public void primeChecker()
+    {
       String from = fromTextField.getText();
       int a = Integer.parseInt(from);
       String to = toTextField.getText();
       int b = Integer.parseInt(to);
       
       List<Integer> list = new ArrayList<>();
+      StringBuilder str = new StringBuilder();
       int certainty = 10;
+      int count = 0;
       
       for(int i = a + 1; i < b; i++)
       {
@@ -41,23 +61,18 @@ public class PrimeNumberCheckerController {
             int PrimeNumber = number.intValue();
             
             list.add(PrimeNumber);
+            str.append(PrimeNumber + ", ");
+            count++;
+            if(count == 20)
+            {
+               str.append(System.getProperty("line.separator"));
+               count = 0;
+            }
          }
       }
       
-      answerTextArea.setText(Arrays.toString(list.toArray()));
-
-    }
-
-    @FXML
-    void handleFromTextField(ActionEvent event) 
-    {
-
-    }
-
-    @FXML
-    void handleToTextField(ActionEvent event) 
-    {
-
+      //answerTextArea.setText(Arrays.toString(list.toArray()));
+      answerTextArea.setText(str.toString());
     }
 
 }
