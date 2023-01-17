@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="SceneOneController">
+   <children>
+      <Button fx:id="buttonA" layoutX="174.0" layoutY="188.0" mnemonicParsing="false" onAction="#handleButtonA" text="Go Back" />
+      <Text layoutX="92.0" layoutY="134.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Scene One">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="ConvertMilesKmController">
+   <children>
+      <Label layoutX="194.0" layoutY="161.0" text="Miles" />
+      <Label layoutX="194.0" layoutY="244.0" text="Km" />
+      <TextField fx:id="milesBox" layoutX="270.0" layoutY="157.0" onAction="#handleMilesBox" promptText="Enter miles..." />
+      <TextField fx:id="kmBox" layoutX="270.0" layoutY="240.0" onAction="#handleKmBox" promptText="Enter kilometers..." />
+   </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+
+<Pane fx:id="pane" prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.CenterCircleExampleController">
+   <children>
+      <Circle fx:id="circle" fill="DODGERBLUE"  stroke="BLACK" strokeType="INSIDE" centerX="${pane.width / 2.0}" centerY="${pane.height / 2.0}"/>
+   </children>
+</Pane>

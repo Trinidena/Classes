@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+
+<BorderPane fx:id="borderPane" prefHeight="400.0" prefWidth="400.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="MenuMultipleSceneController">
+   <top>
+      <HBox BorderPane.alignment="CENTER">
+         <children>
+            <MenuBar prefHeight="25.0" prefWidth="400.0">
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                    <MenuItem fx:id="menuItemA" mnemonicParsing="false" onAction="#handleMenuItemA" text="Scene A" />
+                        <MenuItem fx:id="menuItemB" mnemonicParsing="false" onAction="#handleMenuItemB" text="Scene B" />
+                        <MenuItem fx:id="menuItemC" mnemonicParsing="false" onAction="#handleMenuItemC" text="Scene C" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Edit">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="Delete" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Help">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="About" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+         </children>
+      </HBox>
+   </top>
+</BorderPane>
