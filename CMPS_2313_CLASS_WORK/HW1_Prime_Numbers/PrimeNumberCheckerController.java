@@ -46,7 +46,7 @@ public class PrimeNumberCheckerController {
       String to = toTextField.getText();
       int b = Integer.parseInt(to);
       
-      List<Integer> list = new ArrayList<>();
+      //List<Integer> list = new ArrayList<>();
       StringBuilder str = new StringBuilder();
       int certainty = 10;
       int count = 0;
@@ -60,7 +60,7 @@ public class PrimeNumberCheckerController {
          {
             int PrimeNumber = number.intValue();
             
-            list.add(PrimeNumber);
+            //list.add(PrimeNumber);
             str.append(PrimeNumber + ", ");
             count++;
             if(count == 20)
