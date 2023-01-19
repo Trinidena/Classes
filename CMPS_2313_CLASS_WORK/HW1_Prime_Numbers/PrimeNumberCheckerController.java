@@ -64,7 +64,7 @@ public class PrimeNumberCheckerController {
          int certainty = 10;
          int count = 0;
       
-         for(int i = a + 1; i < b; i++)
+         for(int i = a; i <= b; i++)
          {
             BigInteger number = BigInteger.valueOf(i);
             boolean isPrime = number.isProbablePrime(certainty);
