@@ -63,6 +63,7 @@ public class PrimeNumberCheckerController {
       
          int certainty = 10;
          int count = 0;
+         int n = 0;
       
          for(int i = a; i <= b; i++)
          {
@@ -73,7 +74,7 @@ public class PrimeNumberCheckerController {
             {
                int PrimeNumber = number.intValue();
             
-            //list.add(PrimeNumber);
+               //list.add(PrimeNumber);
                str.append(PrimeNumber + ", ");
                count++;
                if(count == 20)
@@ -91,6 +92,9 @@ public class PrimeNumberCheckerController {
          a.setContentText("You have entered an invalid number(s) for your range. Enter a numeric value.\n\n" + 
                           "Doublecheck your input for any extra space before and after the number");
          a.show();
+         
+         str.append("Error");
+         //str.append(System.getProperty("line.serperator"));
       }
       
       //answerTextArea.setText(Arrays.toString(list.toArray()));

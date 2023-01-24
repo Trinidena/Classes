@@ -9,7 +9,7 @@ public class PrimeNumberChecker extends Application
 {
    public void start(Stage stage) throws IOException
    {
-      FXMLLoader loader = new FXMLLoader(getClass().getResource("PrimeNumberChecker.fxml"));
+      FXMLLoader loader = new FXMLLoader(getClass().getResource("PrimeNumberChecker3.fxml"));
       Parent root = loader.load();
       Scene scene = new Scene(root);
       stage.setScene(scene);
