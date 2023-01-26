@@ -11,9 +11,13 @@ import javafx.scene.control.Alert.AlertType;
 
 public class PrimeNumberCheckerController {
 
-    //List<Integer> list = new ArrayList<>();
    StringBuilder str = new StringBuilder();
-    
+   int a = 0;
+   int b = 0;
+   int certainty = 10;
+   int count;
+   int n;
+   
    @FXML
     private TextArea answerTextArea;
 
@@ -29,7 +33,15 @@ public class PrimeNumberCheckerController {
    @FXML
     void handleButton(ActionEvent event) 
    {
-      primeChecker();
+      stringToInteger();
+      if(a < b)
+      {
+         fromToCheck();
+      }
+      else
+      {
+         toFromCheck();
+      }
       answerTextArea.setText(str.toString());
       seperateResult();
    }
@@ -37,7 +49,15 @@ public class PrimeNumberCheckerController {
    @FXML
     void handleFromTextField(ActionEvent event) 
    {
-      primeChecker();
+      stringToInteger();
+      if(a < b)
+      {
+         fromToCheck();
+      }
+      else
+      {
+         toFromCheck();
+      }
       answerTextArea.setText(str.toString());
       seperateResult();
    }
@@ -45,45 +65,33 @@ public class PrimeNumberCheckerController {
    @FXML
     void handleToTextField(ActionEvent event) 
    {
-      primeChecker();
+      stringToInteger();
+      if(a < b)
+      {
+         fromToCheck();
+      }
+      else
+      {
+         toFromCheck();
+      }
       answerTextArea.setText(str.toString());
       seperateResult();
    }
-    
-   public void primeChecker()
+       
+   public void seperateResult()
+   {
+      str.append(System.getProperty("line.separator"));
+      str.append(System.getProperty("line.separator"));
+   }
+   
+   public void stringToInteger()
    {
       try
-      {
+      {  
          String from = fromTextField.getText();
-         int a = Integer.parseInt(from);
+         a = Integer.parseInt(from);
          String to = toTextField.getText();
-         int b = Integer.parseInt(to);
-      
-      
-      
-         int certainty = 10;
-         int count = 0;
-         int n = 0;
-      
-         for(int i = a; i <= b; i++)
-         {
-            BigInteger number = BigInteger.valueOf(i);
-            boolean isPrime = number.isProbablePrime(certainty);
-         
-            if(isPrime == true)
-            {
-               int PrimeNumber = number.intValue();
-            
-               //list.add(PrimeNumber);
-               str.append(PrimeNumber + ", ");
-               count++;
-               if(count == 20)
-               {
-                  str.append(System.getProperty("line.separator"));
-                  count = 0;
-               }
-            }
-         }
+         b = Integer.parseInt(to);
       }
       catch(NumberFormatException e)
       {
@@ -94,17 +102,53 @@ public class PrimeNumberCheckerController {
          a.show();
          
          str.append("Error");
-         //str.append(System.getProperty("line.serperator"));
       }
-      
-      //answerTextArea.setText(Arrays.toString(list.toArray()));
-      //answerTextArea.setText(str.toString());
    }
-    
-   public void seperateResult()
+   
+   public void fromToCheck()
    {
-      str.append(System.getProperty("line.separator"));
-      str.append(System.getProperty("line.separator"));
+      for(int i = a; i <= b; i++)
+      {
+         BigInteger number = BigInteger.valueOf(i);
+         boolean isPrime = number.isProbablePrime(certainty);
+         
+         if(isPrime == true)
+         {
+            int PrimeNumber = number.intValue();
+            str.append(PrimeNumber + ", ");
+            count++;
+               
+            if(count >= 22)
+            {
+               str.append(System.getProperty("line.separator"));
+               count = 0;
+            }
+         }
+      }
+      count = 0;
+   }
+   
+   public void toFromCheck()
+   {
+      for(int i = a; i >= b; i--)
+      {
+         BigInteger number = BigInteger.valueOf(i);
+         boolean isPrime = number.isProbablePrime(certainty);
+         
+         if(isPrime == true)
+         {
+            int PrimeNumber = number.intValue();
+            str.append(PrimeNumber + ", ");
+            count++;
+               
+            if(count >= 22)
+            {
+               str.append(System.getProperty("line.separator"));
+               count = 0;
+            }
+         }
+      }
+      count = 0;
    }
 
 }
