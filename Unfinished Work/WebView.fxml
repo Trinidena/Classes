@@ -6,7 +6,7 @@
 <?import javafx.scene.web.WebView?>
 
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="webViewController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="WebViewController">
    <children>
       <WebView layoutX="14.0" layoutY="14.0" prefHeight="372.0" prefWidth="571.0" />
       <Button fx:id="loadButton" layoutX="14.0" layoutY="39.0" mnemonicParsing="false" onAction="#handleLoadButton" text="load" />
