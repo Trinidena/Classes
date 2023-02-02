@@ -5,7 +5,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.web.WebView;
 import javafx.scene.web.WebEngine;
 
-public class WebViewController{
+public class WebViewController {
 
     @FXML
     private Button loadButton;
