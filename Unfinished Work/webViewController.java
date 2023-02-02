@@ -1,20 +1,12 @@
-
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.web.WebView;
 import javafx.scene.web.WebEngine;
-import java.util.ResourceBundle;
-import java.net.URL;
 
-public class webViewController {
+public class WebViewController {
 
-    @FXML
-    private WebView webView;
-    
-    private WebEngine webEngine;   
-      
     @FXML
     private Button loadButton;
 
@@ -22,25 +14,22 @@ public class webViewController {
     private TextField textField;
 
     @FXML
-    void handleLoadButton(ActionEvent event) 
-    {
-      
-    }
-    
+    private WebView webView;
+
     @FXML
-    void handleLoadButton() 
-    {
-      webEngine.load("https://www.google.com");
+    void handleLoadButton(ActionEvent event) {
+
     }
 
     @FXML
-    void handleTextField(ActionEvent event) 
-    {
+    void handleTextField(ActionEvent event) {
 
     }
     
     public void initialize()
     {
-      handleLoadButton();
+      WebEngine webEngine = webView.getEngine();
+      webEngine.load("https://www.google.com");
     }
+   
 }
