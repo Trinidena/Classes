@@ -11,7 +11,7 @@ import javafx.concurrent.Worker.State;
 public class WebViewController{
         
     @FXML
-    public WebView webView = new WebView();
+    public WebView webView;
     
     public WebEngine webEngine;   
       
@@ -33,10 +33,11 @@ public class WebViewController{
 
     }
     
+    @FXML
     public void initialize()
     {  
       webEngine = webView.getEngine();
-      webEngine.load("youtube.com");
+      loadPage();
     }
     
     public void loadPage()

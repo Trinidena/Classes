@@ -17,4 +17,9 @@ public class WebView extends Application
       stage.setTitle("Web View");
       stage.show();
    }
+   
+   public static void main(String [] args)
+   {
+      launch(args);
+   }
 }
