@@ -28,13 +28,13 @@ public class WebViewController{
     }
     
     @FXML
-    void handleTextField(ActionEvent event) 
+    void handleTextField(ActionEvent event)
     {
 
     }
     
     @FXML
-    public void initialize()
+    private void initialize()
     {  
       webEngine = webView.getEngine();
       loadPage();
@@ -42,6 +42,6 @@ public class WebViewController{
     
     public void loadPage()
     {
-      webEngine.load("google.com");
+      webEngine.load("https://www.google.com");
     }
 }

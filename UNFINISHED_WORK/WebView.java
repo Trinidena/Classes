@@ -4,6 +4,7 @@ import javafx.scene.Scene;
 import javafx.scene.Parent;
 import javafx.fxml.FXMLLoader;
 import java.io.IOException;
+import java.net.URL;
 
 public class WebView extends Application
 {
@@ -16,10 +17,5 @@ public class WebView extends Application
       stage.setScene(scene);
       stage.setTitle("Web View");
       stage.show();
-   }
-   
-   public static void main(String [] args)
-   {
-      launch(args);
    }
 }
