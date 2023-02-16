@@ -1,5 +1,6 @@
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.util.Duration;
 import javafx.scene.control.Button;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaView;
@@ -31,7 +32,7 @@ public class MediaViewController
     @FXML
     void handlePauseButton(ActionEvent event) 
     {
-
+      pauseMedia();
     }
 
     @FXML
@@ -44,7 +45,7 @@ public class MediaViewController
     @FXML
     void handleResetButton(ActionEvent event) 
     {
-
+      resetMedia();
     }
     
     public void initialize()
@@ -52,7 +53,6 @@ public class MediaViewController
       file = new File("pokemon.mp4");
       media = new Media(file.toURI().toString());
       mediaPlayer = new MediaPlayer(media);
-      //mediaView = new MediaView(mediaPlayer);
       mediaView.setMediaPlayer(mediaPlayer);
     }
     
@@ -63,11 +63,12 @@ public class MediaViewController
     
     public void pauseMedia()
     {
-      
+      mediaPlayer.pause();
     }
     
     public void resetMedia()
     {
-      
+      if(mediaPlayer.getStatus() != MediaPlayer.Status.READY)
+         mediaPlayer.seek(Duration.seconds(0.0));
     }
 }
