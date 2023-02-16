@@ -5,6 +5,10 @@ import javafx.scene.control.Button;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaView;
 import javafx.scene.media.MediaPlayer;
+import javafx.scene.control.Label;
+import javafx.scene.control.Slider;
+import javafx.beans.value.ChangeListener;
+import javafx.beans.value.ObservableValue;
 import java.io.File;
 import java.net.URL;
 
@@ -19,6 +23,14 @@ public class MediaViewController
     private MediaPlayer mediaPlayer;
     
     private File file;
+    
+    @FXML
+    private Label volumeLabel;
+    
+    @FXML
+    private Slider volumeSlider;
+    
+    private int volume;
     
     @FXML
     private Button pauseButton;
@@ -50,6 +62,17 @@ public class MediaViewController
     
     public void initialize()
     {
+      volumeSlider.valueProperty().addListener(new ChangeListener<Number>());
+      
+         @Override
+			public void changed(ObservableValue<Number> observable, Number oldNumber, Number newNumber) 
+         {
+				
+				volume = (int) volumeSlider.getValue();
+				volumeLabel.setText(Integer.toString(volume));
+				
+			}
+         
       file = new File("pokemon.mp4");
       media = new Media(file.toURI().toString());
       mediaPlayer = new MediaPlayer(media);
@@ -71,4 +94,20 @@ public class MediaViewController
       if(mediaPlayer.getStatus() != MediaPlayer.Status.READY)
          mediaPlayer.seek(Duration.seconds(0.0));
     }
+    
+    public void lowerVolume()
+    {
+      System.out.println(mediaPlayer.getVolume());
+      mediaPlayer.setVolume(mediaPlayer.getVolume() - 0.1);
+      System.out.println(mediaPlayer.getVolume());
+    }
+    
+@Override
+			public void changed(ObservableValue<Number> observable, Number oldNumber, Number newNumber) 
+         {
+				
+				volume = (int) volumeSlider.getValue();
+				volumeLabel.setText(Integer.toString(volume));
+				
+			}
 }
