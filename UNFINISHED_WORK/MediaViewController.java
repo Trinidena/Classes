@@ -80,7 +80,7 @@ public class MediaViewController
                volumeLabel.setText(Integer.toString(volume));
                            
                System.out.println(mediaPlayer.getVolume());
-               mediaPlayer.setVolume( (double) volume / 100);
+               mediaPlayer.setVolume( (double)volume / 100);
                System.out.println(mediaPlayer.getVolume());
             }
          }
