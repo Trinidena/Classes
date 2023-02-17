@@ -9,105 +9,113 @@ import javafx.scene.control.Label;
 import javafx.scene.control.Slider;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
+import javafx.beans.property.DoubleProperty;
+import javafx.beans.property.SimpleDoubleProperty;
+import javafx.beans.binding.NumberBinding;
+import javafx.beans.binding.Bindings;
 import java.io.File;
 import java.net.URL;
 
 public class MediaViewController
 {
 
-    @FXML
+   @FXML
     private MediaView mediaView;
     
-    private Media media;
+   private Media media;
     
-    private MediaPlayer mediaPlayer;
+   private MediaPlayer mediaPlayer;
     
-    private File file;
+   private File file;
     
-    @FXML
-    private Label volumeLabel;
+   @FXML
+   private Label volumeLabel;
     
-    @FXML
-    private Slider volumeSlider;
+   @FXML
+   private Slider volumeSlider;
     
-    private int volume;
+   private int volume;
     
-    @FXML
+   @FXML
     private Button pauseButton;
 
-    @FXML
+   @FXML
     private Button playButton;
 
-    @FXML
+   @FXML
     private Button resetButton;
 
-    @FXML
+   @FXML
     void handlePauseButton(ActionEvent event) 
-    {
+   {
       pauseMedia();
-    }
+   }
 
-    @FXML
+   @FXML
     void handlePlayButton(ActionEvent event) 
-    {
+   {
       mediaView.setMediaPlayer(mediaPlayer);
       playMedia();
-    }
+   }
 
-    @FXML
+   @FXML
     void handleResetButton(ActionEvent event) 
-    {
+   {
       resetMedia();
-    }
+   }
     
-    public void initialize()
-    {
-      volumeSlider.valueProperty().addListener(new ChangeListener<Number>());
-      
-         @Override
-			public void changed(ObservableValue<Number> observable, Number oldNumber, Number newNumber) 
+   public void initialize()
+   {
+      volume = (int) volumeSlider.getValue();
+      volumeLabel.setText(Integer.toString(volume));
+            
+      volumeSlider.valueProperty().addListener
+         (new ChangeListener<Number>()
          {
-				
-				volume = (int) volumeSlider.getValue();
-				volumeLabel.setText(Integer.toString(volume));
-				
-			}
-         
+            @Override
+            public void changed(ObservableValue<? extends Number> observable, Number oldValue, Number newValue) 
+            {
+            
+               volume = (int) volumeSlider.getValue();
+               volumeLabel.setText(Integer.toString(volume));
+                           
+               System.out.println(mediaPlayer.getVolume());
+               mediaPlayer.setVolume( (double) volume / 100);
+               System.out.println(mediaPlayer.getVolume());
+            }
+         }
+         );
+      
       file = new File("pokemon.mp4");
       media = new Media(file.toURI().toString());
       mediaPlayer = new MediaPlayer(media);
       mediaView.setMediaPlayer(mediaPlayer);
-    }
+   }
     
-    public void playMedia()
-    {
+   public void playMedia()
+   {
       mediaPlayer.play();
-    }
+   }
     
-    public void pauseMedia()
-    {
+   public void pauseMedia()
+   {
       mediaPlayer.pause();
-    }
+   }
     
-    public void resetMedia()
-    {
+   public void resetMedia()
+   {
       if(mediaPlayer.getStatus() != MediaPlayer.Status.READY)
          mediaPlayer.seek(Duration.seconds(0.0));
-    }
+   }
     
-    public void lowerVolume()
-    {
-      System.out.println(mediaPlayer.getVolume());
+   public void lowerVolume()
+   {
+     /* System.out.println(mediaPlayer.getVolume());
       mediaPlayer.setVolume(mediaPlayer.getVolume() - 0.1);
       System.out.println(mediaPlayer.getVolume());
-    }
-    
-@Override
-			public void changed(ObservableValue<Number> observable, Number oldNumber, Number newNumber) 
-         {
-				
-				volume = (int) volumeSlider.getValue();
-				volumeLabel.setText(Integer.toString(volume));
-				
-			}
+      
+      volume = (int) volumeSlider.getValue() - 10;
+      volumeLabel.setText(Integer.toString(volume));
+    */
+   }
 }
