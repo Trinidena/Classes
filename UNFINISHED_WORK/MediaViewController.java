@@ -20,7 +20,7 @@ public class MediaViewController
 {
 
    @FXML
-    private MediaView mediaView;
+   private MediaView mediaView;
     
    private Media media;
     
@@ -43,10 +43,10 @@ public class MediaViewController
     private Button playButton;
 
    @FXML
-    private Button resetButton;
+   private Button resetButton;
 
    @FXML
-    void handlePauseButton(ActionEvent event) 
+   void handlePauseButton(ActionEvent event) 
    {
       pauseMedia();
    }
@@ -54,7 +54,7 @@ public class MediaViewController
    @FXML
     void handlePlayButton(ActionEvent event) 
    {
-      mediaView.setMediaPlayer(mediaPlayer);
+      //mediaView.setMediaPlayer(mediaPlayer);
       playMedia();
    }
 
