@@ -37,10 +37,10 @@ public class MediaViewController
    private int volume;
     
    @FXML
-    private Button pauseButton;
+   private Button pauseButton;
 
    @FXML
-    private Button playButton;
+   private Button playButton;
 
    @FXML
    private Button resetButton;
@@ -82,8 +82,13 @@ public class MediaViewController
                mediaPlayer.setVolume( (double)volume / 100);
                //System.out.println(mediaPlayer.getVolume());
             }
-         }
-         );
+         });
+         
+      DoubleProperty mvw = mediaView.fitWidthProperty();
+      DoubleProperty mvh = mediaView.fitHeightProperty();
+      mvw.bind(Bindings.selectDouble(mediaView.sceneProperty(), "width"));
+      mvh.bind(Bindings.selectDouble(mediaView.sceneProperty(), "height"));
+      mediaView.setPreserveRatio(true);
       
       file = new File("pokemon.mp4");
       media = new Media(file.toURI().toString());
@@ -105,16 +110,5 @@ public class MediaViewController
    {
       if(mediaPlayer.getStatus() != MediaPlayer.Status.READY)
          mediaPlayer.seek(Duration.seconds(0.0));
-   }
-    
-   public void lowerVolume()
-   {
-     /* System.out.println(mediaPlayer.getVolume());
-      mediaPlayer.setVolume(mediaPlayer.getVolume() - 0.1);
-      System.out.println(mediaPlayer.getVolume());
-      
-      volume = (int) volumeSlider.getValue() - 10;
-      volumeLabel.setText(Integer.toString(volume));
-    */
    }
 }
