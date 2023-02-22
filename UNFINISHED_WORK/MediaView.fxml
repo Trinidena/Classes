@@ -16,25 +16,25 @@
             <Rectangle2D />
          </viewport>
       </MediaView>
-      <HBox layoutX="170.0" layoutY="314.0" prefHeight="26.0" prefWidth="262.0">
+      <HBox alignment="CENTER" layoutX="170.0" layoutY="314.0" prefHeight="26.0" prefWidth="262.0" AnchorPane.bottomAnchor="60.0" AnchorPane.leftAnchor="170.0" AnchorPane.rightAnchor="168.0">
          <children>
-            <Button fx:id="playButton" mnemonicParsing="false" text="PLAY">
+            <Button fx:id="playButton" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#handlePlayButton" prefHeight="26.0" prefWidth="50.0" text="PLAY">
                <HBox.margin>
                   <Insets right="50.0" />
                </HBox.margin>
             </Button>
-            <Button fx:id="pauseButton" mnemonicParsing="false" text="PAUSE">
+            <Button fx:id="pauseButton" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#handlePauseButton" prefHeight="26.0" prefWidth="57.0" text="PAUSE">
                <HBox.margin>
                   <Insets right="50.0" />
                </HBox.margin>
             </Button>
-            <Button fx:id="resetButton" mnemonicParsing="false" text="RESET" />
+            <Button fx:id="resetButton" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#handleResetButton" prefHeight="26.0" prefWidth="55.0" text="RESET" />
          </children>
       </HBox>
-      <HBox layoutX="211.0" layoutY="357.0" prefHeight="29.0" prefWidth="180.0">
+      <HBox alignment="CENTER" layoutX="211.0" layoutY="347.0" prefHeight="26.0" prefWidth="179.0" AnchorPane.bottomAnchor="27.0" AnchorPane.leftAnchor="170.0" AnchorPane.rightAnchor="168.0">
          <children>
-            <Label fx:id="volumeLabel" text="Label" textFill="WHITE" />
-            <Slider fx:id="volumeSlider" value="100.0" />
+            <Label fx:id="volumeLabel" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="30.0" text="Label" textFill="WHITE" />
+            <Slider fx:id="volumeSlider" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="26.0" prefWidth="140.0" value="100.0" />
          </children>
       </HBox>
    </children>
