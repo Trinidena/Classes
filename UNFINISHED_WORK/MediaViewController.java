@@ -88,7 +88,7 @@ public class MediaViewController
       DoubleProperty mvh = mediaView.fitHeightProperty();
       mvw.bind(Bindings.selectDouble(mediaView.sceneProperty(), "width"));
       mvh.bind(Bindings.selectDouble(mediaView.sceneProperty(), "height"));
-      mediaView.setPreserveRatio(true);
+      mediaView.setPreserveRatio(false);
       
       file = new File("pokemon.mp4");
       media = new Media(file.toURI().toString());
