@@ -54,7 +54,6 @@ public class MediaViewController
    @FXML
     void handlePlayButton(ActionEvent event) 
    {
-      //mediaView.setMediaPlayer(mediaPlayer);
       playMedia();
    }
 
@@ -79,9 +78,9 @@ public class MediaViewController
                volume = (int) volumeSlider.getValue();
                volumeLabel.setText(Integer.toString(volume));
                            
-               System.out.println(mediaPlayer.getVolume());
+               //System.out.println(mediaPlayer.getVolume());
                mediaPlayer.setVolume( (double)volume / 100);
-               System.out.println(mediaPlayer.getVolume());
+               //System.out.println(mediaPlayer.getVolume());
             }
          }
          );
