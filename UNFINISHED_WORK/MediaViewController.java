@@ -116,4 +116,9 @@ public class MediaViewController
       if(mediaPlayer.getStatus() != MediaPlayer.Status.READY)
          mediaPlayer.seek(Duration.seconds(0.0));
    }
+   
+   public void mute()
+   {
+      mediaPlayer.setMute(true);
+   }
 }
