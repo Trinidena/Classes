@@ -12,6 +12,7 @@ import javafx.scene.control.Slider;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.beans.property.DoubleProperty;
+import javafx.beans.property.BooleanProperty;
 import javafx.beans.property.SimpleDoubleProperty;
 import javafx.beans.binding.NumberBinding;
 import javafx.beans.binding.Bindings;
@@ -54,6 +55,9 @@ public class MediaViewController
 
    @FXML
    private Button resetButton;
+   
+   @FXML
+   private Button muteButton;
 
    @FXML
    void handlePauseButton(ActionEvent event) 
@@ -71,6 +75,12 @@ public class MediaViewController
     void handleResetButton(ActionEvent event) 
    {
       resetMedia();
+   }
+   
+   @FXML
+    void handleMuteButton(ActionEvent event) 
+   {
+      mute();
    }
     
    public void initialize()
@@ -118,7 +128,10 @@ public class MediaViewController
    }
    
    public void mute()
-   {
-      mediaPlayer.setMute(true);
+   {  
+      if(!mediaPlayer.isMute())
+         mediaPlayer.setMute(true);
+      else
+         mediaPlayer.setMute(false);
    }
 }
