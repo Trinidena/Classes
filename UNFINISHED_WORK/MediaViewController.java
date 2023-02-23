@@ -4,6 +4,8 @@ import javafx.util.Duration;
 import javafx.scene.control.Button;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaView;
+import javafx.scene.layout.AnchorPane;
+import javafx.scene.layout.Pane;
 import javafx.scene.media.MediaPlayer;
 import javafx.scene.control.Label;
 import javafx.scene.control.Slider;
@@ -18,14 +20,22 @@ import java.net.URL;
 
 public class MediaViewController
 {
+   @FXML
+   private AnchorPane anchorPane;
+   
+   @FXML
+   private Pane pane;
 
    @FXML
    private MediaView mediaView;
-    
+   
+   @FXML
    private Media media;
-    
+   
+   @FXML
    private MediaPlayer mediaPlayer;
-    
+   
+   @FXML
    private File file;
     
    @FXML
@@ -78,17 +88,18 @@ public class MediaViewController
                volume = (int) volumeSlider.getValue();
                volumeLabel.setText(Integer.toString(volume));
                            
-               //System.out.println(mediaPlayer.getVolume());
                mediaPlayer.setVolume( (double)volume / 100);
-               //System.out.println(mediaPlayer.getVolume());
             }
          });
-         
-      DoubleProperty mvw = mediaView.fitWidthProperty();
+      
+      /*DoubleProperty mvw = mediaView.fitWidthProperty();
       DoubleProperty mvh = mediaView.fitHeightProperty();
-      mvw.bind(Bindings.selectDouble(mediaView.sceneProperty(), "width"));
-      mvh.bind(Bindings.selectDouble(mediaView.sceneProperty(), "height"));
-      mediaView.setPreserveRatio(false);
+      mvw.bind(Bindings.selectDouble(pane.sceneProperty(), "width"));
+      mvh.bind(Bindings.selectDouble(pane.sceneProperty(), "height"));
+      mediaView.setPreserveRatio(false);*/
+      
+      mediaView.fitWidthProperty().bind(pane.widthProperty()); 
+      mediaView.fitHeightProperty().bind(pane.heightProperty());
       
       file = new File("pokemon.mp4");
       media = new Media(file.toURI().toString());
