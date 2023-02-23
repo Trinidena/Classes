@@ -92,12 +92,6 @@ public class MediaViewController
             }
          });
       
-      /*DoubleProperty mvw = mediaView.fitWidthProperty();
-      DoubleProperty mvh = mediaView.fitHeightProperty();
-      mvw.bind(Bindings.selectDouble(pane.sceneProperty(), "width"));
-      mvh.bind(Bindings.selectDouble(pane.sceneProperty(), "height"));
-      mediaView.setPreserveRatio(false);*/
-      
       mediaView.fitWidthProperty().bind(pane.widthProperty()); 
       mediaView.fitHeightProperty().bind(pane.heightProperty());
       
