@@ -1,3 +1,7 @@
+import javafx.stage.Stage;
+import javafx.scene.Node;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.util.Duration;
@@ -17,6 +21,8 @@ import javafx.beans.property.SimpleDoubleProperty;
 import javafx.beans.binding.NumberBinding;
 import javafx.beans.binding.Bindings;
 import java.io.File;
+import javafx.stage.FileChooser;
+import javafx.stage.FileChooser.ExtensionFilter;
 import java.net.URL;
 
 public class MediaViewController
@@ -58,6 +64,9 @@ public class MediaViewController
    
    @FXML
    private Button muteButton;
+   
+   @FXML
+   private Button fileButton;
 
    @FXML
    void handlePauseButton(ActionEvent event) 
@@ -82,6 +91,32 @@ public class MediaViewController
    {
       mute();
    }
+   
+   @FXML
+    void handleFileButton(ActionEvent event) 
+   {
+      FileChooser fileChooser = new FileChooser();
+      fileChooser.setTitle("Open Resource File");
+      fileChooser.getExtensionFilters().addAll(
+         //new ExtensionFilter("Text Files", "*.txt"),
+         //new ExtensionFilter("Image Files", "*.png", "*.jpg", "*.gif"),
+         new ExtensionFilter("Audio Files", "*.wav", "*.mp3", "*.aac", "*.mp4"));
+         //new ExtensionFilter("All Files", "*.*"));
+         
+      Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
+      
+      file = fileChooser.showOpenDialog(window);
+      
+      if (file != null) 
+      {
+        file = new File("pokemon.mp4");
+         media = new Media(file.toURI().toString());
+         mediaPlayer = new MediaPlayer(media);
+         mediaView.setMediaPlayer(mediaPlayer);
+      }
+      
+
+   }
     
    public void initialize()
    {
@@ -105,10 +140,10 @@ public class MediaViewController
       mediaView.fitWidthProperty().bind(pane.widthProperty()); 
       mediaView.fitHeightProperty().bind(pane.heightProperty());
       
-      file = new File("pokemon.mp4");
+      /*file = new File("pokemon.mp4");
       media = new Media(file.toURI().toString());
       mediaPlayer = new MediaPlayer(media);
-      mediaView.setMediaPlayer(mediaPlayer);
+      mediaView.setMediaPlayer(mediaPlayer);*/
    }
     
    public void playMedia()
