@@ -106,7 +106,7 @@ public class MediaViewController
       
       file = fileChooser.showOpenDialog(window);
       
-      if (file != null) 
+      if(file != null)
       {
          media = new Media(file.toURI().toString());
          mediaPlayer = new MediaPlayer(media);
