@@ -10,7 +10,7 @@
 
 <AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="620.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MediaViewController">
    <children>
-      <Pane fx:id="pane" layoutX="-2.0" prefHeight="360.0" prefWidth="650.0" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <Pane fx:id="pane" layoutX="-2.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="360.0" prefWidth="620.0" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
             <MediaView fx:id="mediaView" fitHeight="360.0" fitWidth="650.0" preserveRatio="false">
                <viewport>

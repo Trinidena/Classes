@@ -71,25 +71,29 @@ public class MediaViewController
    @FXML
    void handlePauseButton(ActionEvent event) 
    {
-      pauseMedia();
+      mediaPlayer.pause();
    }
 
    @FXML
     void handlePlayButton(ActionEvent event) 
    {
-      playMedia();
+      mediaPlayer.play();
    }
 
    @FXML
     void handleResetButton(ActionEvent event) 
    {
-      resetMedia();
+      if(mediaPlayer.getStatus() != MediaPlayer.Status.READY)
+         mediaPlayer.seek(Duration.seconds(0.0));
    }
    
    @FXML
     void handleMuteButton(ActionEvent event) 
    {
-      mute();
+      if(!mediaPlayer.isMute())
+         mediaPlayer.setMute(true);
+      else
+         mediaPlayer.setMute(false);
    }
    
    @FXML
@@ -97,19 +101,13 @@ public class MediaViewController
    {
       FileChooser fileChooser = new FileChooser();
       fileChooser.setTitle("Open Resource File");
-      fileChooser.getExtensionFilters().addAll(
-         //new ExtensionFilter("Text Files", "*.txt"),
-         //new ExtensionFilter("Image Files", "*.png", "*.jpg", "*.gif"),
-         new ExtensionFilter("Audio Files", "*.wav", "*.mp3", "*.aac", "*.mp4"));
-         //new ExtensionFilter("All Files", "*.*"));
-         
+      fileChooser.getExtensionFilters().add(new ExtensionFilter("Audio Files", "*.wav", "*.mp3", "*.aac", "*.mp4"));
       Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
       
       file = fileChooser.showOpenDialog(window);
       
       if (file != null) 
       {
-        file = new File("pokemon.mp4");
          media = new Media(file.toURI().toString());
          mediaPlayer = new MediaPlayer(media);
          mediaView.setMediaPlayer(mediaPlayer);
@@ -144,29 +142,5 @@ public class MediaViewController
       media = new Media(file.toURI().toString());
       mediaPlayer = new MediaPlayer(media);
       mediaView.setMediaPlayer(mediaPlayer);*/
-   }
-    
-   public void playMedia()
-   {
-      mediaPlayer.play();
-   }
-    
-   public void pauseMedia()
-   {
-      mediaPlayer.pause();
-   }
-    
-   public void resetMedia()
-   {
-      if(mediaPlayer.getStatus() != MediaPlayer.Status.READY)
-         mediaPlayer.seek(Duration.seconds(0.0));
-   }
-   
-   public void mute()
-   {  
-      if(!mediaPlayer.isMute())
-         mediaPlayer.setMute(true);
-      else
-         mediaPlayer.setMute(false);
    }
 }
