@@ -16,6 +16,6 @@
       <Button fx:id="historyButton" layoutX="694.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleHistoryButton" text="HISTORY" />
       <Button fx:id="forwardButton" layoutX="816.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleForwardButton" text="FORWARD" />
       <Button fx:id="backButton" layoutX="765.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleBackButton" text="BACK" />
-      <Button fx:id="jsButton" layoutX="945.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleJSButton" text="JavaSCript" />
+      <Button fx:id="jsButton" layoutX="945.0" layoutY="1.0" mnemonicParsing="false" onAction="#handleJSButton" text="JavaScript" />
    </children>
 </AnchorPane>
