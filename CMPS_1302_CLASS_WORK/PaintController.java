@@ -19,6 +19,7 @@ public class PaintController {
 
    //private Color currentColor;
    private GraphicsContext graphicsContext;
+   
    private PaintModel model;
    
    @FXML
@@ -56,10 +57,12 @@ public class PaintController {
       Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();
       File selectedFile = fc.showOpenDialog(stage);
       BufferedImage img = ImageIO.read(selectedFile);
+      int width = img.getWidth();
+      int height = img.getHeight();
       
       Image image = new Image(selectedFile.toURI().toString());
       // used to drawing sun flower image
-      graphicsContext.drawImage(image, 182, 102);
+      graphicsContext.drawImage(image, 0, 0, (canvas.getWidth()), (canvas.getHeight()));
 
    }
 
@@ -78,7 +81,7 @@ public class PaintController {
       Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();
       File selectedFile = fc.showSaveDialog(stage);
       FileOutputStream fos = new FileOutputStream(selectedFile);
-      ObjectOutputStream oos = new ObjectOutputStream(fos);
+      BufferedImage img = ImageIO.read(selectedFile);
    }
    
    @FXML
