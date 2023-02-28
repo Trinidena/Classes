@@ -1,6 +1,7 @@
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.canvas.Canvas;
+import javafx.scene.image.Image;
 import javafx.scene.control.Button;
 import javafx.scene.control.ColorPicker;
 import javafx.scene.input.MouseEvent;
@@ -10,6 +11,9 @@ import javafx.stage.FileChooser;
 import javafx.stage.*;
 import javafx.scene.*;
 import java.io.*;
+import java.net.URL;
+import java.awt.image.BufferedImage;
+import javax.imageio.ImageIO;
 
 public class PaintController {
 
@@ -46,9 +50,17 @@ public class PaintController {
    }
 
    @FXML
-   void handleLoad(ActionEvent event) 
+   void handleLoad(ActionEvent event) throws IOException
    {
-   
+      FileChooser fc = new FileChooser();
+      Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();
+      File selectedFile = fc.showOpenDialog(stage);
+      BufferedImage img = ImageIO.read(selectedFile);
+      
+      Image image = new Image(selectedFile.toURI().toString());
+      // used to drawing sun flower image
+      graphicsContext.drawImage(image, 182, 102);
+
    }
 
    @FXML

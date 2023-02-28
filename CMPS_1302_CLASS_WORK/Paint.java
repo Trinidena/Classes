@@ -9,7 +9,7 @@ public class Paint extends Application
 {
    public void start(Stage stage) throws IOException
    {
-      FXMLLoader loader = new FXMLLoader(getClass().getResource("PaintFXML.fxml"));
+      FXMLLoader loader = new FXMLLoader(getClass().getResource("Paint.fxml"));
       Parent root = loader.load();
       Scene scene = new Scene(root);
       stage.setScene(scene);
