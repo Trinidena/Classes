@@ -4,18 +4,17 @@ import javafx.scene.Scene;
 import javafx.scene.Parent;
 import javafx.fxml.FXMLLoader;
 import java.io.IOException;
-import java.net.URL;
 
-public class WebView extends Application
+public class Paint extends Application
 {
-   @Override
    public void start(Stage stage) throws IOException
    {
-      FXMLLoader loader = new FXMLLoader(getClass().getResource("WebView.fxml"));
+      FXMLLoader loader = new FXMLLoader(getClass().getResource("Paint.fxml"));
       Parent root = loader.load();
       Scene scene = new Scene(root);
       stage.setScene(scene);
-      stage.setTitle("Web Browser");
+      stage.setFullScreen(true);
+      stage.setTitle("Paint");
       stage.show();
    }
 }
