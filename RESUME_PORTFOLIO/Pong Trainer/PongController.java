@@ -119,7 +119,7 @@ public class PongController {
     public void initialize() throws IOException
     {      
       //moveCursor((int)(pane.getWidth() / 2) , (int)(pane.getHeight() / 2));
-
+       
        timeline = new Timeline(new KeyFrame(Duration.millis(20),
            e -> handleBall(e)));   
        timeline.setCycleCount(Timeline.INDEFINITE);
