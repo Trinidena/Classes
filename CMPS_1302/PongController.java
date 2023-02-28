@@ -6,6 +6,10 @@ import javafx.animation.*;
 import javafx.util.Duration;
 import javafx.scene.layout.Pane;
 import javafx.scene.input.MouseEvent;
+import javafx.scene.input.MouseButton;
+import javafx.application.Platform;
+import javafx.scene.Cursor;
+import javafx.event.Event;
 import javafx.event.EventHandler;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
@@ -15,8 +19,10 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
 import java.io.IOException;
+import java.awt.AWTException;
+import java.awt.Robot;
 
-public class CircleController {
+public class PongController {
 
     private Timeline timeline;
     private Timeline increaseSpeed;
@@ -36,7 +42,7 @@ public class CircleController {
     @FXML
     public void handleMouseMoved(MouseEvent event)
     {
-        rectangle.setX(event.getX() - (pane.getWidth() / 2));  
+        rectangle.setX(event.getX() - (pane.getWidth() / 2.35));  
     }
     
     @FXML
@@ -111,15 +117,33 @@ public class CircleController {
     }
     @FXML
     public void initialize() throws IOException
-    { 
+    {      
        timeline = new Timeline(new KeyFrame(Duration.millis(20),
            e -> handleBall(e)));   
        timeline.setCycleCount(Timeline.INDEFINITE);
        timeline.play();
+       
+       //moveCursor((int)(pane.getWidth() / 2) , (int)(pane.getHeight() / 2));
+
        increaseSpeed = new Timeline(new KeyFrame(Duration.millis(10000),
            e -> speedUp()));
        increaseSpeed.setCycleCount(Timeline.INDEFINITE);
        increaseSpeed.play();    
     }
-
+    
+    public void moveCursor(int screenX, int screenY) 
+    {
+       Platform.runLater(() -> {
+           try 
+           {
+               Robot robot = new Robot();
+               robot.mouseMove(screenX, screenY);
+           } 
+           catch (AWTException e) 
+           {
+               // TODO Auto-generated catch block
+               e.printStackTrace();
+           }
+    });
+    }
 }

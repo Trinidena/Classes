@@ -31,11 +31,12 @@ public class OpenSceneController {
     @FXML
     void handlePlayButton(ActionEvent event) throws IOException{
 		FXMLLoader loader = new FXMLLoader();
-		loader.setLocation(getClass().getResource("CircleFXML.fxml"));
+		loader.setLocation(getClass().getResource("Pong.fxml"));
 		Parent parent = loader.load();
 		Scene scene = new Scene(parent);
 		Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
 		window.setScene(scene);
+      window.setFullScreen(true);
 		window.show();
     }
     

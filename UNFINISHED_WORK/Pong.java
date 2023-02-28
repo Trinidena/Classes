@@ -9,10 +9,11 @@ public class Pong extends Application
 {
    public void start(Stage stage) throws IOException
    {
-      FXMLLoader loader = new FXMLLoader(getClass().getResource("PongControllerFXML.fxml"));
+      FXMLLoader loader = new FXMLLoader(getClass().getResource("Pong.fxml"));
       Parent root = loader.load();
       Scene scene = new Scene(root);
       stage.setScene(scene);
+      stage.setFullScreen(true);
       stage.setTitle("Pong Trainer");
       stage.show();
    }

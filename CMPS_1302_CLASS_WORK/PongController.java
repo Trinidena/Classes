@@ -36,7 +36,7 @@ public class PongController {
       if(circle.getBoundsInParent().intersects(rectangle.getBoundsInParent()))
       {
          dy = -dy;
-         System.out.println("Collision");
+         //System.out.println("Collision");
       }
       
       if(circle.getLayoutX() > 600 - circle.getRadius() || circle.getLayoutX() < circle.getRadius())

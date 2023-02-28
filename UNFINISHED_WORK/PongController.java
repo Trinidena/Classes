@@ -25,7 +25,7 @@ public class PongController {
    
    @FXML
    void handleMouseMoved(MouseEvent event) {
-      rectangle.setX(event.getX() - 300);
+      rectangle.setX(event.getX() - (pane.getWidth() / 2));
    }
    
    private void handleAnimation(ActionEvent e)
@@ -39,7 +39,7 @@ public class PongController {
          System.out.println("Collision");
       }
       
-      if(circle.getLayoutX() > 600 - circle.getRadius() || circle.getLayoutX() < circle.getRadius())
+      if(circle.getLayoutX() > pane.getWidth() - circle.getRadius() || circle.getLayoutX() < circle.getRadius())
       {
          dx = -dx;
       }
@@ -75,7 +75,6 @@ public class PongController {
    @FXML
    public void initialize()
    {
-      //EventHandler<ActionEvent> eh = e -> handleAnimation(e);
       Timeline tl = new Timeline(new KeyFrame(Duration.millis(20) , e -> handleAnimation(e)));
       tl.setCycleCount(Timeline.INDEFINITE);
       tl.play();
