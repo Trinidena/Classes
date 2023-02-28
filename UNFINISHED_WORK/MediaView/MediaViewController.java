@@ -137,10 +137,5 @@ public class MediaViewController
       
       mediaView.fitWidthProperty().bind(pane.widthProperty()); 
       mediaView.fitHeightProperty().bind(pane.heightProperty());
-      
-      /*file = new File("pokemon.mp4");
-      media = new Media(file.toURI().toString());
-      mediaPlayer = new MediaPlayer(media);
-      mediaView.setMediaPlayer(mediaPlayer);*/
    }
 }
