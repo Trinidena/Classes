@@ -42,7 +42,7 @@ public class PongController {
     @FXML
     public void handleMouseMoved(MouseEvent event)
     {
-        rectangle.setX(event.getX() - (pane.getWidth() / 2.35));  
+        rectangle.setX(event.getX() - (pane.getWidth() / 2));
     }
     
     @FXML

@@ -1,5 +1,6 @@
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.scene.Cursor;
 import javafx.scene.control.Button;
 import javafx.scene.text.Text;
 import javafx.animation.FillTransition;
@@ -35,6 +36,7 @@ public class OpenSceneController {
 		Parent parent = loader.load();
 		Scene scene = new Scene(parent);
 		Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
+        scene.setCursor(Cursor.NONE);
 		window.setScene(scene);
 		window.show();
     }
