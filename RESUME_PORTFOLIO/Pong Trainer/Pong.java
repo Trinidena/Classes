@@ -13,6 +13,7 @@ public class Pong extends Application
       Parent root = loader.load();
       Scene scene = new Scene(root);
       stage.setScene(scene);
+      //stage.setFullScreen(true);
       stage.setTitle("Pong Trainer 9000");
       stage.show();
    }
