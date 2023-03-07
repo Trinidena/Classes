@@ -18,7 +18,7 @@ import javax.imageio.ImageIO;
 import java.awt.image.RenderedImage;
 import javafx.embed.swing.SwingFXUtils;
 
-public class PaintController {
+public class PaintController{
 
    //private Color currentColor;
    private GraphicsContext graphicsContext;
