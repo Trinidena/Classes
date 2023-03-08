@@ -23,9 +23,9 @@ public class PongController {
 
     private Timeline timeline;
     private Timeline increaseSpeed;
-
+    static HighScoreModel model = new HighScoreModel();
     Rectangle2D bounds = Screen.getPrimary().getVisualBounds();
-
+    private int count = 0;
     private double dx = 2;
     private double dy = 2;
 
@@ -70,16 +70,19 @@ public class PongController {
                   System.out.println("in here " + dy);
                   dy = -Math.abs(dy);
                   speedUp(1.5);
+                  model.setScore(model.getScore() + 1);
                }
                
                if(circle.getLayoutY() > pane.getHeight() + circle.getRadius())
                {
                   System.out.println("ball is below the screen");
                   timeline.stop();
+                  model.setAttemptCount(1);
+                  model.setAttempts(model.getAttemptCount() , model.getScore());
                   //increaseSpeed.stop();
                   try{
 		               FXMLLoader loader = new FXMLLoader();
-		               loader.setLocation(getClass().getResource("OpenSceneFXML.fxml"));
+		               loader.setLocation(getClass().getResource("OpenScene.fxml"));
 		               Parent parent = loader.load();
 		               Scene scene = new Scene(parent);
                        System.out.println(event.getSource());
@@ -87,10 +90,10 @@ public class PongController {
                        Stage window = (Stage)(circle.getParent()).getScene().getWindow();
 		               window.setScene(scene);
 		               window.show();
-                      double x = bounds.getMinX() + (bounds.getWidth() - scene.getWidth()) * 0.5;
-                      double y = bounds.getMinY() + (bounds.getHeight() - scene.getHeight()) * 0.5;
-                      window.setX(x);
-                      window.setY(y);
+                       double x = bounds.getMinX() + (bounds.getWidth() - scene.getWidth()) * 0.5;
+                       double y = bounds.getMinY() + (bounds.getHeight() - scene.getHeight()) * 0.5;
+                       window.setX(x);
+                       window.setY(y);
 
                    }
                    catch(IOException e)
@@ -128,7 +131,7 @@ public class PongController {
     public void initialize() throws IOException
     {      
       //moveCursor((int)(pane.getWidth() / 2) , (int)(pane.getHeight() / 2));
-       
+       model.setScore(0);
        timeline = new Timeline(new KeyFrame(Duration.millis(20),
            e -> handleBall(e)));   
        timeline.setCycleCount(Timeline.INDEFINITE);
