@@ -38,7 +38,9 @@ public class OpenSceneController {
 		Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
         scene.setCursor(Cursor.NONE);
 		window.setScene(scene);
-        window.setFullScreen(true);
+        window.setX(0);
+        window.setY(0);
+        //window.setFullScreen(true);
 		window.show();
     }
     

@@ -1,34 +1,33 @@
-import javafx.fxml.FXML;
-import javafx.scene.shape.Circle;
-import javafx.scene.shape.Rectangle;
-import javafx.animation.Animation;
-import javafx.animation.*;
-import javafx.util.Duration;
-import javafx.scene.layout.Pane;
-import javafx.scene.input.MouseEvent;
-import javafx.scene.input.MouseButton;
+import javafx.animation.KeyFrame;
+import javafx.animation.Timeline;
 import javafx.application.Platform;
-import javafx.scene.Cursor;
-import javafx.event.Event;
-import javafx.event.EventHandler;
 import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
+import javafx.geometry.Rectangle2D;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.control.Button;
+import javafx.scene.control.Alert;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.Pane;
+import javafx.scene.shape.Circle;
+import javafx.scene.shape.Rectangle;
+import javafx.stage.Screen;
 import javafx.stage.Stage;
+import javafx.util.Duration;
+
+import java.awt.*;
 import java.io.IOException;
-import java.awt.AWTException;
-import java.awt.Robot;
 
 public class PongController {
 
     private Timeline timeline;
     private Timeline increaseSpeed;
 
-    private double dx = 1;
-    private double dy = 1;
+    Rectangle2D bounds = Screen.getPrimary().getVisualBounds();
+
+    private double dx = 2;
+    private double dy = 2;
 
     @FXML
     private Pane pane;
@@ -70,49 +69,59 @@ public class PongController {
                {
                   System.out.println("in here " + dy);
                   dy = -Math.abs(dy);
+                  speedUp(1.5);
                }
                
                if(circle.getLayoutY() > pane.getHeight() + circle.getRadius())
                {
                   System.out.println("ball is below the screen");
                   timeline.stop();
-                  increaseSpeed.stop();
+                  //increaseSpeed.stop();
                   try{
 		               FXMLLoader loader = new FXMLLoader();
 		               loader.setLocation(getClass().getResource("OpenSceneFXML.fxml"));
 		               Parent parent = loader.load();
 		               Scene scene = new Scene(parent);
-                     System.out.println(event.getSource());
+                       System.out.println(event.getSource());
 		               //Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
-                     Stage window = (Stage)(circle.getParent()).getScene().getWindow();
+                       Stage window = (Stage)(circle.getParent()).getScene().getWindow();
 		               window.setScene(scene);
 		               window.show();
+                      double x = bounds.getMinX() + (bounds.getWidth() - scene.getWidth()) * 0.5;
+                      double y = bounds.getMinY() + (bounds.getHeight() - scene.getHeight()) * 0.5;
+                      window.setX(x);
+                      window.setY(y);
+
                    }
                    catch(IOException e)
                    {
-                     return;
+                       Alert alert = new Alert(Alert.AlertType.ERROR);
+                       alert.setTitle("Error Loading New Scene");
+                       alert.setHeaderText("SOMETHING WENT WRONG!!!!");
+                       alert.showAndWait();
+
                    }                     
                }
     
     }
     
-    public void speedUp()
+    public void speedUp(double x)
     {
         if(dx > 0)
         {
-            dx++;
+            dx += x;
         }
         else
         {
-            dx--;
+            dx-= x;
         }
         if(dy > 0)
         {
-            dy++;
+            dy += x;
         }
         else
         {
-            dy--;
+            dy-= x;
         }    
     }
     @FXML
@@ -124,11 +133,11 @@ public class PongController {
            e -> handleBall(e)));   
        timeline.setCycleCount(Timeline.INDEFINITE);
        timeline.play();
-       
-       increaseSpeed = new Timeline(new KeyFrame(Duration.millis(10000),
-           e -> speedUp()));
-       increaseSpeed.setCycleCount(Timeline.INDEFINITE);
-       increaseSpeed.play();    
+
+        //increaseSpeed = new Timeline(new KeyFrame(Duration.millis(10000),
+        //     e -> speedUp(1)));
+        // increaseSpeed.setCycleCount(Timeline.INDEFINITE);
+        // increaseSpeed.play();
     }
     
     public void moveCursor(int screenX, int screenY) 
