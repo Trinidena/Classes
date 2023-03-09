@@ -32,7 +32,7 @@ public class HighScoreModel {
     }
 
     public void setAttempts(int i, int count) {
-        this.attempts.append(String.format("Attempt Number %d: %s", i, count));
+        this.attempts.append(String.format("Attempt Number %d : %s", i, count));
         this.attempts.append(System.lineSeparator());
     }
 

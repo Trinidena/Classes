@@ -6,8 +6,8 @@ import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
-import javafx.scene.control.TextField;
 import javafx.stage.Screen;
 import javafx.stage.Stage;
 
@@ -22,7 +22,7 @@ public class HighScoreController {
     private Button backButton;
 
     @FXML
-    private TextField bestTextField;
+    private Label bestScoreLabel;
 
     @FXML
     void handleBackButton(ActionEvent event) {
@@ -46,7 +46,7 @@ public class HighScoreController {
     @FXML
     void initialize() {
         attemptsTextArea.setText(PongController.model.getAttempts());
-        bestTextField.setText(String.valueOf(PongController.model.getBestScore()));
+        bestScoreLabel.setText(String.valueOf(PongController.model.getBestScore()));
     }
 
 }
