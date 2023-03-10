@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0782522-f8ca-45a6-9d8c-f6de3b689705" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CLASSES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch01_introduction/ch01_introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch02_variables_operators/ch02_variables_operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch03_input_output/ch03_input_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch04_methods/value_methods/value_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch04_methods/void_methods/void_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch05_classes_objects_1/ch05_classes_objects_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch05_classes_objects_1/lecture_code/lecture_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch07_conditionals_logic/ch07_conditionals_logic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch08_loops/ch08_loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch09_arrays/ch09_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1301/ch10_strings/ch10_strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1302/CMPS_1302.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_1302/out/production/CMPS_1302/CMPS_1302.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMPS_2313_CLASS_WORK/CMPS_2313_CLASS_WORK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/RESUME_PORTFOLIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CLASSES/CMPS_1302.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CLASSES/out/production/CMPS_1302/CMPS_1302.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_1301/ch03_input_output/practice_problems_solutions/Chapter03PracticeProblem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_1301/ch03_input_output/practice_problems_solutions/Chapter03PracticeProblem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/Contact2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/TestContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/TestContact2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_1302/00_classes_objects_review/lecture_code_2/PersonTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_1302/00_classes_objects_review/lecture_code_2/PersonTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_1302/05_exceptions/lecture_code/CatchOrDeclare/version1/CatchOrDeclare.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_1302/05_exceptions/lecture_code/CatchOrDeclare/version1/CatchOrDeclare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_1302/05_exceptions/lecture_code/UncheckedExceptionExample/version1/UncheckedExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_1302/05_exceptions/lecture_code/UncheckedExceptionExample/version1/UncheckedExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_2720/00_classes_objects_review/lecture_code_2/PersonTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_2720/00_classes_objects_review/lecture_code_2/PersonTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMPS_2720/04_exceptions/lecture_code/UncheckedExceptionExample/version0/UncheckedExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/CMPS_2720/04_exceptions/lecture_code/UncheckedExceptionExample/version0/UncheckedExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/HighScore.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/HighScore.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/HighScoreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/HighScoreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/HighScoreModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/HighScoreModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/OpenScene.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/OpenScene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/OpenSceneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/OpenSceneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/PongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/PongController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/HighScore.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/HighScore.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/HighScoreController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/HighScoreController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/HighScoreModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/HighScoreModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/OpenScene.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/OpenScene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/OpenSceneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/OpenSceneController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/PongController.class" beforeDir="false" afterPath="$PROJECT_DIR$/RESUME_PORTFOLIO/Pong Trainer/out/production/Pong Trainer/PongController.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MmXVrqgVjUX9BwiejAhCvDkmCN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/trinidaddena/repos/CLASSES&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.other&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ExampleFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examplefour.ExampleFour" />
+      <module name="CLASSES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examplefour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExampleFour" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0782522-f8ca-45a6-9d8c-f6de3b689705" name="Changes" comment="" />
+      <created>1678373757160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678373757160</updated>
+      <workItem from="1678373758496" duration="1034000" />
+      <workItem from="1678437967630" duration="4000" />
+      <workItem from="1678437984792" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
