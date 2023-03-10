@@ -7,8 +7,10 @@ import java.io.IOException;
 
 public class Pong extends Application
 {
+      static HighScoreModel model;
    public void start(Stage stage) throws IOException
    {
+      model = new HighScoreModel();
       FXMLLoader loader = new FXMLLoader(getClass().getResource("OpenScene.fxml"));
       Parent root = loader.load();
       Scene scene = new Scene(root);

@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f95550af-85fb-422e-a676-c32f5b7eb5ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CMPS_1301/ch03_input_output/practice_problems_solutions/Chapter03PracticeProblem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CMPS_1301/ch03_input_output/practice_problems_solutions/Chapter03PracticeProblem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/Contact2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/TestContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CMPS_1301/ch05_classes_objects_1/lecture_code/contact_version_2/TestContact2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_classes_objects_review/lecture_code_2/PersonTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/00_classes_objects_review/lecture_code_2/PersonTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_exceptions/lecture_code/CatchOrDeclare/version1/CatchOrDeclare.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_exceptions/lecture_code/CatchOrDeclare/version1/CatchOrDeclare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_exceptions/lecture_code/UncheckedExceptionExample/version1/UncheckedExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/05_exceptions/lecture_code/UncheckedExceptionExample/version1/UncheckedExceptionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CMPS_2720/00_classes_objects_review/lecture_code_2/PersonTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CMPS_2720/00_classes_objects_review/lecture_code_2/PersonTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CMPS_2720/04_exceptions/lecture_code/UncheckedExceptionExample/version0/UncheckedExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CMPS_2720/04_exceptions/lecture_code/UncheckedExceptionExample/version0/UncheckedExceptionExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="f95550af-85fb-422e-a676-c32f5b7eb5ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +27,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/trinidaddena/repos/CLASSES/CMPS_1302",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -59,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678373518520</updated>
       <workItem from="1678373520345" duration="206000" />
+      <workItem from="1678438786291" duration="1486000" />
     </task>
     <servers />
   </component>

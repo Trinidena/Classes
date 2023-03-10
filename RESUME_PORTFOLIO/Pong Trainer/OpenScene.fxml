@@ -12,7 +12,13 @@
             <Font name="Chiller" size="96.0" />
          </font>
       </Text>
-      <Button fx:id="playButton" layoutX="266.0" layoutY="161.0" mnemonicParsing="false" onAction="#handlePlayButton" prefHeight="39.0" prefWidth="67.0" text="Play" />
-      <Button fx:id="highScoreButton" layoutX="258.0" layoutY="236.0" mnemonicParsing="false" onAction="#handleHighScoreButton" text="High Scores" />
+      <Button fx:id="playButton" layoutX="266.0" layoutY="161.0" mnemonicParsing="false" onAction="#handlePlayButton" prefHeight="39.0" prefWidth="67.0" text="Play">
+         <font>
+            <Font size="20.0" />
+         </font></Button>
+      <Button fx:id="highScoreButton" layoutX="235.0" layoutY="234.0" mnemonicParsing="false" onAction="#handleHighScoreButton" text="High Scores">
+         <font>
+            <Font size="20.0" />
+         </font></Button>
    </children>
 </Pane>

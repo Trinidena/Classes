@@ -45,8 +45,8 @@ public class HighScoreController {
 
     @FXML
     void initialize() {
-        attemptsTextArea.setText(PongController.model.getAttempts());
-        bestScoreLabel.setText(String.valueOf(PongController.model.getBestScore()));
+        attemptsTextArea.setText(Pong.model.getAttempts());
+        bestScoreLabel.setText(String.valueOf(Pong.model.getBestScore()));
     }
 
 }
