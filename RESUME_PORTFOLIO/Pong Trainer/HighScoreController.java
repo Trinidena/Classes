@@ -1,3 +1,4 @@
+import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -14,15 +15,18 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class HighScoreController {
+    private HighScoreModel model;
     Rectangle2D bounds = Screen.getPrimary().getVisualBounds();
     @FXML
     private TextArea attemptsTextArea;
-
     @FXML
     private Button backButton;
-
     @FXML
     private Label bestScoreLabel;
+
+    void setModel(HighScoreModel model) {
+        this.model = model;
+    }
 
     @FXML
     void handleBackButton(ActionEvent event) {
@@ -30,6 +34,7 @@ public class HighScoreController {
             FXMLLoader loader = new FXMLLoader();
             loader.setLocation(getClass().getResource("OpenScene.fxml"));
             Parent parent = loader.load();
+            ((OpenSceneController)loader.getController()).setModel(model);
             Scene scene = new Scene(parent);
             Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
             window.setScene(scene);
@@ -42,11 +47,14 @@ public class HighScoreController {
             e.printStackTrace();
         }
     }
-
     @FXML
     void initialize() {
-        attemptsTextArea.setText(Pong.model.getAttempts());
-        bestScoreLabel.setText(String.valueOf(Pong.model.getBestScore()));
+        Platform.runLater(new Runnable(){
+                    @Override
+                    public void run() {
+                    attemptsTextArea.setText(model.getAttempts());
+                    bestScoreLabel.setText(String.valueOf(model.getBestScore()));
+                    }
+        });
     }
-
 }

@@ -2,12 +2,11 @@ public class HighScoreModel {
     private int score;
     private int bestScore;
     private StringBuilder attempts = new StringBuilder();
-
     private int attemptCount;
-
-    public HighScoreModel() {
+    public HighScoreModel(int score, int bestScore) {
+        this.score = 0;
+        this.bestScore = 0;
     }
-
     public int getScore() {
         return score;
     }

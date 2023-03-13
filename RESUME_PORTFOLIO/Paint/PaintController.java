@@ -5,6 +5,7 @@ import javafx.scene.image.Image;
 import javafx.scene.image.WritableImage;
 import javafx.scene.control.Button;
 import javafx.scene.control.ColorPicker;
+import javafx.scene.control.TextField;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
 import javafx.scene.canvas.GraphicsContext;
@@ -39,6 +40,9 @@ public class PaintController{
 
    @FXML
    private Button save;
+   
+   @FXML
+   private TextField brushSizeTF;
 
    @FXML
    void handleClear(ActionEvent event) 
@@ -72,9 +76,12 @@ public class PaintController{
    @FXML
    void handleMouseDragged(MouseEvent event) 
    {
+      double size = Double.parseDouble(brushSizeTF.getText());
+      double x = event.getX() - size / 2;
+      double y = event.getY() - size / 2;
       graphicsContext.setFill(Color.valueOf(model.getColor()));
-      graphicsContext.fillRect(event.getX(), event.getY(), 4, 4);
-      model.add(new Rectangle(event.getX() , event.getY() , model.getColor()));
+      graphicsContext.fillRect(x, y, size, size);
+      model.add(new Rectangle(x, y, model.getColor()));
    }
 
    @FXML

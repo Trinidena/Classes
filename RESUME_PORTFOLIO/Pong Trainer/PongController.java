@@ -37,6 +37,10 @@ public class PongController {
     
     @FXML
     private Rectangle rectangle;
+
+    public void setModel(HighScoreModel model) {
+        this.model = model;
+    }
     
     @FXML
     public void handleMouseMoved(MouseEvent event)
@@ -70,20 +74,22 @@ public class PongController {
                   System.out.println("in here " + dy);
                   dy = -Math.abs(dy);
                   speedUp(1.5);
-                  Pong.model.setScore(Pong.model.getScore() + 1);
+                  model.setScore(model.getScore() + 1);
                }
                
                if(circle.getLayoutY() > pane.getHeight() + circle.getRadius())
                {
                   System.out.println("ball is below the screen");
                   timeline.stop();
-                  Pong.model.setAttemptCount(1);
-                  Pong.model.setAttempts(Pong.model.getAttemptCount() , Pong.model.getScore());
+                  model.setAttemptCount(1);
+                  model.setAttempts(model.getAttemptCount() , model.getScore());
                   //increaseSpeed.stop();
                   try{
 		               FXMLLoader loader = new FXMLLoader();
 		               loader.setLocation(getClass().getResource("OpenScene.fxml"));
 		               Parent parent = loader.load();
+                      ((OpenSceneController)loader.getController()).setModel(model);
+                       //loader.<OpenSceneController>getController().setModel(model);
 		               Scene scene = new Scene(parent);
                        System.out.println(event.getSource());
 		               //Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
@@ -129,9 +135,13 @@ public class PongController {
     }
     @FXML
     public void initialize() throws IOException
-    {      
-      //moveCursor((int)(pane.getWidth() / 2) , (int)(pane.getHeight() / 2));
-       Pong.model.setScore(0);
+    {
+       Platform.runLater(new Runnable() {
+           @Override
+           public void run() {
+               model.setScore(0);
+           }
+       });
        timeline = new Timeline(new KeyFrame(Duration.millis(20),
            e -> handleBall(e)));   
        timeline.setCycleCount(Timeline.INDEFINITE);
