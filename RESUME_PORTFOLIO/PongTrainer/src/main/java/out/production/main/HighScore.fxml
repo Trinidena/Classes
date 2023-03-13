@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HighScoreController">
+    <children>
+        <Label layoutX="134.0" layoutY="27.0" prefHeight="73.0" prefWidth="318.0" text="High Scores" AnchorPane.leftAnchor="134.0" AnchorPane.topAnchor="27.0">
+            <font>
+                <Font size="60.0" />
+            </font>
+        </Label>
+        <Label layoutX="189.0" layoutY="129.0" text="Best Score : " AnchorPane.bottomAnchor="232.0" AnchorPane.leftAnchor="189.0">
+            <font>
+                <Font size="32.0" />
+            </font>
+        </Label>
+        <Label layoutX="172.0" layoutY="200.0" text="Recent Attempts" AnchorPane.bottomAnchor="161.0" AnchorPane.leftAnchor="172.0">
+            <font>
+                <Font size="32.0" />
+            </font>
+        </Label>
+        <TextArea fx:id="attemptsTextArea" layoutX="172.0" layoutY="239.0" prefHeight="159.0" prefWidth="225.0" AnchorPane.bottomAnchor="2.0" AnchorPane.leftAnchor="172.0">
+            <font>
+                <Font size="20.0" />
+            </font>
+        </TextArea>
+        <Button fx:id="backButton" layoutX="521.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="45.0" prefWidth="65.0" text="Back" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="14.0" />
+        <Label fx:id="bestScoreLabel" layoutX="355.0" layoutY="126.0" prefHeight="45.0" prefWidth="85.0" AnchorPane.bottomAnchor="229.0" AnchorPane.leftAnchor="355.0">
+            <font>
+                <Font size="32.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
