@@ -75,7 +75,9 @@ public class OpenSceneController {
         try {
             FXMLLoader loader = new FXMLLoader(getClass().getResource("HighScore.fxml"));
             Parent parent = loader.load();
-            ((HighScoreController) loader.getController()).setModel(model);
+            HighScoreController controller = loader.getController();
+            controller.setModel(model);
+            //((HighScoreController) loader.getController()).setModel(model);
             //loader.<HighScoreController>getController().setModel(model);
             Scene scene = new Scene(parent);
             Stage window = (Stage) ((Node) event.getSource()).getScene().getWindow();
@@ -100,7 +102,9 @@ public class OpenSceneController {
     void handlePlayButton(ActionEvent event) throws IOException {
         FXMLLoader loader = new FXMLLoader(getClass().getResource("Pong.fxml"));
         Parent parent = loader.load();
-        ((PongController) loader.getController()).setModel(model);
+        PongController controller = loader.getController();
+        controller.setModel(model);
+        //((PongController) loader.getController()).setModel(model);
         Scene scene = new Scene(parent);
         Stage window = (Stage) ((Node) event.getSource()).getScene().getWindow();
         scene.setCursor(Cursor.NONE);
@@ -113,11 +117,12 @@ public class OpenSceneController {
 
     @FXML
     private void initialize() throws IOException {
+        /*
         FXMLLoader loader = new FXMLLoader();
         loader.setLocation(getClass().getResource("Pong.fxml"));
         Parent parent = loader.load();
         loader.<PongController>getController().setModel(model);
-
+        */
         tr = new FillTransition(Duration.millis(1000), text, Color.RED, Color.ORANGE);
         tr2 = new FillTransition(Duration.millis(1000), text, Color.ORANGE, Color.YELLOW);
         tr3 = new FillTransition(Duration.millis(1000), text, Color.YELLOW, Color.SPRINGGREEN);

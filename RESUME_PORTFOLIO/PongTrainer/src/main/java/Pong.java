@@ -14,7 +14,9 @@ public class Pong extends Application {
         HighScoreModel model = new HighScoreModel(0, 0);
         FXMLLoader loader = new FXMLLoader(getClass().getResource("OpenScene.fxml"));
         Parent root = loader.load();
-        ((OpenSceneController) loader.getController()).setModel(model);
+        OpenSceneController controller = loader.getController();
+        controller.setModel(model);
+        //((OpenSceneController) loader.getController()).setModel(model);
         //loader.<OpenSceneController>getController().setModel(model);
         Scene scene = new Scene(root);
         stage.setScene(scene);

@@ -102,7 +102,9 @@ public class PongController {
                 FXMLLoader loader = new FXMLLoader();
                 loader.setLocation(getClass().getResource("OpenScene.fxml"));
                 Parent parent = loader.load();
-                ((OpenSceneController) loader.getController()).setModel(model);
+                OpenSceneController controller = loader.getController();
+                controller.setModel(model);
+                //((OpenSceneController) loader.getController()).setModel(model);
                 //loader.<OpenSceneController>getController().setModel(model);
                 Scene scene = new Scene(parent);
                 System.out.println(event.getSource());
@@ -146,6 +148,7 @@ public class PongController {
 
     @FXML
     private void initialize() {
+        //model.setScore(0);
         Platform.runLater(() -> model.setScore(0));
         timeline = new Timeline(new KeyFrame(Duration.millis(20),
                 this::handleBall));

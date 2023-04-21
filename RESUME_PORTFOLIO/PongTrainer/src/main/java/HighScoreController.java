@@ -50,9 +50,11 @@ public class HighScoreController {
             FXMLLoader loader = new FXMLLoader();
             loader.setLocation(getClass().getResource("OpenScene.fxml"));
             Parent parent = loader.load();
-            ((OpenSceneController) loader.getController()).setModel(model);
+            OpenSceneController controller = loader.getController();
+            controller.setModel(model);
+            //((OpenSceneController) loader.getController()).setModel(model);
             Scene scene = new Scene(parent);
-            Stage window = (Stage) ((Node) event.getSource()).getScene().getWindow();
+            Stage window = (Stage)((Node) event.getSource()).getScene().getWindow();
             window.setScene(scene);
             window.show();
             double x = bounds.getMinX() + (bounds.getWidth() - scene.getWidth()) * 0.5;
