@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6885d696-f393-4b17-a31f-0b82a3d0c21f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PongTrainer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_sdk_19_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HighScore.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HighScoreController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HighScoreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HighScoreModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HighScoreModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OpenScene.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OpenSceneController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OpenSceneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pong.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PongController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PongController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PongController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/HighScore.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/HighScoreController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/HighScoreModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/OpenScene.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/OpenSceneController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/Pong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/Pong.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/PongController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/out/production/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HighScoreController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HighScoreModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OpenSceneController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PongController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebView/WebView.gpj" beforeDir="false" afterPath="$PROJECT_DIR$/../WebView/WebView.gpj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SWrvQoFrLA4b408yM4MEMS0bOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.other",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Pong" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19/Contents/Home" />
+      <option name="MAIN_CLASS_NAME" value="Pong" />
+      <module name="PongTrainer" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Downloads/javafx-sdk-19.0.2.1/lib --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.media,javafx.swing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6885d696-f393-4b17-a31f-0b82a3d0c21f" name="Changes" comment="" />
+      <created>1689273409293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689273409293</updated>
+      <workItem from="1689273410685" duration="249000" />
+      <workItem from="1689273796794" duration="1080000" />
+      <workItem from="1689274927462" duration="376000" />
+      <workItem from="1689275577984" duration="455000" />
+      <workItem from="1689276122392" duration="526000" />
+      <workItem from="1689276882753" duration="667000" />
+      <workItem from="1689277873748" duration="43000" />
+      <workItem from="1689277925312" duration="1309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

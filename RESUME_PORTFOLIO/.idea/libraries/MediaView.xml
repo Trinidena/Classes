@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MediaView">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MediaView/MediaView.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MediaView/MediaView.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
