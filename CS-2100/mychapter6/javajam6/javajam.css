@@ -1,0 +1,158 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #fcebb6;
+	color: #221811;
+	font-family: Tahoma, Arial, sans-serif;
+	background-image: url(fadedroad50.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#wrapper {
+	background-color: #231814;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	min-width: 900px;
+	max-width: 1280px;
+	box-shadow: 5px 5px 5px #000000;
+	padding: 0;
+}
+header {
+	background-color: #d2b48c;
+	color: #231814;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-image: url(coffeelogo.jpg);
+	background-repeat: no-repeat;
+	padding-left: 240px;
+}
+header a:link {
+	text-decoration: none;
+	color: #231814;
+}
+header a:visited {
+	text-decoration: none;
+	color: #231814;
+}
+header a:hover {
+	color: #fef6c2;
+}
+h1 {
+	font-size: 3em;
+}
+h2 {
+	color: #8c3826;
+	padding-left: 3em;
+	padding-right: 2em;
+}
+h3 {
+	color: #8c3826;
+	padding-left: 3em;
+	padding-right: 2em;
+}
+dt {
+	color: #8c3826;
+}
+h4 {
+	background-color: #d2b48c;
+	font-size: 1em;
+	padding-left: 0.5em;
+	padding-bottom: 0.25em;
+	padding-left: 3em;
+	padding-right: 2em;
+	text-transform: uppercase;
+	border-bottom: black solid 4px;
+	padding-bottom: 0;
+	clear: left;
+}
+main {
+	margin-left: 200px;
+	display: block;
+	background-color: #fef6c2;
+	overflow: auto;
+}
+p {
+	padding-left: 3em;
+	padding-right: 2em;
+}
+div {
+	padding-left: 3em;
+	padding-right: 2em;
+}
+ul {
+	padding-left: 3em;
+	padding-right: 2em;
+}
+dl {
+	padding-left: 3em;
+	padding-right: 2em;
+}
+nav {
+	font-weight: bold;
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	float: left;
+	width: 200px;
+}
+nav a {
+	text-decoration: none;
+}
+nav a:link {
+	color: #fef6c2;
+}
+nav a:visited {
+	color: #d2b48c;
+}
+nav a:hover {
+	color: #cc9933;
+}
+nav ul {
+	text-decoration: none;
+	padding-left: none;
+}
+.details {
+	padding-left: 20%;
+	padding-right: 20%;
+	overflow: auto;
+}
+.onethird {
+	float: left;
+	width: 33%;
+}
+.floatleft {
+	float: left;
+	padding: 0 2em 2em 0;
+}
+img {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#homehero {
+	height: 300px;
+	background-image: url(hero.jpg);
+	background-size: 100%;
+}
+#heromugs {
+	height: 300px;
+	background-image: url(heromugs.jpg);
+	background-size: 100%;
+}
+#heroguitar {
+	height: 300px;
+	background-image: url(heroguitar.jpg);
+	background-size: 100% 100%;
+}
+footer {
+	background-color: #d2b48c;
+	font-size: 0.6em;
+	font-style: italic;
+	text-align: center;
+	padding: 1em;
+	border-top: 2px solid #8c3826;
+}
