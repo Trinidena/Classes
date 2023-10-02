@@ -1,0 +1,280 @@
+{
+	"title": "Diversity, Equity, and Inclusion in PSC",
+	"focusFirstQuestionAutomatic": false,
+	"pages": [
+		{
+			"name": "page1",
+			"elements": [
+				{
+					"type": "html",
+					"name": "SURVEY_INSTRUCTIONS",
+					"html": "<h1>Diversity, Equity, and Inclusion in PSC</h1>\n\n<b>Purpose</b>: PSC Partners mission is to drive research to identify treatments and a cure for PSC while providing education and support for those impacted by this rare disease. PSC affects patients of all backgrounds. The impact of the disease and barriers of care in a diverse population are not well known. Your participation in this survey helps researchers identify potential barriers of care and\u000b understand how characteristics like age, race, ethnicity, disability, gender, and sexual orientation may affect an individual's PSC experience, including reactions to medications. Promoting the inclusion of diverse patients in PSC research and clinical trials moves us towards discovering the right treatment for the right patient, which can benefit everyone with PSC.\n<br><br>\n<b>Instructions</b>: The survey will take you about 20 minutes to complete. It is important that you complete all the questions and that you also complete or update the <b>Clinical Survey v3</b> at this time in order for the DEI data collection to be complete. Some necessary data will be collected from questions already implemented in the <b>Clinical Survey v3</b>, hence responses from the same point in time are needed. \n<br><br>\nYour privacy is of the utmost importance. This survey has been approved by the Institutional Review Board (IRB) for the purpose of protecting patients' rights. As with all information provided within the Registry only de-identified data ever leaves the Registry. Please note that questions asking about sensitive information contain a \"prefer to not respond\" option.\n<br><br>\nThis survey can be completed by a PSC patient or a caregiver on behalf of the PSC patient. In this survey, the PSC patient is referred to as the “participant.” "
+				}
+			]
+		},
+		{
+			"name": "page2",
+			"elements": [
+				{
+					"type": "radiogroup",
+					"name": "DEI_1",
+					"title": "Has the DEI in PSC survey ever been completed for this participant before?",
+					"description": "If you do complete this on behalf of an individual other than yourself, please be sure to inform the PSC patient to avoid duplication of data.",
+					"isRequired": true,
+					"Export Column Name": "FIRST_TIME",
+					"Export Column Order": 5,
+					"IsNotPull-ForwardEligible": true,
+					"Analyze Question Group/Name": "DEI Survey Completion",
+					"choices": [
+						{
+							"value": "1",
+							"text": "Yes, this survey has been completed previously for this participant"
+						},
+						{
+							"value": "0",
+							"text": "No, this survey has NOT previously been completed for this participant"
+						},
+						{
+							"value": "999",
+							"text": "Not sure  "
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "page3",
+			"elements": [
+				{
+					"type": "radiogroup",
+					"name": "DEI_2",
+					"title": "The participant identifies as:",
+					"isRequired": true,
+					"Export Column Name": "IDENTITY",
+					"Export Column Order": 10,
+					"Analyze Question Group/Name": "Demographics",
+					"choices": [
+						{
+							"value": "1",
+							"text": "Male"
+						},
+						{
+							"value": "2",
+							"text": "Female"
+						},
+						{
+							"value": "3",
+							"text": "Non-binary"
+						},
+						{
+							"value": "4",
+							"text": "Transgender Male"
+						},
+						{
+							"value": "5",
+							"text": "Transgender Female"
+						},
+						{
+							"value": "888",
+							"text": "Prefer not to answer"
+						},
+						{
+							"value": "7",
+							"text": "Other"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"name": "DEI_2_OTHER",
+					"visibleIf": "{DEI_2} = 7",
+					"title": "Please specify \"Other\":",
+					"isRequired": true,
+					"Export Column Name": "IDENTITY_OTHER_VAL",
+					"Export Column Order": 15,
+					"Pii flag": true,
+					"IsNotAnalyze-Able?": true,
+					"Analyze Question Group/Name": "Demographics"
+				},
+				{
+					"type": "radiogroup",
+					"name": "DEI_3",
+					"title": "What is the participant’s sexual orientation?",
+					"isRequired": true,
+					"Export Column Name": "ORIENTATION",
+					"Export Column Order": 20,
+					"Analyze Question Group/Name": "Demographics",
+					"choices": [
+						{
+							"value": "1",
+							"text": "Heterosexual"
+						},
+						{
+							"value": "2",
+							"text": "Gay"
+						},
+						{
+							"value": "3",
+							"text": "Lesbian"
+						},
+						{
+							"value": "4",
+							"text": "Bisexual"
+						},
+						{
+							"value": "888",
+							"text": "Prefer not to answer"
+						},
+						{
+							"value": "6",
+							"text": "Other"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"name": "DEI_3_OTHER",
+					"visibleIf": "{DEI_3} = 6",
+					"title": "Please specify \"Other\":",
+					"isRequired": true,
+					"Export Column Name": "ORIENTATION_OTHER_VAL",
+					"Export Column Order": 25,
+					"Pii flag": true,
+					"IsNotAnalyze-Able?": true,
+					"Analyze Question Group/Name": "Demographics"
+				},
+				{
+					"type": "radiogroup",
+					"name": "DEI_4",
+					"title": "What ethnicity best describes the participant? (Select ALL that apply)",
+					"isRequired": true,
+					"Export Column Name": "ETHNICITY",
+					"Export Column Order": 30,
+					"Analyze Question Group/Name": "Demographics",
+					"choices": [
+						{
+							"value": "1",
+							"text": "Hispanic Latino"
+						},
+						{
+							"value": "2",
+							"text": "Hispanic Non-Latino"
+						},
+						{
+							"value": "3",
+							"text": "Non-Hispanic Latino"
+						},
+						{
+							"value": "4",
+							"text": "Non-Hispanic and Non-Latino"
+						},
+						{
+							"value": "888",
+							"text": "Prefer not to answer"
+						}
+					]
+				},
+				{
+					"type": "radiogroup",
+					"name": "DEI_5",
+					"title": "What is the participant's preferred language for communication?",
+					"description": "Please enter preferred language if not English.",
+					"isRequired": true,
+					"Export Column Name": "LANGUAGE",
+					"Export Column Order": 35,
+					"Analyze Question Group/Name": "Demographics",
+					"choices": [
+						{
+							"value": "1",
+							"text": "English"
+						},
+						{
+							"value": "2",
+							"text": "Other"
+						}
+					]
+				},
+				{
+					"type": "text",
+					"name": "DEI_5_OTHER",
+					"visibleIf": "{DEI_5} = 2",
+					"title": "Please specify \"Other\":",
+					"isRequired": true,
+					"Export Column Name": "LANGUAGE_OTHER_VAL",
+					"Export Column Order": 40,
+					"Pii flag": true,
+					"IsNotAnalyze-Able?": true,
+					"Analyze Question Group/Name": "Demographics"
+				}
+			],
+			"title": "Demographics"
+		},
+		{
+			"name": "page4",
+			"elements": [
+				{
+					"type": "radiogroup",
+					"name": "DEI_6",
+					"title": "What is the participant’s annual household income in US Dollars?",
+					"isRequired": true,
+					"Export Column Name": "HH_INCOME",
+					"Export Column Order": 45,
+					"Analyze Question Group/Name": "Work, Education and Income",
+					"choices": [
+						{
+							"value": "1",
+							"text": "Less than $50,000"
+						},
+						{
+							"value": "2",
+							"text": "$50,000 - $99,999"
+						},
+						{
+							"value": "3",
+							"text": "$100,000 - 199,999"
+						},
+						{
+							"value": "4",
+							"text": "$200,000 - $350,000"
+						},
+						{
+							"value": "5",
+							"text": "Greater than $350,000"
+						},
+						{
+							"value": "888",
+							"text": "Prefer not to answer"
+						}
+					]
+				},
+				{
+					"type": "panel",
+					"name": "panel1",
+					"elements": [
+						{
+							"type": "checkbox",
+							"name": "If the participant is not currently working full-time, please mark the reason: (Select ALL that apply)",
+							"title": "If the participant is not currently working full-time, please mark the reason: (Select ALL that apply)",
+							"Analyze Question Group/Name": "Work, Education and Income",
+							"choices": [
+								{
+									"value": "1",
+									"text": "Does not apply, participant is regularly working full time",
+									"Export Column Name": "EMPLOY_1_FULLTIME",
+									"Export Column Order": 50
+								},
+								{
+									"value": "item3",
+									"text": "Full-time student or in a training program",
+									"Export Column Order": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"title": "Work, Education and Income"
+		}
+	],
+	"showQuestionNumbers": "off"
+}
