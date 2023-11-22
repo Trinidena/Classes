@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>JavaScript Resources</title>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+	</head>
+	<body>
+		<h1>jQuery Plugin Example</h1>
+		<a href="http://scrollmagic.io/docs/">documentation</a>
+		<h1>This plugin allows you to pin elements to remain visible on screen</h1>
+		<img id="image" src="coffeelogo.jpg" />
+		<script>
+			// init controller
+			var controller = new ScrollMagic.Controller();
+
+			// create a scene
+			new ScrollMagic.Scene({
+				duration: 10000, // the scene should last for a scroll distance of 100px
+				offset: 50, // start this scene after scrolling for 50px
+			})
+				.setPin("#image") // pins the element for the the scene's duration
+				.addTo(controller); // assign the scene to the controller
+		</script>
+		<h1>
+			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate aut,
+			quod, eum fugiat pariatur voluptatum ipsum architecto maiores eligendi
+			repellendus autem cum recusandae odio placeat soluta velit, optio minima
+			iste. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et tempora
+			excepturi vero culpa delectus nulla eius, ea quasi accusantium, ipsa alias
+			a. Dignissimos perferendis mollitia totam laborum doloremque quidem nobis?
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa dolore ab
+			iure cupiditate animi mollitia ipsum. Nisi et, doloribus iste minus illo
+			sapiente sequi, hic consequuntur nobis molestias, reiciendis explicabo.
+			Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores mollitia
+			deserunt, quia tempora hic minus eius sunt aspernatur! Possimus modi eius
+			praesentium maiores dolorem recusandae sequi obcaecati nihil maxime.
+			Consequatur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
+			neque quasi, similique dolore, eaque ipsum atque voluptatem inventore
+			mollitia quos vel debitis beatae porro esse, nesciunt illum in totam
+			aperiam! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error
+			labore necessitatibus, odio aspernatur voluptatum nostrum delectus quasi.
+			Quaerat, quasi distinctio. Animi nostrum odit repellendus impedit sequi
+			fugiat, quod minima aliquid. Lorem ipsum dolor sit amet consectetur
+			adipisicing elit. Enim quod repudiandae, placeat natus quis suscipit,
+			dolore, doloremque qui quam unde repellendus? Magnam unde ea ipsa ratione,
+			architecto perspiciatis numquam provident! Lorem, ipsum dolor sit amet
+			consectetur adipisicing elit. Iusto, at, eum itaque explicabo commodi
+			adipisci odit voluptatem minima repellendus temporibus dignissimos,
+			assumenda laudantium! Numquam repudiandae sapiente maxime ab illo
+			obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+			Inventore officia magnam, dolore velit labore quo quia, odio sit
+			praesentium qui dolores reprehenderit neque sapiente nemo corporis tempora
+			iure nam id! Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+			Aut, dolore? A voluptate natus, autem et saepe aperiam maxime quaerat
+			cupiditate totam sequi eum mollitia id veniam nobis placeat itaque
+			possimus. Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+			Cupiditate aut, quod, eum fugiat pariatur voluptatum ipsum architecto
+			maiores eligendi repellendus autem cum recusandae odio placeat soluta
+			velit, optio minima iste. Lorem, ipsum dolor sit amet consectetur
+			adipisicing elit. Et tempora excepturi vero culpa delectus nulla eius, ea
+			quasi accusantium, ipsa alias a. Dignissimos perferendis mollitia totam
+			laborum doloremque quidem nobis? Lorem ipsum dolor sit amet consectetur
+			adipisicing elit. Culpa dolore ab iure cupiditate animi mollitia ipsum.
+			Nisi et, doloribus iste minus illo sapiente sequi, hic consequuntur nobis
+			molestias, reiciendis explicabo. Lorem ipsum dolor sit amet consectetur,
+			adipisicing elit. Maiores mollitia deserunt, quia tempora hic minus eius
+			sunt aspernatur! Possimus modi eius praesentium maiores dolorem recusandae
+			sequi obcaecati nihil maxime. Consequatur. Lorem ipsum dolor sit amet
+			consectetur adipisicing elit. Quod neque quasi, similique dolore, eaque
+			ipsum atque voluptatem inventore mollitia quos vel debitis beatae porro
+			esse, nesciunt illum in totam aperiam! Lorem ipsum dolor sit, amet
+			consectetur adipisicing elit. Error labore necessitatibus, odio aspernatur
+			voluptatum nostrum delectus quasi. Quaerat, quasi distinctio. Animi
+			nostrum odit repellendus impedit sequi fugiat, quod minima aliquid. Lorem
+			ipsum dolor sit amet consectetur adipisicing elit. Enim quod repudiandae,
+			placeat natus quis suscipit, dolore, doloremque qui quam unde repellendus?
+			Magnam unde ea ipsa ratione, architecto perspiciatis numquam provident!
+			Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, at, eum
+			itaque explicabo commodi adipisci odit voluptatem minima repellendus
+			temporibus dignissimos, assumenda laudantium! Numquam repudiandae sapiente
+			maxime ab illo obcaecati. Lorem ipsum dolor sit amet consectetur
+			adipisicing elit. Inventore officia magnam, dolore velit labore quo quia,
+			odio sit praesentium qui dolores reprehenderit neque sapiente nemo
+			corporis tempora iure nam id! Lorem ipsum dolor sit amet consectetur,
+			adipisicing elit. Aut, dolore? A voluptate natus, autem et saepe aperiam
+			maxime quaerat cupiditate totam sequi eum mollitia id veniam nobis placeat
+			itaque possimus. Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+			Cupiditate aut, quod, eum fugiat pariatur voluptatum ipsum architecto
+			maiores eligendi repellendus autem cum recusandae odio placeat soluta
+			velit, optio minima iste. Lorem, ipsum dolor sit amet consectetur
+			adipisicing elit. Et tempora excepturi vero culpa delectus nulla eius, ea
+			quasi accusantium, ipsa alias a. Dignissimos perferendis mollitia totam
+			laborum doloremque quidem nobis? Lorem ipsum dolor sit amet consectetur
+			adipisicing elit. Culpa dolore ab iure cupiditate animi mollitia ipsum.
+			Nisi et, doloribus iste minus illo sapiente sequi, hic consequuntur nobis
+			molestias, reiciendis explicabo. Lorem ipsum dolor sit amet consectetur,
+			adipisicing elit. Maiores mollitia deserunt, quia tempora hic minus eius
+			sunt aspernatur! Possimus modi eius praesentium maiores dolorem recusandae
+			sequi obcaecati nihil maxime. Consequatur. Lorem ipsum dolor sit amet
+			consectetur adipisicing elit. Quod neque quasi, similique dolore, eaque
+			ipsum atque voluptatem inventore mollitia quos vel debitis beatae porro
+			esse, nesciunt illum in totam aperiam! Lorem ipsum dolor sit, amet
+			consectetur adipisicing elit. Error labore necessitatibus, odio aspernatur
+			voluptatum nostrum delectus quasi. Quaerat, quasi distinctio. Animi
+			nostrum odit repellendus impedit sequi fugiat, quod minima aliquid. Lorem
+			ipsum dolor sit amet consectetur adipisicing elit. Enim quod repudiandae,
+			placeat natus quis suscipit, dolore, doloremque qui quam unde repellendus?
+			Magnam unde ea ipsa ratione, architecto perspiciatis numquam provident!
+			Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, at, eum
+			itaque explicabo commodi adipisci odit voluptatem minima repellendus
+			temporibus dignissimos, assumenda laudantium! Numquam repudiandae sapiente
+			maxime ab illo obcaecati. Lorem ipsum dolor sit amet consectetur
+			adipisicing elit. Inventore officia magnam, dolore velit labore quo quia,
+			odio sit praesentium qui dolores reprehenderit neque sapiente nemo
+			corporis tempora iure nam id! Lorem ipsum dolor sit amet consectetur,
+			adipisicing elit. Aut, dolore? A voluptate natus, autem et saepe aperiam
+			maxime quaerat cupiditate totam sequi eum mollitia id veniam nobis placeat
+			itaque possimus.
+		</h1>
+	</body>
+</html>
